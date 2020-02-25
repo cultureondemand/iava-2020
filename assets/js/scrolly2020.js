@@ -7349,16 +7349,28 @@ drawStackChart(data_officer);
 ////////drawPieChart(dummydata_branch);
 /////drawPieChart(dummydata_officer);
 drawHBarChart(data_l);
+
+///
+//// 2019 stack charts
+/*
 drawStackChart(data_m);
 drawStackChart(data_n);
 drawStackChart(data_o);
+*/
+/////
+////
+
+drawHBarChart(data_m);
+drawHBarChart(data_n);
+drawHBarChart(data_o);
+
 drawStackChart(data_p);
 drawStackChart(data_pp);
 startnumerosA(numero_natg);
 drawHBarChart(data_milserve_separate);
 drawStackChart(data_discharge);
 ////////////startnumerosA(numero_member);
-drawStackChart(data_interact);
+drawHBarChart(data_interact);
 drawHBarChart(data_interact_how);
 
 /////////
@@ -7401,7 +7413,7 @@ drawStackChart(data_orientation);
 
 
 
-startnumerosA(numero_impact);
+startnumerosA(numero_vote_reg);
 startnumerosC(numero_considered);
 startnumerosB(data_planning);
 
@@ -7429,7 +7441,7 @@ drawStackChart(data_vet_impact);
 
 ///////
 //// taken out in 2020
-////////drawHBarChart(data_party);
+ drawHBarChart(data_party);
 ////
 /////
 //////
@@ -8149,11 +8161,14 @@ drawStackChart(data_officer,"svg2");
 
 changeHBarChart(data_l,"svg3");
 
-drawStackChart(data_m,"svg4");
+changeHBarChart(data_m,"svg4");
 
-drawStackChart(data_n,"svg5");
+changeHBarChart(data_n,"svg5");
 
-drawStackChart(data_o,"svg6");
+changeHBarChart(data_o,"svg6");
+
+
+
 
 drawStackChart(data_p,"svg7");
 
@@ -8169,7 +8184,7 @@ drawStackChart(data_discharge,"svg11");
 ///////// removed
 /////////////////////// startnumerosA(numero_member,"svg12");
 
-drawStackChart(data_interact,"svg12");
+changeHBarChart(data_interact,"svg12");
 
 changeHBarChart(data_interact_how,"svg13");
 
@@ -8226,7 +8241,7 @@ iii=25;
 
 
 
-startnumerosB(numero_impact,"svg25");
+startnumerosB(numero_vote_reg,"svg25");
 startnumerosA(numero_considered,"svg26");
 startnumerosC(data_planning,"svg27");
 
@@ -9213,7 +9228,7 @@ drawStackChart(data_discharge,"svg11");
 ///////// removed
 /////////////////////// startnumerosA(numero_member,"svg12");
 
-drawStackChart(data_interact,"svg12");
+changeHBarChart(data_interact,"svg12");
 
 changeHBarChart(data_interact_how,"svg13");
 

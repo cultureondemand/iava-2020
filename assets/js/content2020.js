@@ -172,6 +172,133 @@ Founder and CEO
   
 
   {
+    section: "// Demographics",
+    header: "",
+    bkgImage: {
+      small: "IMG_4590.JPG",
+      medium: "IMG_4590.JPG",
+      large: "IMG_4590.JPG"
+    },
+    body: `
+
+ 
+ 
+
+ 
+  
+   
+
+ 
+ 
+ 
+<h5>Gender</h5>
+ <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg14" height="75"></svg></div>
+<div id="legendrow14" class="legendrow">
+</div>
+  <br />
+
+ 
+   
+<h5>Ethnicity</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg21" height="500"></svg></div>
+
+  <br />
+
+ 
+
+<h5>Religious Affiliation</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg23" height="500"></svg></div>
+
+  <br />
+
+ 
+ 
+
+<div class="donut">
+<h5>Age</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg15" width="310" height="396">
+ 
+</svg>
+
+
+
+</div>
+
+
+<div class="donut">
+<h5>Community</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" width="310" height="396"></svg>    
+</div>
+
+ <br />
+ 
+
+
+<div class="donut">
+<h5>Marital Status</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg19" width="310" height="396"></svg>    
+</div>
+
+
+<div class="donut">
+<h5>Children</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg20" width="310" height="396"></svg>    
+</div>
+
+<br />
+
+ 
+ 
+
+<h5 style="display:none !important; ">Political Party Affiliation</h5>
+<div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg22" height="500"></svg></div>
+
+  <br />
+
+
+
+<h5>Education</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg18" height="500"></svg></div>
+ <br />
+ 
+
+
+  
+<h5>Household Income</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg17" height="500"></svg></div>
+ 
+  <br />
+
+
+ <h5 style="display:none !important; ">Sexual Orientation</h5>
+ <div class="barlabel" style="display:none !important; "></div>
+ <div style="display:none !important;width:100%; ">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg24" height="75"></svg></div>
+<div id="legendrow24" class="legendrow" style="display:none !important; ">
+</div>
+  <br />
+ 
+<br /><br /> 
+ 
+ `
+
+   },
+ 
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+  {
     section: "// Profile of an IAVA Member",
     header: "IAVA members served around the world, from Iraq and Afghanistan to Bahrain, Syria, Kuwait and other locations globally. They’ve deployed in every major combat operation since 9/11 and continue to serve at home, through community and veteran service organizations.",
     bkgImage: {
@@ -213,31 +340,38 @@ Founder and CEO
 
  
 
-<h5>Where have you served on Active Duty?</h5>
+<h5 style="display:none !important; ">Where have you served on Active Duty?</h5>
 
- <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg3" height="500"></svg></div>
+ <div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg3" height="500"></svg></div>
  
  <br />
+
+
+
+
+
+
+
  <h5>Number of Deployments</h5>
 
-<div class="barlabel">Afghanistan</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg4" height="75"></svg></div>
-<div id="legendrow4" class="legendrow">
+<div class="barlabel">Afghanistan</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg4" height="500"></svg></div>
+<div id="legendrow4" class="legendrow" style="display:none !important; ">
 </div>
 
-<div class="barlabel">Iraqi</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg5" height="75"></svg></div>
-<div id="legendrow5" class="legendrow">
+<div class="barlabel">Iraq</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg5" height="500"></svg></div>
+<div id="legendrow5" class="legendrow" style="display:none !important; ">
 </div>
 
-<div class="barlabel">Other Combat Areas</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg6" height="75"></svg></div>
-<div id="legendrow6" class="legendrow">
+<div class="barlabel">Other Combat Areas</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg6" height="500"></svg></div>
+<div id="legendrow6" class="legendrow" style="display:none !important; ">
 </div>
 
  <div class="barlabel" style="display:none !important; ">Resolute Support (ORS)</div><div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="75"></svg></div>
-<div id="legendrow7" class="legendrow">
+<div id="legendrow7" class="legendrow" style="display:none !important; ">
 </div>
 
  <div class="barlabel" style="display:none !important; ">Inherent Resolve (OIR)</div><div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg8" height="75"></svg></div>
-<div id="legendrow8" class="legendrow">
+<div id="legendrow8" class="legendrow" style="display:none !important; ">
 </div>
 
 
@@ -276,9 +410,9 @@ Founder and CEO
 
  
 <h5>How important is it for you to interact regularly with other veterans and military service members?</h5>
- <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg12" height="75"></svg></div>
-<div id="legendrow12" class="legendrow">
+ <div class="barlabel" style="display:none !important; "></div>
+ <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg12" height="500"></svg></div>
+<div id="legendrow12" class="legendrow" style="display:none !important; ">
 </div>
   <br />
   
@@ -297,105 +431,18 @@ Founder and CEO
   
    
 
- 
- 
- 
-<h5>Gender</h5>
- <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg14" height="75"></svg></div>
-<div id="legendrow14" class="legendrow">
-</div>
-  <br />
-
- 
-   
-
- 
-
-<div class="donut">
-<h5>Age</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg15" width="310" height="396">
- 
-</svg>
-
-
-
-</div>
-
-
-<div class="donut">
-<h5>Community</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" width="310" height="396"></svg>    
-</div>
-
- <br />
- 
-
-<h5>Household Income</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg17" height="500"></svg></div>
- 
-  <br />
-
-
-<h5>Education</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg18" height="500"></svg></div>
- <br />
- 
-
-<div class="donut">
-<h5>Marital Status</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg19" width="310" height="396"></svg>    
-</div>
-
-
-<div class="donut">
-<h5>Children</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg20" width="310" height="396"></svg>    
-</div>
-
-<br />
-
-<h5>Ethnicity</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg21" height="500"></svg></div>
-
-  <br />
-
- 
- 
- 
-
-<h5>Political Party Affiliation</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg22" height="500"></svg></div>
-
-  <br />
-
-
-
-
-<h5>Religious Affiliation</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg23" height="500"></svg></div>
-
-  <br />
-
- 
   
-
- 
-<h5>Sexual Orientation</h5>
- <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg24" height="75"></svg></div>
-<div id="legendrow24" class="legendrow">
-</div>
-  <br />
-
-
-<br /><br /> 
  
  `
 
    },
  
   
+
+
+
+
+
   {
     section: "// POLITICAL ENGAGEMENT",
    icon: "",
@@ -427,7 +474,7 @@ Founder and CEO
 
 <div class="numerosC">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg27" width="260" height="150"></svg>
-<div class="numerosC-words">definitely planned on voting in 2020 Elections.*</div>
+<div class="numerosC-words">definitely planned on voting in 2020 Elections.</div>
 </div>
 
   
@@ -436,7 +483,7 @@ Founder and CEO
  
  
 <h5>What impact do you think having more veterans in Congress would have on the ability of Congress to address national issues?</h5>
- <div class="barlabel" style="display:inline-block; "></div><div style="display:none !important;width:100%; ">
+ <div class="barlabel" style="display:inline-block; "></div><div style="display:inline-block !important;width:100%; ">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg28" height="75"></svg></div>
 <div id="legendrow28" class="legendrow">
 </div>
@@ -479,7 +526,6 @@ Founder and CEO
  <br /><br />
 
  
-* Reflects data collected before November 6, 2018.
 
  <br /><br />
 
@@ -3141,19 +3187,7 @@ believe the American public supports veterans.</div>
     body:`
 
 
-  
- <h5>In all, do you think our engagement in Iraq was worth it, or not?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg193" height="500"></svg></div>
- <br />
 
-
- <h5>In all, do you think our engagement in Afghanistan is worth it, or not?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg194" height="500"></svg></div>
- <br />
-
- 
- 
- 
  
  
 <h5>Please indicate your level of agreement with the following statements:</h5>
@@ -3171,7 +3205,10 @@ believe the American public supports veterans.</div>
 </div>
   <br />
   
-   
+
+ <h5>Under current immigration law, non-citizens may be deported after committing a crime, regardless of veteran status or military service. What is your opinion of this policy?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg199" height="500"></svg></div>
+ <br />   
 
 <div class="numerosB-h">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg197" width="260" height="150"></svg>
@@ -3188,9 +3225,6 @@ Agree with the U.S. Special Immigrant Visa Program for Afghan nationals.</div>
  <br />
 
 
- <h5>Under current immigration law, non-citizens may be deported after committing a crime, regardless of veteran status or military service. What is your opinion of this policy?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg199" height="500"></svg></div>
- <br />
   <br />
  
  
@@ -3211,6 +3245,30 @@ Agree with the U.S. Special Immigrant Visa Program for Afghan nationals.</div>
 <svg xmlns="http://www.w3.org/2000/svg" id="svg201" width="260" height="150"></svg>
 <div class="numerosA-words">know a post-9/11 veteran impacted by this policy.</div>
 </div>
+
+
+
+ 
+<br />
+
+  
+
+  
+ <h5>In all, do you think our engagement in Iraq was worth it, or not?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg193" height="500"></svg></div>
+ <br />
+
+
+ <h5>In all, do you think our engagement in Afghanistan is worth it, or not?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg194" height="500"></svg></div>
+ <br />
+
+ 
+ 
+ 
+
+
+
 
 
  
