@@ -383,6 +383,23 @@ var dummydata_officer = [
 
 var data_l = [
 {a:"Iraq",b:75},
+{a:"Afghanistan",b:39},
+{a:"Other combat areas",b:25}  
+];
+
+var dummydata_l = [
+{a:"Iraq",b:75},
+{a:"Afghanistan",b:39},
+{a:"Other combat areas",b:25}  
+];
+
+
+///////////
+///////
+/*
+
+var data_l = [
+{a:"Iraq",b:75},
 {a:"CONUS",b:59},
 {a:"Kuwait",b:44},
 {a:"Afghanistan",b:39},
@@ -407,7 +424,9 @@ var dummydata_l = [
 {a:"Other",b:25}  
 ];
 
-
+*/
+/////////
+///////
 
  
 /////////////
@@ -416,9 +435,9 @@ var dummydata_l = [
 ////// were you, or are you currently, a member of the National Guard or Reserves
 
 var data_natg = [
-{a:"Currently in Reserve or National Guard Component",b:10},
-{a:"Previously in Reserve or National Guard Component",b:48},
-{a:"Never in Reserve or National Guard Component",b:42}
+{a:"Currently in Reserve or National Guard Component",b:8},
+{a:"Previously in Reserve or National Guard Component",b:53},
+{a:"Never in Reserve or National Guard Component",b:39}
 ];
 
 
@@ -442,14 +461,23 @@ var numero_natg = [58];
 
  
 var data_milserve_separate = [
-{a:"Not separated",b:12},
-{a:"2018",b:2},
-{a:"2017",b:3},
-{a:"2016",b:4},
-{a:"2015",b:4},
+{a:"Not separated",b:10},
+{a:"2018",b:4},
+{a:"2017",b:2},
+{a:"2016",b:3},
+{a:"2015",b:5},
 {a:"2014",b:6},
-{a:"2013",b:6},
-{a:"2012 or Earlier",b:63}
+{a:"2013",b:8},
+{a:"2012",b:8},
+{a:"2011",b:7},
+{a:"2010",b:8},
+{a:"2009",b:8},
+{a:"2008",b:6},
+{a:"2007",b:6},
+{a:"2006",b:6},
+{a:"2005",b:5},
+{a:"2004",b:4},
+{a:"2003 or Earlier",b:5}
 ];
 
 var dummydata_milserve_separate = [
@@ -460,7 +488,16 @@ var dummydata_milserve_separate = [
 {a:"2015",b:14},
 {a:"2014",b:6},
 {a:"2013",b:6},
-{a:"2012 or Earlier",b:13}
+{a:"2012",b:8},
+{a:"2011",b:7},
+{a:"2010",b:8},
+{a:"2009",b:8},
+{a:"2008",b:6},
+{a:"2007",b:6},
+{a:"2006",b:6},
+{a:"2005",b:5},
+{a:"2004",b:4},
+{a:"2003 or Earlier",b:5}
 ];
 
 /*
@@ -522,6 +559,26 @@ var numero_member = [66];
 /////////
 //// important to interact regularly with other veterans
 ///////////
+
+var dummydata_interact = [
+{a:"Very important",b:45},
+{a:"Moderately important",b:45},
+{a:"Not important",b:10}
+];
+
+ 
+var data_interact = [
+{a:"Very important",b:52},
+{a:"Moderately important",b:26},
+{a:"Not important",b:4}
+];
+
+
+
+///////////
+//////// 2018nnumbers
+///////////
+/*
 var dummydata_interact = [
 {a:"Extremely important",b:4},
 {a:"Very important",b:18},
@@ -538,7 +595,7 @@ var data_interact = [
 {a:"Slightly important",b:12},
 {a:"Not at all important",b:4}
 ];
-
+*/
 /////
 //////
 ///////
@@ -553,14 +610,13 @@ var data_interact = [
 ///////////
  
 var data_interact_how = [
-{a:"Social media",b:53},
-{a:"In my daily life",b:48},
-{a:"At work",b:44},
-{a:"Meet-ups",b:28},
+{a:"Social media",b:61},
+{a:"In my daily life",b:47},
+{a:"At work",b:47},
+{a:"Meet-ups",b:30},
 {a:"Calling on the phone",b:28},
-{a:"Social clubs",b:18},
-{a:"Video chats",b:2},
-{a:"Other",b:12}
+{a:"Social clubs or VSOs",b:25},
+{a:"Service Projects",b:18}
 ];
 
 var dummydata_interact_how = [
@@ -569,9 +625,8 @@ var dummydata_interact_how = [
 {a:"At work",b:26},
 {a:"Meet-ups",b:12},
 {a:"Calling on the phone",b:12},
-{a:"Social clubs",b:12},
-{a:"Video chats",b:12},
-{a:"Other",b:4}
+{a:"Social clubs or VSOs",b:12},
+{a:"Service Projects",b:12}
 ];
 
 
@@ -580,7 +635,7 @@ var dummydata_interact_how = [
 ///////
 
 
-var data_milserve_recommend=[{a:"Yes",b:76},{a:"No",b:8},{a:"Unsure",b:16}];
+var data_milserve_recommend=[{a:"Yes",b:77},{a:"No",b:8},{a:"Unsure",b:15}];
 
 var dummydata_milserve_recommend=[{a:"Yes",b:41},{a:"No",b:27},{a:"Unsure",b:18}];
  
@@ -599,6 +654,47 @@ var dummydata_milserve_recommend=[{a:"Yes",b:41},{a:"No",b:27},{a:"Unsure",b:18}
 
 
  
+
+
+
+
+
+var data_m=[{a:"One Deployment",b:51},{a:"Two Deployments",b:18},{a:"Three Deployments",b:5},{a:"Four Deployments",b:1},{a:"Five+ Deployments",b:2}];
+
+var dummydata_m=[{a:"One Deployment",b:55},{a:"Two Deployments",b:21},{a:"Three Deployments",b:6},{a:"Four Deployments",b:6},{a:"Five+ Deployments",b:6}];
+
+
+var data_n=[{a:"Zero Deployments",b:12},{a:"One Deployment",b:57},{a:"Two Deployments",b:24},{a:"Three Deployments",b:5},{a:"Four Deployments",b:1},{a:"Five+ Deployments",b:1}];
+
+var dummydata_n=[{a:"Zero Deployments",b:18},{a:"One Deployment",b:55},{a:"Two Deployments",b:21},{a:"Three Deployments",b:6},{a:"Four Deployments",b:6},{a:"Five+ Deployments",b:6}];
+
+
+
+
+
+
+
+var data_o=[{a:"Zero Deployments",b:78},{a:"One Deployment",b:20},{a:"Two+ Deployments",b:2}];
+
+var dummydata_o=[{a:"Zero Deployments",b:18},{a:"One Deployment",b:55},{a:"Two+ Deployments",b:6}];
+
+
+
+var data_p=[{a:"Zero Deployments",b:95},{a:"One Deployment",b:4},{a:"Two+ Deployments",b:1}];
+
+var dummydata_p=[{a:"Zero Deployments",b:18},{a:"One Deployment",b:55},{a:"Two+ Deployments",b:6}];
+
+
+var data_pp=[{a:"Zero Deployments",b:90},{a:"One Deployment",b:8},{a:"Two+ Deployments",b:2}];
+
+var dummydata_pp=[{a:"Zero Deployments",b:18},{a:"One Deployment",b:55},{a:"Two+ Deployments",b:6}];
+
+
+
+
+
+/*
+
 
 
 
@@ -634,11 +730,6 @@ var data_pp=[{a:"Zero Deployments",b:90},{a:"One Deployment",b:8},{a:"Two+ Deplo
 
 var dummydata_pp=[{a:"Zero Deployments",b:18},{a:"One Deployment",b:55},{a:"Two+ Deployments",b:6}];
 
-
-
-
-
-/*
 
 
 
@@ -697,19 +788,19 @@ var dummydata_milserve_separate = [
 
 
 var data_discharge = [
-{a:"Honorable discharge",b:98},
-{a:"General discharge",b:1},
-{a:"Other than Honorable Discharge",b:0.5},
-{a:"Dishonorable Discharge",b:0.5}
+{a:"Honorable ",b:99},
+{a:"General",b:1},
+{a:"Other than Honorable",b:0.5},
+////////{a:"Dishonorable Discharge",b:0.5}
 ];
 
 
 
 var dummydata_discharge = [
-{a:"Honorable discharge",b:75},
-{a:"General discharge",b:15},
-{a:"Other than Honorable Discharge",b:15},
-{a:"Dishonorable Discharge",b:10}
+{a:"Honorable",b:75},
+{a:"General",b:15},
+{a:"Other than Honorable",b:15},
+/////////{a:"Dishonorable Discharge",b:10}
 ];
 
 
@@ -720,7 +811,7 @@ var dummydata_discharge = [
 
 
 
-var numeros_milserve_recommend = [76];
+var numeros_milserve_recommend = [77];
 
 
 
@@ -742,6 +833,193 @@ var data_k=[{a:"Not separated",b:14},{a:"2015-2017",b:9},{a:"2013-2014",b:14},{a
 var dummydata_k=[{a:"Not separated",b:1},{a:"2015-2017",b:1},{a:"2013-2014",b:1},{a:"2011-2012",b:1},{a:"2009-2010",b:1},{a:"2007-2008",b:1},{a:"2005-2006",b:1},{a:"2003-2004",b:88},{a:"2002 or Earlier",b:1}];
 
  
+
+/////////////
+////////////////
+/////////////////////
+//////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+//////////// civic engagement
+/////////////////////////////////////////////////////
+
+
+////
+////// volunteering on a regular basis
+var numeros_civic_volunteer = [50];
+
+//////
+/////// volunteering more than 5 hours per month
+var numeros_civic_volunteer_more = [28];
+
+
+//////
+///////
+/////////
+//// issues do you focus your volunteer work on
+/////////
+var data_civic_issues = [
+{a:"Serving veterans, active duty servicemembers and their families",b:52},
+{a:"Youth",b:38},
+{a:"Helping older people",b:22},
+{a:"Addressing poverty and homelessness",b:20},
+{a:"Environmental conservation",b:11},
+{a:"Disaster relief",b:11},
+{a:"Other",b:24}
+];
+
+
+var dummydata_civic_issues = [
+{a:"Serving veterans, active duty servicemembers and their families",b:37},
+{a:"Youth",b:33},
+{a:"Helping older people",b:23},
+{a:"Addressing poverty and homelessness",b:5},
+{a:"Environmental conservation",b:.5},
+{a:"Disaster relief",b:.5},
+{a:"Other",b:2}
+];
+
+
+
+
+////
+//////  
+///
+/// support or oppose the impeachment of President Trump
+
+var data_civic_oppose_trump = [
+{a:"Support",b:37},
+{a:"Unsure",b:13},
+{a:"Oppose",b:50}  
+];
+
+
+
+var dummydata_civic_oppose_trump = [
+{a:"Support",b:2},
+{a:"Unsure",b:1},
+{a:"Oppose",b:2} 
+];
+
+
+
+////
+//////  
+///
+
+
+
+
+
+
+////
+//////  
+///
+/// What is your opinion on the deployment of U.S. servicemembers to the border
+
+
+
+var data_civic_border = [
+{a:"Strongly agree",b:31},
+{a:"Somewhat agree",b:19},
+{a:"Neutral",b:9},
+{a:"Somewhat disagree",b:10},
+{a:"Strongly disagree",b:31}
+];
+
+
+
+var dummydata_civic_border = [
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:14},
+{a:"Somewhat disagree",b:1},
+{a:"Strongly disagree",b:28}
+];
+
+
+
+
+
+////
+//////  
+///
+/// military construction funds were diverted to pay for the U.S./Mexico border wall
+
+
+
+var data_civic_wall = [
+{a:"Strongly agree",b:31},
+{a:"Somewhat agree",b:19},
+{a:"Neutral",b:9},
+{a:"Somewhat disagree",b:10},
+{a:"Strongly disagree",b:31}
+];
+
+
+
+var dummydata_civic_wall = [
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:14},
+{a:"Somewhat disagree",b:1},
+{a:"Strongly disagree",b:28}
+];
+
+
+
+
+
+////
+//////  
+///
+///  (Parole in Place) that temporarily protects non-citizen immediate family members of active-duty troops from being deported in one-year increments
+
+
+var data_civic_paroleinplace = [
+{a:"Strongly agree",b:24},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:34},
+{a:"Somewhat disagree",b:5},
+{a:"Strongly disagree",b:5}
+];
+
+
+
+var dummydata_civic_paroleinplace = [
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:14},
+{a:"Somewhat disagree",b:1},
+{a:"Strongly disagree",b:28}
+];
+
+
+       
+
+
+////
+//////  
+///
+///  policy withholds automatic citizenship for children born overseas to non-citizen U.S. servicemembers
+
+
+var data_civic_citizenship = [
+{a:"Strongly agree",b:13},
+{a:"Somewhat agree",b:15},
+{a:"Neutral",b:25},
+{a:"Somewhat disagree",b:18},
+{a:"Strongly disagree",b:30}
+];
+
+
+
+var dummydata_civic_citizenship = [
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:14},
+{a:"Somewhat disagree",b:1},
+{a:"Strongly disagree",b:28}
+];
 
 
 
@@ -790,12 +1068,22 @@ var numero_vote_reg = [97];
 
 
  
-var data_planning = [89];
+var data_planning = [95];
 
  
 //////// var data_planning = [{a:"Definitely yes",b:89},{a:"Probably yes",b:5},{a:"Might or might not",b:3},{a:"Probably not",b:2},{a:"Definitely not",b:1}];
 
+/*
 
+var data_planning = [
+{a:"Definitely yes",b:38},
+{a:"Probably yes",b:17},
+{a:"Might or might not",b:37},
+{a:"Probably not",b:5},
+{a:"Definitely not",b:3}
+];
+
+ 
 
 var dummydata_planning = [
 {a:"Definitely yes",b:38},
@@ -805,7 +1093,7 @@ var dummydata_planning = [
 {a:"Definitely not",b:3}
 ];
 
- 
+ */
 
 ////
 //////  
@@ -848,9 +1136,9 @@ var dummydata_party = [
 /// veteran candidate impact
 
 var data_vet_impact = [
-{a:"Positive impact",b:86},
+{a:"Positive impact",b:87},
 {a:"Neutral impact",b:13},
-{a:"Negative impact",b:1}  
+{a:"Negative impact",b:.5}  
 ];
 
 
@@ -864,7 +1152,7 @@ var dummydata_vet_impact = [
 
 
 
-var numero_impact = [86];
+var numero_impact = [87];
 
 
 
@@ -890,7 +1178,7 @@ var dummydata_running = [
 
 
 
-var numero_considered = [36];
+var numero_considered = [34];
 
 
 
@@ -913,11 +1201,11 @@ var numero_public_supports = [68];
 /// veteran  support
 
 var data_public_support = [
-{a:"Strongly agree",b:23},
-{a:"Somewhat agree",b:45},
-{a:"Neither agree nor disagree",b:17},
-{a:"Somewhat disagree",b:11},
-{a:"Strongly disagree",b:4} 
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:50},
+{a:"Neither agree nor disagree",b:15},
+{a:"Somewhat disagree",b:8},
+{a:"Strongly disagree",b:2} 
 ];
 
 
@@ -935,11 +1223,11 @@ var dummydata_public_support = [
 
 
 var data_employer_support = [
-{a:"Strongly agree",b:8},  
-{a:"Somewhat agree",b:38},
+{a:"Strongly agree",b:9},  
+{a:"Somewhat agree",b:37},
 {a:"Neither agree nor disagree",b:24},
-{a:"Somewhat disagree",b:21},
-{a:"Strongly disagree",b:9} 
+{a:"Somewhat disagree",b:22},
+{a:"Strongly disagree",b:8} 
 ];
 
 
@@ -954,18 +1242,49 @@ var dummydata_employer_support = [
 ];
 
 
+///
+////
 
+
+
+
+
+var data_employer_retain = [
+{a:"Strongly agree",b:6},  
+{a:"Somewhat agree",b:26},
+{a:"Neither agree nor disagree",b:35},
+{a:"Somewhat disagree",b:23},
+{a:"Strongly disagree",b:10} 
+];
+
+
+ 
+
+var dummydata_employer_retain = [
+{a:"Strongly agree",b:13},  
+{a:"Somewhat agree",b:86},
+{a:"Neither agree nor disagree",b:86},
+{a:"Somewhat disagree",b:13},
+{a:"Strongly disagree",b:1} 
+];
+
+
+
+
+
+////
+////
 
 
 
 
 
 var data_congress_support = [
-{a:"Strongly agree",b:2},
-{a:"Somewhat agree",b:23},
-{a:"Neither agree nor disagree",b:22},
-{a:"Somewhat disagree",b:31},
-{a:"Strongly disagree",b:22} 
+{a:"Strongly agree",b:3},
+{a:"Somewhat agree",b:26},
+{a:"Neither agree nor disagree",b:25},
+{a:"Somewhat disagree",b:28},
+{a:"Strongly disagree",b:18} 
 ];
 
 
@@ -987,11 +1306,11 @@ var dummydata_congress_support = [
 
 
 var data_trump_support = [
-{a:"Strongly agree",b:26},
-{a:"Somewhat agree",b:20},
+{a:"Strongly agree",b:35},
+{a:"Somewhat agree",b:19},
 {a:"Neither agree nor disagree",b:12},
-{a:"Somewhat disagree",b:11},
-{a:"Strongly disagree",b:31}
+{a:"Somewhat disagree",b:9},
+{a:"Strongly disagree",b:25}
 ];
 
 
@@ -1015,11 +1334,11 @@ var dummydata_trump_support = [
 
 
 var data_public_understand = [
-{a:"Strongly agree",b:3},
-{a:"Somewhat agree",b:16},
+{a:"Strongly agree",b:4},
+{a:"Somewhat agree",b:19},
 {a:"Neither agree nor disagree",b:14},
-{a:"Somewhat disagree",b:36},
-{a:"Strongly disagree",b:31}
+{a:"Somewhat disagree",b:37},
+{a:"Strongly disagree",b:26}
 ];
 
 
@@ -1114,11 +1433,11 @@ var numero_afghan_visa = [81];
 
 
 var data_citizenship = [
-{a:"Strongly agree",b:72},
-{a:"Somewhat agree",b:21},
-{a:"Neutral",b:4},
-{a:"Somewhat disagree",b:2},
-{a:"Strongly disagree",b:1}
+{a:"Strongly agree",b:26},
+{a:"Somewhat agree",b:24},
+{a:"Neutral",b:11},
+{a:"Somewhat disagree",b:24},
+{a:"Strongly disagree",b:19}
 
 ];
 
@@ -1150,17 +1469,17 @@ var dummydata_deport = [
 
 
 var data_deport = [
-{a:"Strongly agree",b:23},
-{a:"Somewhat agree",b:21},
-{a:"Neutral",b:12},
+{a:"Strongly agree",b:26},
+{a:"Somewhat agree",b:22},
+{a:"Neutral",b:11},
 {a:"Somewhat disagree",b:24},
-{a:"Strongly disagree",b:20}
+{a:"Strongly disagree",b:19}
 ];
 
 
  
 var numero_deport_impacted = [4];
-var numero_deport_know = [11];
+var numero_deport_know = [13];
 
  
 var data_deport_impacted = [
@@ -1200,11 +1519,11 @@ var dummydata_deport_know = [
 /////
 
 var data_iraq_worth = [
-{a:"Not worth it",b:32},
+{a:"Not worth it",b:27},
 {a:"Somewhat not worth it",b:11},
-{a:"Neither worth it nor not worth it",b:10},
-{a:"Somewhat worth it",b:25},
-{a:"Worth it",b:22}
+{a:"Neither worth it nor not worth it",b:13},
+{a:"Somewhat worth it",b:28},
+{a:"Worth it",b:21}
 ];
 
 
@@ -1259,7 +1578,7 @@ var data_selective_women = [
 {a:"Strongly agree",b:50},
 {a:"Somewhat agree",b:23},
 {a:"Neither agree nor disagree",b:12},
-{a:"Somewhat disagree",b:5},
+{a:"Somewhat disagree",b:4},
 {a:"Strongly disagree",b:10}
 ];
 
@@ -1281,11 +1600,11 @@ var dummydata_selective_women = [
 
 
 var data_selective_end = [
-{a:"Strongly agree",b:12},
-{a:"Somewhat agree",b:9},
-{a:"Neither agree nor disagree",b:17},
-{a:"Somewhat disagree",b:19},
-{a:"Strongly disagree",b:43}
+{a:"Strongly agree",b:17},
+{a:"Somewhat agree",b:12},
+{a:"Neither agree nor disagree",b:20},
+{a:"Somewhat disagree",b:18},
+{a:"Strongly disagree",b:33}
 ];
 
 
@@ -1422,6 +1741,7 @@ var dummydata_dadt = [
   ////////////////////////
   ///////////////////////
   //////// firearms
+  /////// gun ownership
   ///////////////////////
   //////////////////
   
@@ -1431,31 +1751,34 @@ var dummydata_dadt = [
 ///////////////
 /////////////
 
-
-var numero_guns = [68];
-
- 
+////
+///// own a personal firearm
+////////
+var numero_guns = [67];
+/////
+//// select your primary method of storage for your firearm
+///////
 var data_guns_storage = [
-{a:"Locked, Unloaded, Ammunition Stored Separately",b:30},
-{a:"Locked and Loaded",b:20},
+{a:"Locked, Unloaded, Ammunition Stored Separately",b:20},
 {a:"Would rather not say",b:20},
-{a:"Unlocked, Unloaded, Ammunition Stored Separately",b:13},
-{a:"Unlocked, Loaded",b:10},
-{a:"Locked, Unloaded, No Ammunition in Home",b:2},
-{a:"Unlocked, Unloaded, No Ammunition in Home",b:1},
-{a:"Other",b:4}
+{a:"Locked, Loaded",b:19},
+{a:"Unlocked, Unloaded, Ammunition Stored Separately",b:14},
+{a:"Locked, Unloaded",b:13},
+{a:"Unlocked, Loaded",b:9},
+{a:"Locked, Unloaded, No Ammunition in Home",b:1},
+{a:"Other",b:2}
 ];
 
 
 
 var dummydata_guns_storage = [
 {a:"Locked, Unloaded, Ammunition Stored Separately",b:30},
-{a:"Locked and Loaded",b:20},
 {a:"Would rather not say",b:20},
+{a:"Locked, Loaded",b:20},
 {a:"Unlocked, Unloaded, Ammunition Stored Separately",b:13},
+{a:"Locked, Unloaded",b:1},
 {a:"Unlocked, Loaded",b:10},
 {a:"Locked, Unloaded, No Ammunition in Home",b:2},
-{a:"Unlocked, Unloaded, No Ammunition in Home",b:1},
 {a:"Other",b:4}
 ];
 
@@ -1469,11 +1792,11 @@ var dummydata_guns_storage = [
 
 
 var data_guns_lockers = [
-{a:"Strongly agree",b:9},
+{a:"Strongly agree",b:8},
 {a:"Somewhat agree",b:12},
 {a:"Neutral",b:22},
 {a:"Somewhat disagree",b:13},
-{a:"Strongly disagree",b:44}
+{a:"Strongly disagree",b:46}
 
 ];
 
@@ -1494,11 +1817,11 @@ var dummydata_guns_lockers = [
 
 
 var data_guns_concealed = [
-{a:"Strongly agree",b:21},
-{a:"Somewhat agree",b:11},
-{a:"Neutral",b:9},
-{a:"Somewhat disagree",b:17},
-{a:"Strongly disagree",b:42}
+{a:"Strongly agree",b:26},
+{a:"Somewhat agree",b:12},
+{a:"Neutral",b:12},
+{a:"Somewhat disagree",b:16},
+{a:"Strongly disagree",b:34}
 
 ];
 
@@ -1516,11 +1839,11 @@ var dummydata_guns_concealed = [
 
 
 var data_guns_assault = [
-{a:"Strongly agree",b:24},
+{a:"Strongly agree",b:22},
 {a:"Somewhat agree",b:10},
 {a:"Neutral",b:12},
-{a:"Somewhat disagree",b:12},
-{a:"Strongly disagree",b:42}
+{a:"Somewhat disagree",b:13},
+{a:"Strongly disagree",b:43}
 
 ];
 
@@ -1540,11 +1863,11 @@ var dummydata_guns_assault = [
 
 
 var data_guns_high = [
-{a:"Strongly agree",b:29},
+{a:"Strongly agree",b:25},
 {a:"Somewhat agree",b:11},
-{a:"Neutral",b:11},
-{a:"Somewhat disagree",b:11},
-{a:"Strongly disagree",b:38}
+{a:"Neutral",b:12},
+{a:"Somewhat disagree",b:12},
+{a:"Strongly disagree",b:40}
 
 ];
 
@@ -1566,10 +1889,10 @@ var dummydata_guns_high = [
 
 var data_guns_wait = [
 {a:"Strongly agree",b:19},
-{a:"Somewhat agree",b:11},
-{a:"Neutral",b:19},
-{a:"Somewhat disagree",b:17},
-{a:"Strongly disagree",b:34}
+{a:"Somewhat agree",b:12},
+{a:"Neutral",b:22},
+{a:"Somewhat disagree",b:18},
+{a:"Strongly disagree",b:29}
 
 ];
 
@@ -1592,11 +1915,11 @@ var dummydata_guns_wait = [
 
 
 var data_guns_trigger = [
-{a:"Strongly agree",b:37},
-{a:"Somewhat agree",b:28},
-{a:"Neutral",b:21},
-{a:"Somewhat disagree",b:4},
-{a:"Strongly disagree",b:10}
+{a:"Strongly agree",b:35},
+{a:"Somewhat agree",b:29},
+{a:"Neutral",b:22},
+{a:"Somewhat disagree",b:5},
+{a:"Strongly disagree",b:9}
 
 ];
 
@@ -1617,11 +1940,11 @@ var dummydata_guns_trigger = [
 
 
 var data_guns_background = [
-{a:"Strongly agree",b:70},
-{a:"Somewhat agree",b:16},
-{a:"Neutral",b:7},
-{a:"Somewhat disagree",b:2},
-{a:"Strongly disagree",b:5}
+{a:"Strongly agree",b:62},
+{a:"Somewhat agree",b:20},
+{a:"Neutral",b:9},
+{a:"Somewhat disagree",b:3},
+{a:"Strongly disagree",b:6}
 
 ];
 
@@ -1638,27 +1961,29 @@ var dummydata_guns_background = [
 
 
  ////
-// //////////  
-//////////////   
+////////////  
+//////////////  
+/////////////////////////////////////// 
 //////////////////////////////
  //////////////
  //////// Transition Experiences
  //////////
-
-
-
+///////////////////////////////////
+///////////////////////////////
+/////////////////////
 ////
 ///////////////
 /////// transition
 
 
-
+//
+/// Did you experience challenges when transitioning out of the military
 
 var data_challenges = [
-{a:"Many",b:39},
+{a:"Many",b:40},
 {a:"Some",b:39},
 {a:"Few",b:15},
-{a:"None",b:7}
+{a:"None",b:5}
 ];
 
 var dummydata_challenges = [
@@ -1668,11 +1993,132 @@ var dummydata_challenges = [
 {a:"None",b:7}
 ];
 
+////
+//// experience any challenges related to your military service
+
+var data_challenges_current = [
+{a:"Many",b:40},
+{a:"Some",b:39},
+{a:"Few",b:15},
+{a:"None",b:5}
+];
+
+var dummydata_challenges_current = [
+{a:"Many",b:9},
+{a:"Some",b:9},
+{a:"Few",b:6},
+{a:"None",b:7}
+];
+
+
+/////////
+/////////////
+/////
+///
+//// had a successful transition
+
+
+var data_challenges_success = [
+{a:"Strongly agree",b:21},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:16},
+{a:"Somewhat disagree",b:17},
+{a:"Strongly disagree",b:15}
+
+];
+
+
+
+var dummydata_challenges_success = [
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:14},
+{a:"Somewhat disagree",b:1},
+{a:"Strongly disagree",b:28}
+];
 
 /////
+///
+//// had a successful transition
+
+
+var data_challenges_overcome = [
+{a:"Strongly agree",b:26},
+{a:"Somewhat agree",b:40},
+{a:"Neutral",b:15},
+{a:"Somewhat disagree",b:11},
+{a:"Strongly disagree",b:8}
+
+];
+
+
+
+var dummydata_challenges_overcome = [
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:14},
+{a:"Somewhat disagree",b:1},
+{a:"Strongly disagree",b:28}
+];
+
+
+/////
+///
+//// had a successful transition
+
+
+var data_challenges_valued = [
+{a:"Strongly agree",b:23},
+{a:"Somewhat agree",b:31},
+{a:"Neutral",b:22},
+{a:"Somewhat disagree",b:14},
+{a:"Strongly disagree",b:9}
+
+];
+
+
+
+var dummydata_challenges_valued = [
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:14},
+{a:"Somewhat disagree",b:1},
+{a:"Strongly disagree",b:28}
+];
+
+
+
+/////
+///
+//// had a successful transition
+
+
+var data_challenges_valued = [
+{a:"Strongly agree",b:20},
+{a:"Somewhat agree",b:29},
+{a:"Neutral",b:23},
+{a:"Somewhat disagree",b:16},
+{a:"Strongly disagree",b:12}
+
+];
+
+
+
+var dummydata_challenges_valued = [
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:32},
+{a:"Neutral",b:14},
+{a:"Somewhat disagree",b:1},
+{a:"Strongly disagree",b:28}
+];
+
+
+
+//////
+/////
  var data_finances = [
-{a:"Yes",b:67},
-{a:"No",b:33}
+{a:"Yes",b:62},
+{a:"No",b:38}
 ];
 
 var dummydata_finances = [
@@ -1683,8 +2129,8 @@ var dummydata_finances = [
 /////
 
 var data_bills = [
-{a:"Yes",b:34},
-{a:"No",b:66}
+{a:"Yes",b:35},
+{a:"No",b:65}
 ];
 
 var dummydata_bills = [
@@ -1695,6 +2141,7 @@ var dummydata_bills = [
 
  
 /////
+////// 
 
 var data_lending = [
 {a:"Yes",b:22},
@@ -1709,18 +2156,17 @@ var dummydata_lending = [
 ];
 
 
-var numero_lending = [35];
+var numero_lending = [36];
 
  
 /////
-
- 
+// Predatory Loan Type
 
 var data_conditions = [
-{a:"Advance Pay-Day",b:42},
-{a:"Car",b:34},
-{a:"Home",b:20},
-{a:"Other",b:32}
+{a:"Advance Pay-Day",b:41},
+{a:"Car",b:37},
+{a:"Home",b:23},
+{a:"Other",b:26}
 ];
 
 var dummydata_conditions = [
@@ -1768,7 +2214,7 @@ var dummydata_tran_temp = [
 {a:"No",b:24}
 ];
 
-  var numero_tran_temp = [84];
+  var numero_tran_temp = [81];
 
  
 
@@ -1780,10 +2226,10 @@ var dummydata_tran_temp = [
 
 var data_tran_long = [
 {a:"A few days",b:8},
-{a:"A few weeks",b:18},
-{a:"A few months",b:27},
-{a:"Six months to a year",b:25},
-{a:"Longer than a year",b:22} 
+{a:"A few weeks",b:16},
+{a:"A few months",b:31},
+{a:"Six months to a year",b:21},
+{a:"Longer than a year",b:24} 
 ];
 
 
@@ -1850,14 +2296,16 @@ var dummydata_tran_plan = [
 ///currently participating in the Transition Assistance Program
 ////////  
 var data_tran_tap = [
-{a:"Yes",b:34},
-{a:"No",b:66}
+{a:"Yes",b:37},
+{a:"No",b:45},
+{a:"TAP was not available to me",b:18}
 ];
 
 
 var dummydata_tran_tap = [
-{a:"Yes",b:48},
-{a:"No",b:22}
+{a:"Yes",b:28},
+{a:"No",b:62},
+{a:"TAP was not available to me",b:2}
 ];
 
 
@@ -1872,11 +2320,11 @@ var dummydata_tran_tap = [
  
 
 var data_tran_current = [
-{a:"Own home/have a mortgage",b:66},
-{a:"Rent",b:24},
-{a:"With friends/family/significant other",b:10},
-{a:"Temporary or permanent housing",b:3},
-{a:"Living with parents/ as a dependent",b:2},
+{a:"Own home/have a mortgage",b:71},
+{a:"Rent",b:21},
+{a:"With friends/family/significant other",b:9},
+{a:"Temporary or permanent housing",b:1},
+{a:"Living with parents/ as a dependent",b:1},
 {a:"Couchsurfing",b:1},
 {a:"Don't have place to live and can't afford one",b:.5},
 {a:"Base housing/barracks",b:.3},
@@ -1911,9 +2359,9 @@ var dummydata_tran_current = [
 ////////  
  
 var data_tran_rate = [
-{a:"Very good",b:14},
-{a:"Good",b:25},
-{a:"Fair",b:33},
+{a:"Very good",b:11},
+{a:"Good",b:28},
+{a:"Fair",b:36},
 {a:"Poor",b:17},
 {a:"Very poor",b:11}
 ];
@@ -2028,15 +2476,30 @@ var dummydata_benefits_influential = [
 //////////////
 var numero_suicide_progress = [77];
 
-var numero_suicide_know_attempt = [65];
+var numero_suicide_know_attempt = [67];
 
-var numero_suicide_know_died = [59];
+var numero_suicide_know_died = [62];
 
 
 ////////
 //////////////////////////////
 ////////considered suicide before 
 //////////////////////////////
+
+var data_mental_considered  = [
+{a:"Yes",b:44},
+{a:"No",b:56
+];
+
+var dummydata_mental_considered = [
+{a:"Yes",b:10},
+{a:"No",b:90
+];
+
+
+
+/*
+
 
 var data_mental_considered  = [
 {a:"2018",b:43},
@@ -2053,6 +2516,10 @@ var dummydata_mental_considered = [
 ];
 
 
+
+*/
+
+
 ///////////////
 ////////////////////
 ////
@@ -2065,8 +2532,8 @@ var dummydata_mental_considered = [
 //////////////////////////////
 
 var data_mental_considered_before  = [
-{a:"Yes",b:9},
-{a:"No",b:91}
+{a:"Yes",b:10},
+{a:"No",b:90
 ];
 
 var dummydata_mental_considered_before = [
@@ -2087,8 +2554,8 @@ var dummydata_mental_considered_before = [
 //////////////////////////////
 
 var data_mental_hotline  = [
-{a:"Yes",b:95},
-{a:"No",b:4},
+{a:"Yes",b:96},
+{a:"No",b:3},
 {a:"Unsure",b:1}
 ];
 
@@ -2136,8 +2603,8 @@ var dummydata_mental_hotline_contact = [
 //////////////////////////////
 
 var data_mental_know_attempted = [
-{a:"Yes",b:65},
-{a:"No",b:35}
+{a:"Yes",b:67},
+{a:"No",b:33}
 ];
 
 var dummydata_mental_know_attempted = [
@@ -2159,8 +2626,8 @@ var dummydata_mental_know_attempted = [
 //////////////////////////////
 
 var data_mental_know  = [
-{a:"Yes",b:59},
-{a:"No",b:41}
+{a:"Yes",b:62},
+{a:"No",b:38}
 ];
 
 var dummydata_mental_know = [
@@ -2254,6 +2721,7 @@ var dummydata_mental_injury = [
 ////////
 //// 
 
+var numero_mental_injury = [61];
 
 
 ////////
@@ -2271,6 +2739,10 @@ var dummydata_mental_help= [
 {a:"No",b:20}
 ];
 ///////////////
+
+var numero_mental_seek = [75];
+
+
 ////////////////////
 ////
 ////  
@@ -2340,15 +2812,14 @@ var dummydata_mental_help_not= [
 //////////////////////////////
 
 var data_mental_help_where = [
-{a:"VA Mental Health Professional",b:71},
-{a:"Civilian (non-VA) mental health professional",b:27},
-{a:"Vet Center counselor",b:22},
-{a:"Peer support group",b:17},
-{a:"Religious/spiritual leaders",b:15},
-{a:"Veterans Crisis Line",b:7},
+{a:"VA Mental Health Professional",b:72},
+{a:"Civilian (non-VA) mental health professional",b:25},
+{a:"Vet Center counselor",b:21},
+{a:"Peer support group",b:14},
+{a:"Religious/spiritual leaders",b:14},
 {a:"Civilian DOD counselor",b:3},
-{a:"Uniformed DOD counselor",b:2},
-{a:"Other",b:11}
+{a:"Uniformed DOD counselor",b:3},
+{a:"Other",b:9}
 ];
 
 var dummydata_mental_help_where= [
@@ -2357,7 +2828,6 @@ var dummydata_mental_help_where= [
 {a:"Vet Center counselor",b:22},
 {a:"Peer support group",b:17},
 {a:"Religious/spiritual leaders",b:15},
-{a:"Veterans Crisis Line",b:7},
 {a:"Civilian DOD counselor",b:3},
 {a:"Uniformed DOD counselor",b:2},
 {a:"Other",b:11}
@@ -2375,8 +2845,8 @@ var dummydata_mental_help_where= [
 //////////////////////////////
 
 var data_mental_help_suggest  = [
-{a:"Yes",b:47},
-{a:"No",b:53}
+{a:"Yes",b:49},
+{a:"No",b:51}
 ];
 
 var dummydata_mental_help_suggest = [
@@ -2396,8 +2866,8 @@ var dummydata_mental_help_suggest = [
 //////////////////////////////
 
 var data_mental_help_sought  = [
-{a:"Yes",b:71},
-{a:"No",b:29}
+{a:"Yes",b:77},
+{a:"No",b:23}
 ];
 
 var dummydata_mental_help_sought = [
@@ -2411,15 +2881,18 @@ var dummydata_mental_help_sought = [
 //////////////////////////////////////////////////
 ////////////////////////////////
 
-
+////////////
+////// General Health
 ////
 //
  //// before
-
+////////
+///// How would you rate your overall health before joining the military
+/////
 var data_health_before = [
-{a:"Excellent",b:68},
-{a:"Good",b:26},
-{a:"Average",b:5},
+{a:"Excellent",b:65},
+{a:"Good",b:27},
+{a:"Average",b:7},
 {a:"Poor",b:1},
 {a:"Terrible",b:0.1}
 ];
@@ -2446,11 +2919,11 @@ var dummydata_health_before = [
  //// after
 
 var data_health_after = [
-{a:"Excellent",b:7},
-{a:"Good",b:28},
-{a:"Average",b:35},
-{a:"Poor",b:26},
-{a:"Terrible",b:4}
+{a:"Excellent",b:5},
+{a:"Good",b:26},
+{a:"Average",b:38},
+{a:"Poor",b:28},
+{a:"Terrible",b:3}
 ];
 
 
@@ -2473,10 +2946,10 @@ var dummydata_health_after = [
  //// importance
 
 var data_health_importance = [
-{a:"Extremely important",b:51},
-{a:"Very important",b:37},
-{a:"Moderately important",b:10},
-{a:"Slightly important",b:1},
+{a:"Extremely important",b:48},
+{a:"Very important",b:38},
+{a:"Moderately important",b:12},
+{a:"Slightly important",b:2},
 {a:"Not at all important",b:1}
 ];
 
@@ -2514,7 +2987,7 @@ var dummydata_health_injury = [
 {a:"No",b:1}
 ];
    
-var numero_health_injury = [86];
+var numero_health_injury = [90];
 
 
 //
@@ -2524,9 +2997,9 @@ var numero_health_injury = [86];
 
 
 var dummydata_health_a = [
-{a:"Musculoskeletal/joint injuries",b:66},
-{a:"PTSD",b:60},
-{a:"Tinnitus",b:59},
+{a:"Musculoskeletal/joint injuries",b:10},
+{a:"Tinnitus",b:16},
+{a:"PTSD",b:11},
 {a:"Anxiety",b:56},
 {a:"Depression",b:53},
 {a:"Hearing Loss",b:50},
@@ -2540,19 +3013,19 @@ var dummydata_health_a = [
 ];
 
 var data_health_a = [
-{a:"Musculoskeletal/joint injuries",b:66},
-{a:"PTSD",b:60},
-{a:"Tinnitus",b:59},
-{a:"Anxiety",b:56},
-{a:"Depression",b:53},
-{a:"Hearing Loss",b:50},
-{a:"Traumatic Brain Injury (TBI)",b:25},
-{a:"Pulmonary issues",b:18},
-{a:"Scarring or burns",b:15},
-{a:"Vision Loss",b:8},
+{a:"Musculoskeletal/joint injuries",b:70},
+{a:"Tinnitus",b:66},
+{a:"PTSD",b:65},
+{a:"Anxiety",b:58},
+{a:"Depression",b:56},
+{a:"Hearing Loss",b:56},
+{a:"Traumatic Brain Injury (TBI)",b:26},
+{a:"Pulmonary issues",b:19},
+{a:"Scarring or burns",b:16},
+{a:"Vision Loss",b:9},
 {a:"Paralysis",b:2},
 {a:"Loss of limb",b:1},
-{a:"Other",b:29}
+{a:"Other",b:25}
 ];
 
 
@@ -2581,7 +3054,7 @@ var dummydata_health_pain = [
    
 
 
-var numero_health_pain = [72];
+var numero_health_pain = [74];
 
 
 
@@ -2592,11 +3065,11 @@ var numero_health_pain = [72];
  
 
 var data_health_affect = [
-{a:"Always",b:42},
-{a:"Most of the time",b:28},
+{a:"Always",b:41},
+{a:"Most of the time",b:30},
 {a:"About half the time",b:11},
-{a:"Sometimes",b:18},
-{a:"Never",b:1}
+{a:"Sometimes",b:16},
+{a:"Never",b:2}
 ];
 
 
@@ -2620,9 +3093,9 @@ var dummydata_health_affect = [
 var data_health_sleep_trouble = [
 {a:"Always",b:27},
 {a:"Most of the time",b:28},
-{a:"About half the time",b:13},
+{a:"About half the time",b:15},
 {a:"Sometimes",b:26},
-{a:"Never",b:6}
+{a:"Never",b:5}
 ];
 
 
@@ -2648,12 +3121,17 @@ var dummydata_health_sleep_diagnosed = [
 {a:"No",b:1}
 ];
    
+
+var numero_health_sleep = [44];
+
+
+
    
 /////////////////////////////////////////////////////////
 
  
 
-
+/////////////////
  //// exercise regularly
 
 var data_health_exercise = [
@@ -2676,10 +3154,12 @@ var dummydata_health_exercise = [
   
 
 var data_health_exercise_often = [
-{a:"1 time per week",b:3},
-{a:"2 to 3 times per week",b:49},
-{a:"4 to 5 times per week",b:39},
-{a:"6 or more times per week",b:9}
+{a:"I do not exercise",b:12},
+{a:"Less than weekly",b:18},
+{a:"1 time per week",b:8},
+{a:"2 to 3 times per week",b:38},
+{a:"4 to 5 times per week",b:18},
+{a:"6 or more times per week",b:5}
 ];
 
 
@@ -2700,14 +3180,41 @@ var dummydata_health_exercise_often = [
 ////
 //
 //////////  
-////
+//// current
  //// Medications
 
 var data_health_medication = [
-{a:"Antidepressant",b:40},
-{a:"Sleeping Pills",b:25},
-{a:"Anti-anxiety",b:25},
-{a:"Opioid",b:14}
+{a:"Antidepressant",b:32},
+{a:"Sleeping Pills",b:16},
+{a:"Anti-anxiety",b:20},
+{a:"Opioid",b:6}
+];
+
+
+var dummydata_health_medication = [
+{a:"Antidepressant",b:75},
+{a:"Sleeping Pills",b:52},
+{a:"Anti-anxiety",b:50},
+{a:"Opioid",b:29}
+];
+
+ 
+//////////
+ ////////////
+///// 
+    
+////
+////
+//
+//////////  
+////
+ //// In the past, have you been prescribed any of the following drugs for a service-related injury
+
+var data_health_medication = [
+{a:"Antidepressant",b:46},
+{a:"Sleeping Pills",b:36},
+{a:"Anti-anxiety",b:35},
+{a:"Opioid",b:32}
 ];
 
 
@@ -2724,24 +3231,25 @@ var dummydata_health_medication = [
 
 
 
+
 ////////
 ////////
 //////
  ////Service Related therapies
 
 var data_health_therapies = [
-{a:"Natural products*",b:37}, 
-{a:"Meditation",b:26},
-{a:"Chiropractic Care",b:25},
-{a:"Yoga",b:18},
-{a:"Nature/outdoor adventure therapies",b:18},
-{a:"Acupuncture",b:15},
-{a:"Cannabis",b:14}, 
-{a:"Special diets",b:13}, 
-{a:"Music or Art Therapy",b:13},
-{a:"Animal-assisted therapy",b:6},
-{a:"Service animal",b:6}, 
-{a:"Other",b:9}
+{a:"Natural products*",b:56}, 
+{a:"Meditation",b:37},
+{a:"Chiropractic Care",b:39},
+{a:"Yoga",b:25},
+{a:"Nature/outdoor adventure therapies",b:27},
+{a:"Acupuncture",b:23},
+{a:"Cannabis",b:21}, 
+{a:"Special diets",b:20}, 
+{a:"Music or Art Therapy",b:18},
+{a:"Animal-assisted therapy",b:9},
+{a:"Service animal",b:9}, 
+{a:"Other",b:15}
 ];
 
 
@@ -2782,7 +3290,8 @@ var dummydata_health_therapies_result = [
 ];
    
    
-   
+     var numero_health_therapies = [71];
+
    
  
 //// someone assisting health needs
@@ -2801,19 +3310,21 @@ var dummydata_health_assisting = [
    
  
  
+     var numero_health_assist = [21];
+
  
  
 //// who is person assisting
 
  
 var data_health_assisting_who = [
-{a:"Spouse",b:79},
-{a:"Parent",b:7},
-{a:"Friend",b:10},
+{a:"Spouse",b:83},
+{a:"Parent",b:4},
+{a:"Friend",b:8},
 ///////{a:"Grandparents",b:.1},
-{a:"Extended Family",b:2},
-{a:"Paid caregiver or aide",b:4},
-{a:"Other",b:12}
+{a:"Extended Family",b:1},
+{a:"Paid caregiver or aide",b:5},
+{a:"Other",b:6}
 ];
 
 
@@ -2834,10 +3345,10 @@ var dummydata_health_assisting_who = [
 //// How many daily activities do you need assistance with?
 
 var data_health_activities = [
-{a:"One",b:36},
-{a:"Two",b:27},
+{a:"One",b:27},
+{a:"Two",b:31},
 {a:"Three",b:13},
-{a:"Four or more",b:24}
+{a:"Four or more",b:29}
 ];
 
 
@@ -2865,10 +3376,10 @@ var dummydata_health_activities = [
 
  
 var data_health_sleep = [
-{a:"0 to 4 hours",b:42},
-{a:"5 to 6 hours",b:28},
-{a:"7 to 8 hours",b:11},
-{a:"9 or more hours",b:18}
+{a:"0 to 4 hours",b:22},
+{a:"5 to 6 hours",b:55},
+{a:"7 to 8 hours",b:23},
+{a:"9 or more hours",b:.5}
 ];
 
 
@@ -2889,19 +3400,21 @@ var dummydata_health_sleep = [
  
  ////
 //   
-//////////  
-////
+//////////////////////////////
+/////////////////////////////////////
+/////////////
 //////////  burn pits
-/////////   
- 
+////////////
+////////////////////////////
+ ////////////////////////////////////
  
 
 /// 
 //// exposed to burn pits
 
 var data_burn = [
-{a:"Yes",b:82},
-{a:"No",b:18}
+{a:"Yes",b:86},
+{a:"No",b:14}
 ];
 
 
@@ -2911,7 +3424,7 @@ var dummydata_burn = [
 ];
    
    
-   var numero_burn_pit = [82];
+   var numero_burn_pit = [86];
 
 
    
@@ -2920,29 +3433,46 @@ var dummydata_burn = [
 //// have symptoms because exposed to burn pits
 
 var data_burn_symptoms = [
-{a:"Yes",b:39},
-{a:"Maybe",b:45},
-{a:"No",b:16}
+{a:"Yes",b:43},
+{a:"Unsure",b:46},
+{a:"No",b:12}
 ];
 
 
 var dummydata_burn_symptoms = [
 {a:"Yes",b:51},
-{a:"Maybe",b:41},
+{a:"Unsure",b:41},
 {a:"No",b:1}
 ];
    
    
   
-  
+ 
+
+/// 
+//// burn pits documented
+
+var data_burn_documented = [
+{a:"Yes",b:49},
+{a:"No",b:51}
+];
+
+
+var dummydata_burn_documented = [
+{a:"Yes",b:51},
+{a:"No",b:21}
+];
+   
+   
+   
   
 
 /// 
 //// aware of burn pits registry
 
 var data_burn_registry= [
-{a:"Yes",b:70},
-{a:"No",b:30}
+{a:"Yes",b:75},
+{a:"No",b:25}
 ];
 
 
@@ -2956,6 +3486,24 @@ var dummydata_burn_registry = [
 
 /// 
 //// registered to burn pits registry
+
+
+
+
+var data_burn_registered = [
+{a:"Yes",b:72},
+{a:"No",b:28}
+];
+
+
+var dummydata_burn_registered = [
+{a:"Yes",b:51},
+{a:"No",b:21}
+];
+   
+   
+/*
+
 
 var data_burn_registered= [
 {a:"2018",b:47},
@@ -2975,18 +3523,17 @@ var dummydata_burn_registered = [
 ];
    
    
-     
-    
+*/    
  
 
 /// 
 //// have any issues with burn pits registry
 
 var data_burn_issues = [
-{a:"None",b:64},
-{a:"Few",b:19},
-{a:"Some",b:12},
-{a:"Many",b:5}
+{a:"None",b:65},
+{a:"Few",b:21},
+{a:"Some",b:11},
+{a:"Many",b:3}
 ];
 
 
@@ -2999,22 +3546,44 @@ var dummydata_burn_issues = [
    
    
  
+/// 
+//// cpmpleted burn pits evaluation
+
+
+
+
+var data_burn_evaluation = [
+{a:"Yes",b:19},
+{a:"No",b:63},
+{a:"Unsure",b:18}
+];
+
+
+var dummydata_burn_evaluation = [
+{a:"Yes",b:51},
+{a:"No",b:21},
+{a:"Unsure",b:21}
+];
+   
+   
 
   
-
+//////////////////////////////
+///////////////////////////////
+//////////////////
 /////
 /////////
 ///cannabis cannabis
 ////
-
-
+/////////////////////////////////
+///////////////////////////////////
 ////
 //// interest in cannabis 
 
 var numero_cannabis = [75];
 
-var numero_cannabis_rec = [55];
-var numero_cannabis_med = [83];
+var numero_cannabis_rec = [37];
+var numero_cannabis_med = [22];
 
 
 
@@ -3022,9 +3591,9 @@ var numero_cannabis_med = [83];
 
 
 var data_mj_research = [
-{a:"Strongly agree",b:72},
-{a:"Somewhat agree",b:18},
-{a:"Neutral",b:6},
+{a:"Strongly agree",b:73},
+{a:"Somewhat agree",b:15},
+{a:"Neutral",b:8},
 {a:"Somewhat disagree",b:1},
 {a:"Strongly disagree",b:3}
 ];
@@ -3047,9 +3616,9 @@ var dummydata_mj_research = [
 
 var data_mj_va_research = [
 {a:"Strongly agree",b:68},
-{a:"Somewhat agree",b:17},
-{a:"Neutral",b:8},
-{a:"Somewhat disagree",b:3},
+{a:"Somewhat agree",b:16},
+{a:"Neutral",b:10},
+{a:"Somewhat disagree",b:2},
 {a:"Strongly disagree",b:4}
 ];
 
@@ -3071,11 +3640,11 @@ var dummydata_mj_va_research = [
 
 
 var data_mj_medicinal = [
-{a:"Strongly agree",b:63},
+{a:"Strongly agree",b:62},
 {a:"Somewhat agree",b:20},
-{a:"Neutral",b:10},
+{a:"Neutral",b:12},
 {a:"Somewhat disagree",b:3},
-{a:"Strongly disagree",b:4}
+{a:"Strongly disagree",b:3}
 ];
 
 
@@ -3098,11 +3667,11 @@ var dummydata_mj_medicinal = [
 
 
 var data_mj_legal = [
-{a:"Strongly agree",b:35},
-{a:"Somewhat agree",b:20},
-{a:"Neutral",b:19},
+{a:"Strongly agree",b:36},
+{a:"Somewhat agree",b:19},
+{a:"Neutral",b:21},
 {a:"Somewhat disagree",b:9},
-{a:"Strongly disagree",b:17}
+{a:"Strongly disagree",b:16}
 ];
 
 
@@ -3134,8 +3703,25 @@ var dummydata_mj_legal = [
 
  
 //
-///// use cannabis medicinal
+/////
+//////// Do you live in a state where cannabis or other cannabinoid products are legal for recreational
 
+var data_cannabis = [
+{a:"Yes",b:29},
+{a:"No",b:61},
+{a:"Not sure",b:10}
+];
+
+
+var dummydata_cannabis = [
+{a:"Yes",b:1},
+{a:"No",b:4},
+{a:"Not sure",b:7}
+];
+
+//// old version
+///// use cannabis medicinal
+/*
 var data_cannabis = [
 {a:"Yes",b:20},
 {a:"No",b:76},
@@ -3150,17 +3736,17 @@ var dummydata_cannabis = [
 {a:"Unsure",b:7},
 {a:"Prefer Not to Answer",b:8}
 ];
-
+*/
 
  
  ///
  ///// interested in using cannabis or cannabinoid products as a treatment option if it were available to you?	 
 
 var data_mj_treatment = [
-{a:"Very interested",b:75},
-{a:"Interested",b:9},
-{a:"Somewhat interested",b:7},
-{a:"Not interested",b:6},
+{a:"Very interested",b:32},
+{a:"Interested",b:13},
+{a:"Somewhat interested",b:19},
+{a:"Not interested",b:34},
 {a:"Prefer not to answer",b:3}
 ];
 
@@ -3299,8 +3885,8 @@ var dummydata_cannabis_legal_rec = [
 //// Q183 - Have you ever used tobacco products?
 
 var data_tobacco = [
-{a:"Yes",b:61},
-{a:"No",b:39}
+{a:"Yes",b:60},
+{a:"No",b:40}
 ];
 
  
@@ -3315,13 +3901,13 @@ var dummydata_tobacco = [
 //// What form of tobacco products have you used?  
 
 var data_tobacco_type = [
-{a:"Cigarettes",b:78},
-{a:"Cigars",b:43},
-{a:"Dip or snuff",b:32},
-{a:"Chewing tobacco",b:28},
-{a:"Vapes",b:12},
-{a:"Pipe tobacco",b:12},
-{a:"E-cigarettes",b:10},
+{a:"Cigarettes",b:72},
+{a:"Cigars",b:44},
+{a:"Dip or snuff",b:31},
+{a:"Chewing tobacco",b:27},
+{a:"Vapes",b:13},
+{a:"Pipe tobacco",b:9},
+{a:"E-cigarettes",b:8},
 {a:"Other",b:1}
 ];
 
@@ -3364,11 +3950,11 @@ var dummydata_tobacco_use = [
 //// how often use tobacco products?
 
 var data_tobacco_often = [
-{a:"Daily",b:77},
-{a:"4-6 times a week",b:6},
-{a:"2-3 times a week",b:5},
-{a:"Once a week",b:2},
-{a:"Less than once a week",b:10}
+{a:"Daily",b:78},
+{a:"4-6 times a week",b:3},
+{a:"2-3 times a week",b:3},
+{a:"Once a week",b:3},
+{a:"Less than once a week",b:13}
 ];
 
 
@@ -3395,13 +3981,13 @@ var dummydata_tobacco_often = [
 
 var data_alcohol = [
 {a:"Every day",b:8},
-{a:"3 to 6 times a week",b:19},
-{a:"Once or twice a week",b:21},
+{a:"3 to 6 times a week",b:17},
+{a:"Once or twice a week",b:19},
 {a:"2 to 3 times a month",b:14},
-{a:"Once a month",b:8},
-{a:"Less than 10 times in the past year",b:10},
-{a:"1 or 2 times in the past year",b:6},
-{a:"I did not drink any alcohol in the past year, but I did drink in the past",b:11},
+{a:"Once a month",b:9},
+{a:"Less than 10 times in the past year",b:11},
+{a:"1 or 2 times in the past year",b:7},
+{a:"I did not drink any alcohol in the past year, but I did drink in the past",b:12},
 {a:"I never drank any alcohol in my life",b:3}
 ];
 
@@ -3479,13 +4065,13 @@ var dummydata_alcohol_max = [
  
 
 var data_alcohol_typical = [
-{a:"16 or more",b:2},
-{a:"12 to 15 drinks",b:1},
-{a:"9 to 11 drinks",b:2},
+{a:"16 or more",b:1},
+{a:"12 to 15 drinks",b:2},
+{a:"9 to 11 drinks",b:3},
 {a:"7 to 8 drinks",b:4},
-{a:"5 to 6 drinks",b:9},
-{a:"3 to 4 drinks",b:26},
-{a:"2 drinks",b:32},
+{a:"5 to 6 drinks",b:10},
+{a:"3 to 4 drinks",b:22},
+{a:"2 drinks",b:34},
 {a:"1 drink",b:24}
 ];
 
@@ -3514,14 +4100,13 @@ var dummydata_alcohol_typical = [
  
 
 var data_alcohol_twohour = [
-{a:"Every day",b:1},
-{a:"3 to 6 days a week",b:4},
+{a:"Every day",b:2},
+{a:"3 to 6 days a week",b:5},
 {a:"One or two days a week",b:7},
 {a:"2 to 3 days a month",b:8},
-{a:"One day a month",b:7},
-{a:"3 to 11 days in the past year",b:11},
-{a:"1 or 2 days in the past year",b:21},
-{a:"Never in the last 12 months",b:41}
+{a:"One day a month",b:8},
+{a:"Less than 10 days in the past year",b:27},
+{a:"Never in the last 12 months",b:43}
 ];
 
 
@@ -3531,8 +4116,7 @@ var dummydata_alcohol_twohour = [
 {a:"One or two days a week",b:21},
 {a:"2 to 3 days a month",b:14},
 {a:"One day a month",b:8},
-{a:"3 to 11 days in the past year",b:10},
-{a:"1 or 2 days in the past year",b:6},
+{a:"Less than 10 days in the past year",b:7},
 {a:"Never in the last 12 months",b:11}
 ];
 
@@ -3562,10 +4146,10 @@ var dummydata_alcohol_twohour = [
  
 
 var data_wom_iava = [
-{a:"Extremely important",b:48},
-{a:"Very important",b:30},
-{a:"Moderately important",b:15},
-{a:"Slightly important",b:4},
+{a:"Extremely important",b:54},
+{a:"Very important",b:29},
+{a:"Moderately important",b:12},
+{a:"Slightly important",b:3},
 {a:"Not at all important",b:3}
 ];
 
@@ -3586,11 +4170,11 @@ var dummydata_wom_iava = [
 
 
 var data_wom_motto = [
-{a:"Strongly agree the motto should be changed",b:28},
+{a:"Strongly agree the motto should be changed",b:25},
 {a:"Somewhat agree the motto should be changed",b:18},
-{a:"Neither agree nor disagree the motto should be changed",b:24},
-{a:"Somewhat disagree the motto should be changed",b:9},
-{a:"Strongly disagree the motto should be changed",b:21}
+{a:"Neither agree nor disagree the motto should be changed",b:25},
+{a:"Somewhat disagree the motto should be changed",b:10},
+{a:"Strongly disagree the motto should be changed",b:22}
 
 ];
 
@@ -3608,16 +4192,62 @@ var dummydata_wom_motto = [
 
 
 
+var data_wom_motto_f = [
+{a:"Strongly agree the motto should be changed",b:41},
+{a:"Somewhat agree the motto should be changed",b:16},
+{a:"Neither agree nor disagree the motto should be changed",b:23},
+{a:"Somewhat disagree the motto should be changed",b:6},
+{a:"Strongly disagree the motto should be changed",b:14}
 
+];
+
+
+
+var dummydata_wom_motto_f = [
+{a:"Strongly agree the motto should be changed",b:72},
+{a:"Somewhat agree the motto should be changed",b:21},
+{a:"Neither agree nor disagree the motto should be changed",b:4},
+{a:"Somewhat disagree the motto should be changed",b:2},
+{a:"Strongly disagree the motto should be changed",b:1}
+];
+
+
+
+
+
+var data_wom_motto_m = [
+{a:"Strongly agree the motto should be changed",b:23},
+{a:"Somewhat agree the motto should be changed",b:18},
+{a:"Neither agree nor disagree the motto should be changed",b:25},
+{a:"Somewhat disagree the motto should be changed",b:10},
+{a:"Strongly disagree the motto should be changed",b:24}
+
+];
+
+
+
+var dummydata_wom_motto_m = [
+{a:"Strongly agree the motto should be changed",b:72},
+{a:"Somewhat agree the motto should be changed",b:21},
+{a:"Neither agree nor disagree the motto should be changed",b:4},
+{a:"Somewhat disagree the motto should be changed",b:2},
+{a:"Strongly disagree the motto should be changed",b:1}
+];
+
+
+
+
+//////////
+/////////
 
 
 
 var data_wom_positions = [
-{a:"Strongly agree",b:34},
-{a:"Somewhat agree",b:25},
+{a:"Strongly agree",b:36},
+{a:"Somewhat agree",b:26},
 {a:"Neutral",b:13},
 {a:"Somewhat disagree",b:13},
-{a:"Strongly disagree",b:15}
+{a:"Strongly disagree",b:13}
 
 ];
 
@@ -3642,11 +4272,11 @@ var dummydata_wom_positions = [
 
 
 var data_wom_positions_m = [
-{a:"Strongly agree",b:31},
-{a:"Somewhat agree",b:25},
-{a:"Neutral",b:14},
+{a:"Strongly agree",b:32},
+{a:"Somewhat agree",b:26},
+{a:"Neutral",b:12},
 {a:"Somewhat disagree",b:14},
-{a:"Strongly disagree",b:16}
+{a:"Strongly disagree",b:15}
 
 ];
 
@@ -3671,9 +4301,9 @@ var dummydata_wom_positions_m = [
 
 
 var data_wom_positions_f = [
-{a:"Strongly agree",b:55},
-{a:"Somewhat agree",b:25},
-{a:"Neutral",b:9},
+{a:"Strongly agree",b:58},
+{a:"Somewhat agree",b:20},
+{a:"Neutral",b:13},
 {a:"Somewhat disagree",b:7},
 {a:"Strongly disagree",b:4}
 
@@ -3696,8 +4326,8 @@ var dummydata_wom_positions_f = [
 ///////
 
 var data_wom_suicidal = [
-{a:"Males",b:42},
-{a:"Females",b:49}
+{a:"Males",b:43},
+{a:"Females",b:48}
 ];
 
 
@@ -3713,8 +4343,8 @@ var dummydata_wom_suicidal = [
 ///////
 
 var data_wom_injury = [
-{a:"Males",b:55},
-{a:"Females",b:63}
+{a:"Males",b:59},
+{a:"Females",b:68}
 ];
 
 
@@ -3730,8 +4360,8 @@ var dummydata_wom_injury = [
 ///////
 
 var data_wom_expenses = [
-{a:"Males",b:33},
-{a:"Females",b:37}
+{a:"Males",b:35},
+{a:"Females",b:38}
 ];
 
 
@@ -3745,14 +4375,51 @@ var dummydata_wom_expenses = [
 
 
 
-
-
-
-
-
-
-
+//////Report not feeling safe in VA healthcare facilities
 ///////
+
+var data_wom_safe = [
+{a:"Males",b:10},
+{a:"Females",b:14}
+];
+
+
+var dummydata_wom_safe = [
+{a:"Males",b:40},
+{a:"Females",b:31}
+];
+
+ 
+
+
+
+//////Report not feeling respected by VA employees
+///////
+
+var data_wom_respected = [
+{a:"Males",b:15},
+{a:"Females",b:11}
+];
+
+
+var dummydata_wom_respected = [
+{a:"Males",b:40},
+{a:"Females",b:31}
+];
+
+ 
+
+
+
+
+
+
+
+//////////
+/////////////
+//////////////
+/// limited by past restrictions on women in combat
+////////////////////
 
 var data_wom_combat = [
 {a:"Yes",b:40},
@@ -3762,20 +4429,14 @@ var data_wom_combat = [
 
 
 
-
 var dummydata_wom_combat = [
 {a:"Yes",b:75},
 {a:"Maybe",b:10}, 
 {a:"No",b:15}
 ];
 
- 
- 
- 
- 
- 
-
-
+  
+ //// 
 
 var data_wom_combat_m = [
 {a:"Yes",b:37},
@@ -3785,18 +4446,14 @@ var data_wom_combat_m = [
 
 
 
-
 var dummydata_wom_combat_m = [
 {a:"Yes",b:75},
 {a:"Maybe",b:10}, 
 {a:"No",b:15}
 ];
 
- 
- 
- 
- 
- 
+
+/////
 
 
 
@@ -3816,27 +4473,27 @@ var dummydata_wom_combat_f = [
 ];
 
  
+ ///////
  
  
  
  
  
  
+ ////////
+ /////////
+ ///////////
+ //// lifting restrictions improved recognition?
+ //////////
+ ////////
  
  
- 
- 
- 
- 
- 
- 
+
 var data_wom_recognition = [
-{a:"Yes",b:29},
-{a:"Maybe",b:36}, 
-{a:"No",b:35}
+{a:"Yes",b:35},
+{a:"Maybe",b:33}, 
+{a:"No",b:32}
 ];
-
-
 
 
 var dummydata_wom_recognition = [
@@ -3846,18 +4503,12 @@ var dummydata_wom_recognition = [
 ];
 
 
- 
 
- 
- 
- 
- 
- 
- 
+  
 var data_wom_recognition_m = [
-{a:"Yes",b:28},
-{a:"Maybe",b:37}, 
-{a:"No",b:35}
+{a:"Yes",b:34},
+{a:"Maybe",b:34}, 
+{a:"No",b:32}
 ];
 
 
@@ -3871,17 +4522,11 @@ var dummydata_wom_recognition_m = [
 
 
  
-
- 
- 
- 
- 
- 
  
 var data_wom_recognition_f = [
-{a:"Yes",b:34},
-{a:"Maybe",b:33}, 
-{a:"No",b:33}
+{a:"Yes",b:41},
+{a:"Maybe",b:29}, 
+{a:"No",b:31}
 ];
 
 
@@ -3944,9 +4589,11 @@ var dummydata_wom_prosecutor = [
 /////////////////
 
 
-var numero_data_wom_survivor=[8];
+var numero_data_wom_survivor=[9];
+var numero_data_wom_survivor_f=[43];
+var numero_data_wom_survivor_m=[3];
 var numero_data_wom_report=[29];
-var numero_data_wom_retaliation=[66];
+var numero_data_wom_retaliation=[73];
 
  
 
@@ -3990,9 +4637,9 @@ var dummydata_wom_report = [
 //// survivor of sexual assault report crime
 
 var data_wom_impact = [
-{a:"I would have been more likely to report",b:51},
-{a:"It would not have made a difference in my decision",b:46}, 
-{a:"I would have been less likely to report",b:3} 
+{a:"I would have been more likely to report",b:44},
+{a:"It would not have made a difference in my decision",b:49}, 
+{a:"I would have been less likely to report",b:7} 
 ];
 
 var dummydata_wom_impact = [
@@ -4082,7 +4729,18 @@ var data_va_enrolled = [
 
 
 
-var numero_enrolled = [81];
+var numero_enrolled = [84];
+
+////
+
+var numero_va_primary = [53];
+
+
+
+////////
+
+var numero_2019_care_good = [54];
+var numero_2017_care_good = [42];
 
 
 
@@ -4136,6 +4794,30 @@ var numero_other = [68];
 
 ///////////////
 /// forms of coverage
+
+
+var data_va_coverage = [
+{a:"VA healthcare",b:61},
+{a:"DOD healthcare/TRICARE",b:31},
+{a:"Private insurance",b:40},
+{a:"Medicaid/Medicare",b:10},
+{a:"TRICARE Reserve",b:4},
+{a:"Do not have health insurance",b:2}
+];
+
+var dummydata_va_coverage = [
+{a:"VA healthcare",b:21},
+{a:"DOD healthcare/TRICARE",b:21},
+{a:"Private insurance",b:20},
+{a:"Medicaid/Medicare",b:20},
+{a:"TRICARE Reserve",b:9},
+{a:"Do not have health insurance",b:9}
+];
+
+
+
+/*
+
 var dummydata_va_coverage = [
 {a:"VA health care exclusively",b:27},
 {a:"Private insurance exclusively",b:25},
@@ -4161,6 +4843,10 @@ var data_va_coverage = [
 {a:"DOD and VA health care",b:1},
 {a:"DOD supplemented by private insurance",b:1}
 ];
+
+*/
+
+
 ///////////////
 ///////////////
 
@@ -4238,11 +4924,11 @@ var dummydata_va_experience = [
 ];
 
 var data_va_experience = [
-{a:"Excellent",b:18},
-{a:"Good",b:36},
-{a:"Average",b:27},
-{a:"Poor",b:12},
-{a:"Terrible",b:7}
+{a:"Excellent",b:21},
+{a:"Good",b:38},
+{a:"Average",b:26},
+{a:"Poor",b:11},
+{a:"Terrible",b:4}
 ];
 ////
 ////  
@@ -4303,10 +4989,10 @@ var dummydata_va_none = [
  
 
 var data_va_understand = [
-{a:"Strongly agree",b:26},
-{a:"Somewhat agree",b:44},
-{a:"Neither agree nor disagree",b:12},
-{a:"Somewhat disagree",b:12},
+{a:"Strongly agree",b:24},
+{a:"Somewhat agree",b:42},
+{a:"Neither agree nor disagree",b:17},
+{a:"Somewhat disagree",b:11},
 {a:"Strongly disagree",b:6}
 ];
 
@@ -4331,11 +5017,11 @@ var dummydata_va_understand = [
  
 
 var data_va_quality = [
-{a:"Strongly agree",b:19},
-{a:"Somewhat agree",b:39},
-{a:"Neither agree nor disagree",b:14},
-{a:"Somewhat disagree",b:17},
-{a:"Strongly disagree",b:11}
+{a:"Strongly agree",b:18},
+{a:"Somewhat agree",b:38},
+{a:"Neither agree nor disagree",b:18},
+{a:"Somewhat disagree",b:16},
+{a:"Strongly disagree",b:10}
 ];
 
 var dummydata_va_quality = [
@@ -4353,22 +5039,50 @@ var dummydata_va_quality = [
 
 
 
-
-
 ///////////////
-/// non va Clinicians understand the medical needs of veterans
+/// feel safe when going to VA facilities
 /////////
  
 
-var data_va_non_understand = [
-{a:"Strongly agree",b:11},
+var data_va_safe = [
+{a:"Strongly agree",b:43},
+{a:"Somewhat agree",b:30},
+{a:"Neither agree nor disagree",b:16},
+{a:"Somewhat disagree",b:7},
+{a:"Strongly disagree",b:4}
+];
+
+var dummydata_va_safe = [
+{a:"Strongly agree",b:6},
+{a:"Somewhat agree",b:26},
+{a:"Neither agree nor disagree",b:15},
+{a:"Somewhat disagree",b:31},
+{a:"Strongly disagree",b:2}
+];
+
+
+///////////////
+
+
+
+
+
+
+
+///////////////
+/// VA employees treat me with respect
+/////////
+ 
+
+var data_va_safe = [
+{a:"Strongly agree",b:41},
 {a:"Somewhat agree",b:33},
-{a:"Neither agree nor disagree",b:33},
-{a:"Somewhat disagree",b:17},
-{a:"Strongly disagree",b:6}
+{a:"Neither agree nor disagree",b:14},
+{a:"Somewhat disagree",b:8},
+{a:"Strongly disagree",b:4}
 ];
 
-var dummydata_va_non_understand = [
+var dummydata_va_safe = [
 {a:"Strongly agree",b:6},
 {a:"Somewhat agree",b:26},
 {a:"Neither agree nor disagree",b:15},
@@ -4380,32 +5094,6 @@ var dummydata_va_non_understand = [
 ///////////////
 
 
-
-
-
-///////////////
-/// non va Clinicians provide quality care to veterans
-/////////
- 
-
-var data_va_non_quality = [
-{a:"Strongly agree",b:27},
-{a:"Somewhat agree",b:39},
-{a:"Neither agree nor disagree",b:25},
-{a:"Somewhat disagree",b:6},
-{a:"Strongly disagree",b:3}
-];
-
-var dummydata_va_non_quality = [
-{a:"Strongly agree",b:6},
-{a:"Somewhat agree",b:26},
-{a:"Neither agree nor disagree",b:15},
-{a:"Somewhat disagree",b:31},
-{a:"Strongly disagree",b:2}
-];
-
-
-///////////////
 
 
 
@@ -4423,11 +5111,11 @@ var dummydata_va_non_quality = [
 
 
 var data_va_scheduling_prim = [
-{a:"Extremely easy",b:34},
-{a:"Somewhat easy",b:21},
-{a:"Neither easy nor difficult",b:20},
-{a:"Somewhat difficult",b:11},
-{a:"Extremely difficult",b:14}
+{a:"Extremely easy",b:26},
+{a:"Somewhat easy",b:36},
+{a:"Neither easy nor difficult",b:15},
+{a:"Somewhat difficult",b:16},
+{a:"Extremely difficult",b:7}
 ];
 
 var dummydata_va_scheduling_prim = [
@@ -4445,11 +5133,11 @@ var dummydata_va_scheduling_prim = [
   
 
 var data_va_scheduling_mental = [
-{a:"Extremely easy",b:31},
-{a:"Somewhat easy",b:20},
-{a:"Neither easy nor difficult",b:21},
-{a:"Somewhat difficult",b:13},
-{a:"Extremely difficult",b:15}
+{a:"Extremely easy",b:27},
+{a:"Somewhat easy",b:30},
+{a:"Neither easy nor difficult",b:17},
+{a:"Somewhat difficult",b:16},
+{a:"Extremely difficult",b:11}
 ];
 
 var dummydata_va_scheduling_mental = [
@@ -4466,10 +5154,10 @@ var dummydata_va_scheduling_mental = [
 
 
 var data_va_scheduling_special = [
-{a:"Extremely easy",b:26},
-{a:"Somewhat easy",b:25},
-{a:"Neither easy nor difficult",b:11},
-{a:"Somewhat difficult",b:22},
+{a:"Extremely easy",b:15},
+{a:"Somewhat easy",b:27},
+{a:"Neither easy nor difficult",b:20},
+{a:"Somewhat difficult",b:23},
 {a:"Extremely difficult",b:16}
 ];
 
@@ -4496,11 +5184,11 @@ var dummydata_va_scheduling_special = [
   
 
 var data_va_satisfaction_prim = [
-{a:"Extremely satisfied",b:26},
-{a:"Somewhat satisfied",b:35},
+{a:"Extremely satisfied",b:33},
+{a:"Somewhat satisfied",b:37},
 {a:"Neither satisfied nor dissatisfied",b:14},
-{a:"Somewhat dissatisfied",b:14},
-{a:"Extremely dissatisfied",b:11}
+{a:"Somewhat dissatisfied",b:8},
+{a:"Extremely dissatisfied",b:8}
 ];
 
 var dummydata_va_satisfaction_prim = [
@@ -4517,11 +5205,11 @@ var dummydata_va_satisfaction_prim = [
 
 
 var data_va_satisfaction_special = [
-{a:"Extremely satisfied",b:20},
+{a:"Extremely satisfied",b:25},
 {a:"Somewhat satisfied",b:33},
-{a:"Neither satisfied nor dissatisfied",b:19},
-{a:"Somewhat dissatisfied",b:15},
-{a:"Extremely dissatisfied",b:13}
+{a:"Neither satisfied nor dissatisfied",b:21},
+{a:"Somewhat dissatisfied",b:12},
+{a:"Extremely dissatisfied",b:9}
 ];
 
 var dummydata_va_satisfaction_special = [
@@ -4538,11 +5226,11 @@ var dummydata_va_satisfaction_special = [
 
 
 var data_va_satisfaction_mental = [
-{a:"Extremely satisfied",b:28},
-{a:"Somewhat satisfied",b:29},
-{a:"Neither satisfied nor dissatisfied",b:14},
-{a:"Somewhat dissatisfied",b:14},
-{a:"Extremely dissatisfied",b:15}
+{a:"Extremely satisfied",b:32},
+{a:"Somewhat satisfied",b:28},
+{a:"Neither satisfied nor dissatisfied",b:17},
+{a:"Somewhat dissatisfied",b:13},
+{a:"Extremely dissatisfied",b:10}
 ];
 
 var dummydata_va_satisfaction_mental = [
@@ -4561,10 +5249,15 @@ var dummydata_va_satisfaction_mental = [
 
 
 
-
-
-
-
+/////////
+//////
+///////
+/////////////
+/// community care
+///////////////
+///////////
+///////////////
+/////////////////////
 ///////////////
 /// Rate your level of satisfaction with the non va following providers
 /////////
@@ -4572,11 +5265,11 @@ var dummydata_va_satisfaction_mental = [
   
 
 var data_va_scheduling_non_prim = [
-{a:"Extremely easy",b:50},
-{a:"Somewhat easy",b:34},
-{a:"Neither easy nor difficult",b:10},
-{a:"Somewhat difficult",b:4},
-{a:"Extremely difficult",b:2}
+{a:"Extremely easy",b:27},
+{a:"Somewhat easy",b:27},
+{a:"Neither easy nor difficult",b:22},
+{a:"Somewhat difficult",b:14},
+{a:"Extremely difficult",b:10}
 ];
 
 var dummydata_va_scheduling_non_prim = [
@@ -4595,11 +5288,11 @@ var dummydata_va_scheduling_non_prim = [
   
 
 var data_va_scheduling_non_mental = [
-{a:"Extremely easy",b:44},
-{a:"Somewhat easy",b:32},
-{a:"Neither easy nor difficult",b:14},
-{a:"Somewhat difficult",b:6},
-{a:"Extremely difficult",b:4}
+{a:"Extremely easy",b:33},
+{a:"Somewhat easy",b:22},
+{a:"Neither easy nor difficult",b:23},
+{a:"Somewhat difficult",b:9},
+{a:"Extremely difficult",b:13}
 ];
 
 var dummydata_va_scheduling_non_mental = [
@@ -4619,11 +5312,11 @@ var dummydata_va_scheduling_non_mental = [
   
 
 var data_va_scheduling_non_spec = [
-{a:"Extremely easy",b:43},
-{a:"Somewhat easy",b:37},
-{a:"Neither easy nor difficult",b:13},
-{a:"Somewhat difficult",b:4},
-{a:"Extremely difficult",b:3}
+{a:"Extremely easy",b:24},
+{a:"Somewhat easy",b:40},
+{a:"Neither easy nor difficult",b:12},
+{a:"Somewhat difficult",b:10},
+{a:"Extremely difficult",b:13}
 ];
 
 var dummydata_va_scheduling_non_spec = [
@@ -4638,6 +5331,74 @@ var dummydata_va_scheduling_non_spec = [
 ///////////////
  
 
+//////
+///////
+
+
+
+
+
+///////////////
+/// non va Clinicians understand the medical needs of veterans
+/////////
+ 
+
+var data_va_non_understand = [
+{a:"Strongly agree",b:27},
+{a:"Somewhat agree",b:39},
+{a:"Neither agree nor disagree",b:20},
+{a:"Somewhat disagree",b:9},
+{a:"Strongly disagree",b:5}
+];
+
+var dummydata_va_non_understand = [
+{a:"Strongly agree",b:6},
+{a:"Somewhat agree",b:26},
+{a:"Neither agree nor disagree",b:15},
+{a:"Somewhat disagree",b:31},
+{a:"Strongly disagree",b:2}
+];
+
+
+///////////////
+
+
+
+
+
+///////////////
+/// non va Clinicians provide quality care to veterans
+/////////
+ 
+
+var data_va_non_quality = [
+{a:"Strongly agree",b:35},
+{a:"Somewhat agree",b:33},
+{a:"Neither agree nor disagree",b:12},
+{a:"Somewhat disagree",b:13},
+{a:"Strongly disagree",b:7}
+];
+
+var dummydata_va_non_quality = [
+{a:"Strongly agree",b:6},
+{a:"Somewhat agree",b:26},
+{a:"Neither agree nor disagree",b:15},
+{a:"Somewhat disagree",b:31},
+{a:"Strongly disagree",b:2}
+];
+
+
+///////////////
+
+
+
+/////
+///////
+///////////
+//////////
+/////////
+///////
+//////
 
 
 var data_va_choose_non = [
@@ -4722,6 +5483,20 @@ var dummydata_va_choice = [
 
 
 
+////
+//// va mission act community care act heard
+var numero_va_mission_heard = [36];
+////
+
+////
+//// va mission act community care act familiar
+var numero_va_mission_familiar = [36];
+////
+////
+//// va mission act community care act used
+var numero_va_mission_used = [16];
+////
+
 
 //////var numero_va_choice = [39];
 
@@ -4733,13 +5508,18 @@ var numero_va_exp = [91];
 ////////////////////
 ////////////
 //// Experience with Choice Program
+///////
+//////
+//////// now called community care program
+////////////////
+///////
 
 var data_va_choice_exp = [
-{a:"Excellent",b:19},
-{a:"Good",b:31},
-{a:"Average",b:21},
-{a:"Poor",b:15},
-{a:"Terrible",b:14}
+{a:"Excellent",b:24},
+{a:"Good",b:39},
+{a:"Average",b:20},
+{a:"Poor",b:11},
+{a:"Terrible",b:7}
  ];
 
 
@@ -4822,6 +5602,14 @@ var dummydata_va_private = [
 ////// Do you have a service-connected disability rating from VA?	
  
 
+ ////
+//// 
+var numero_va_rating = [79];
+////
+
+
+
+
 var data_va_rating = [
 {a:"Yes",b:75},
 {a:"No",b:25} 
@@ -4841,10 +5629,10 @@ var dummydata_va_rating = [
  
 
 var data_va_claim_long = [
-{a:"125 days or less",b:24},
-{a:"126-180 days",b:25},
+{a:"125 days or less",b:25},
+{a:"126-180 days",b:22},
 {a:"181-365 days",b:23},
-{a:"Over 365 days",b:25},
+{a:"Over 365 days",b:27},
 {a:"My claim is still pending",b:3} 
 ];
 
@@ -4888,8 +5676,8 @@ var dummydata_va_pending = [
 //// Were you satisfied with the outcome of your claim? 
  
 var data_va_outcome = [
-{a:"Yes",b:62},
-{a:"No",b:38} 
+{a:"Yes",b:64},
+{a:"No",b:36} 
 ];
 
 
@@ -4907,8 +5695,8 @@ var dummydata_va_outcome = [
 //// Have you ever appealed a VA disability compensation claim decision? 
  
 var data_va_appeal = [
-{a:"Yes",b:32},
-{a:"No",b:68} 
+{a:"Yes",b:36},
+{a:"No",b:64} 
 ];
 
 
@@ -4929,11 +5717,11 @@ var dummydata_va_appeal = [
  
 
 var data_va_decision = [
-{a:"125 days or less",b:17},
-{a:"126-180 days",b:18},
-{a:"181-365 days",b:14},
-{a:"Over 365 days",b:24},
-{a:"My claim is still pending",b:27} 
+{a:"125 days or less",b:14},
+{a:"126-180 days",b:20},
+{a:"181-365 days",b:16},
+{a:"Over 365 days",b:28},
+{a:"My claim is still pending",b:21} 
 ];
 
 
@@ -4981,12 +5769,12 @@ var dummydata_va_appeal_pending = [
  
 
 var data_va_ask = [
-{a:"Veteran Service Organizations",b:61},
-{a:"VA employees",b:41},
-{a:"Friends",b:30},
-{a:"Family",b:7},
+{a:"Veteran Service Organizations",b:63},
+{a:"VA employees",b:42},
+{a:"Friends",b:31},
+{a:"Family",b:5},
 {a:"Elected Government Officials",b:4},
-{a:"Other",b:23} 
+{a:"Other",b:21} 
 ];
 
 
@@ -5006,10 +5794,10 @@ var dummydata_va_ask = [
  
  
 var data_va_rate_dis = [
-{a:"Extremely satisfied",b:28},
-{a:"Somewhat satisfied",b:45},
-{a:"Somewhat dissatisfied",b:15},
-{a:"Extremely dissatisfied",b:12}
+{a:"Extremely satisfied",b:31},
+{a:"Somewhat satisfied",b:43},
+{a:"Somewhat dissatisfied",b:16},
+{a:"Extremely dissatisfied",b:10}
 ];
 
 
@@ -5022,10 +5810,10 @@ var dummydata_va_rate_dis = [
 
  ////////
 var data_va_rate_pension = [
-{a:"Extremely satisfied",b:24},
-{a:"Somewhat satisfied",b:42},
-{a:"Somewhat dissatisfied",b:19},
-{a:"Extremely dissatisfied",b:15}
+{a:"Extremely satisfied",b:27},
+{a:"Somewhat satisfied",b:45},
+{a:"Somewhat dissatisfied",b:17},
+{a:"Extremely dissatisfied",b:11}
 ];
 
 
@@ -5039,10 +5827,10 @@ var dummydata_va_rate_pension = [
 
 
 var data_va_rate_edu = [
-{a:"Extremely satisfied",b:44},
-{a:"Somewhat satisfied",b:41},
-{a:"Somewhat dissatisfied",b:10},
-{a:"Extremely dissatisfied",b:5}
+{a:"Extremely satisfied",b:43},
+{a:"Somewhat satisfied",b:40},
+{a:"Somewhat dissatisfied",b:11},
+{a:"Extremely dissatisfied",b:6}
 ];
 
 
@@ -5058,10 +5846,10 @@ var dummydata_va_rate_edu = [
 
 
 var data_va_rate_home = [
-{a:"Extremely satisfied",b:57},
+{a:"Extremely satisfied",b:58},
 {a:"Somewhat satisfied",b:33},
-{a:"Somewhat dissatisfied",b:6},
-{a:"Extremely dissatisfied",b:4}
+{a:"Somewhat dissatisfied",b:5},
+{a:"Extremely dissatisfied",b:3}
 ];
 
 
@@ -5076,9 +5864,9 @@ var dummydata_va_rate_home = [
 
  
 var data_va_rate_ins = [
-{a:"Extremely satisfied",b:21},
-{a:"Somewhat satisfied",b:41},
-{a:"Somewhat dissatisfied",b:22},
+{a:"Extremely satisfied",b:23},
+{a:"Somewhat satisfied",b:42},
+{a:"Somewhat dissatisfied",b:18},
 {a:"Extremely dissatisfied",b:16}
 ];
 
@@ -5093,10 +5881,10 @@ var dummydata_va_rate_ins = [
 
 
 var data_va_rate_voc = [
-{a:"Extremely satisfied",b:21},
-{a:"Somewhat satisfied",b:33},
+{a:"Extremely satisfied",b:24},
+{a:"Somewhat satisfied",b:34},
 {a:"Somewhat dissatisfied",b:21},
-{a:"Extremely dissatisfied",b:25}
+{a:"Extremely dissatisfied",b:21}
 ];
 
 
@@ -5161,6 +5949,13 @@ var dummydata_gi_eligible = [
 ];
 
 
+////
+//// eligible for the Post-9/11 GI Bill
+var numero_gi_eligible = [44];
+////
+//// currently in school
+var numero_gi_school_current = [44];
+////
 
 
 /////
@@ -5169,21 +5964,23 @@ var dummydata_gi_eligible = [
  
 
 var data_gi_use = [
-{a:"Have Used",b:50},
-{a:"Intend to Use",b:18},
-{a:"Using",b:14},
-{a:"Transfered to Dependent",b:11},
-{a:"Plan not to use",b:7}
+{a:"Have used it",b:53},
+{a:"Using it",b:11},
+{a:"No, but I intend to use it",b:11},
+{a:"Dependent is using/has used it",b:11},
+{a:"No, and do not intend to use it",b:7},
+{a:"No, but I intend to transfer it to my dependent",b:7}
 ];
 
 
 
 var dummydata_gi_use = [
-{a:"Have Used",b:50},
-{a:"Intend to Use",b:18},
-{a:"Using",b:14},
-{a:"Transfered to Dependent",b:11},
-{a:"Plan not to use",b:7}
+{a:"Have used it",b:13},
+{a:"Using it",b:25},
+{a:"No, but I intend to use it",b:1},
+{a:"Dependent is using/has used it",b:51},
+{a:"No, and do not intend to use it",b:1},
+{a:"No, but I intend to transfer it to my dependent",b:1}
 ];
 
 
@@ -5199,9 +5996,9 @@ var dummydata_gi_use = [
 
  
 var data_gi_grad = [
-{a:"Yes",b:61},
+{a:"Yes",b:66},
 {a:"No",b:18},
-{a:"Still in school",b:21}
+{a:"Still in school",b:16}
 ];
 
 
@@ -5226,11 +6023,11 @@ var dummydata_gi_grad = [
  
  
 var data_gi_exp = [
-{a:"Excellent",b:43},
-{a:"Good",b:37},
-{a:"Average",b:14},
+{a:"Excellent",b:48},
+{a:"Good",b:35},
+{a:"Average",b:13},
 {a:"Poor",b:4},
-{a:"Terrible",b:2}
+{a:"Terrible",b:1}
 ];
 
 
@@ -5320,16 +6117,22 @@ var numero_ed_c=[73];
 
 var numero_data_ed_b=[23];
 
+///
+/////
+/// type of school are you attending/did you attend
+/////////
+var dummydata_ed_b=[{a:"State/public school",b:22},{a:"Not-for-profit private school",b:15},{a:"For-profit private school",b:13},{a:"Foreign school",b:1},{a:"Unsure",b:56}];
 
-var dummydata_ed_b=[{a:"State/public school",b:22},{a:"Not-for-profit private school",b:15},{a:"For-profit private school",b:13},{a:"Unsure",b:56}];
-
-var data_ed_b=[{a:"State/public school",b:60},{a:"Not-for-profit private school",b:18},{a:"For-profit private school",b:23},{a:"Unsure",b:5}];
+var data_ed_b=[{a:"State/public school",b:58},{a:"Not-for-profit private school",b:20},{a:"For-profit private school",b:24},{a:"Foreign school",b:1},{a:"Unsure",b:4}];
 
 
-
+///
+////
+///// overall level of satisfaction with your educational program
+///////
 var dummydata_ed_c=[{a:"Extremely satisfied",b:34},{a:"Somewhat satisfied",b:45},{a:"Neither Satisfied or Dissatisfied",b:13},{a:"Somewhat dissatisfied",b:8},{a:"Extremely dissatisfied",b:8}];
 
-var data_ed_c=[{a:"Extremely satisfied",b:44},{a:"Somewhat satisfied",b:38},{a:"Neither Satisfied or Dissatisfied",b:8},{a:"Somewhat dissatisfied",b:6},{a:"Extremely dissatisfied",b:4}];
+var data_ed_c=[{a:"Extremely satisfied",b:46},{a:"Somewhat satisfied",b:38},{a:"Neither Satisfied or Dissatisfied",b:7},{a:"Somewhat dissatisfied",b:6},{a:"Extremely dissatisfied",b:2}];
 
  ////////
  //// To what level is/are your school(s) veteran friendly? 
@@ -5337,54 +6140,62 @@ var data_ed_c=[{a:"Extremely satisfied",b:44},{a:"Somewhat satisfied",b:38},{a:"
 
 var dummydata_ed_vetfriend=[{a:"Far above average",b:34},{a:"Somewhat above average",b:45},{a:"Average",b:13},{a:"Somewhat below average",b:8},{a:"Far below average",b:8}];
 
-var data_ed_vetfriend=[{a:"Far above average",b:27},{a:"Somewhat above average",b:36},{a:"Average",b:29},{a:"Somewhat below average",b:5},{a:"Far below average",b:3}];
+var data_ed_vetfriend=[{a:"Far above average",b:30},{a:"Somewhat above average",b:35},{a:"Average",b:28},{a:"Somewhat below average",b:5},{a:"Far below average",b:2}];
 
 
+///////
+////////
+////////// VA educational benefits used for education
+//////////////
+var dummydata_ed_a=[{a:"Post-9/11 GI Bill",b:77},{a:"Montgomery GI Bill",b:9},{a:"VA Vocational Rehabilitation",b:1},{a:"Reserve Education Assistance Program",b:3},{a:"Other",b:4}];
 
+var data_ed_a=[{a:"Post-9/11 GI Bill",b:80},{a:"Montgomery GI Bill",b:31},{a:"VA Vocational Rehabilitation",b:24},{a:"Reserve Education Assistance Program",b:3},{a:"Other",b:3}];
 
+////
+////
+///  
 
-var dummydata_ed_a=[{a:"Post-9/11 GI Bill",b:77},{a:"Montgomery GI Bill",b:9},{a:"Reserve Education Assistance Program",b:3},{a:"Other",b:4}];
-
-var data_ed_a=[{a:"Post-9/11 GI Bill",b:74},{a:"Montgomery GI Bill",b:29},{a:"Reserve Education Assistance Program",b:3},{a:"Other",b:13}];
-
-
-
+////// took out private or federal loans for 
+///////////
 var numero_ed_d=[41];
 
+////////
+//// How much debt have you accrued through student loans
+/////////////
+var dummydata_ed_d=[{a:"Under $1000",b:2},{a:"$1,001-$5,000",b:6},{a:"$5,001-$10,000",b:8},{a:"$10,001-$15,000",b:8},{a:"$15,001-$20,000",b:5},{a:"$20,001-$50,000",b:15},{a:"$50,001-$100,000",b:15},{a:"Above $100,000",b:4}];
 
-
-var dummydata_ed_d=[{a:"None",b:50},{a:"Under $1000",b:2},{a:"$1,001-$5,000",b:6},{a:"$5,001-$10,000",b:8},{a:"$10,001-$15,000",b:8},{a:"$15,001-$20,000",b:5},{a:"$20,001-$50,000",b:15},{a:"$50,001-$100,000",b:15},{a:"Above $100,000",b:4}];
-
-var data_ed_d=[{a:"None",b:4},{a:"Under $1000",b:1},{a:"$1,001-$5,000",b:9},{a:"$5,001-$10,000",b:14},{a:"$10,001-$15,000",b:13},{a:"$15,001-$20,000",b:11},{a:"$20,001-$50,000",b:26},{a:"$50,001-$100,000",b:16},{a:"Above $100,000",b:6}];
+var data_ed_d=[{a:"Under $1000",b:4},{a:"$1,001-$5,000",b:6},{a:"$5,001-$10,000",b:16},{a:"$10,001-$15,000",b:11},{a:"$15,001-$20,000",b:10},{a:"$20,001-$50,000",b:26},{a:"$50,001-$100,000",b:18},{a:"Above $100,000",b:9}];
 
 
 
 ////
+///////////////////////////
+///////////////////////////////
+////////////////////////////////
+///// employment
+//////////////////////////////////
+/////////////////////////////////////
 //////
-//
-
-
-//////
-// employment
+// 
 
  
 
 
 var data_employed=[
 {a:"Employed full-time",b:57},
-{a:"Disabled or otherwise unable to work",b:12},
-{a:"Retired",b:10},
-{a:"Self-employed business owner",b:5},
-{a:"Student",b:5},
-{a:"Unemployed and looking for work",b:5},
-{a:"Employed part-time",b:4},
-{a:"Unemployed and not looking for work",b:1},
-{a:"Prefer not to answer",b:1}];
+{a:"Retired",b:20},
+{a:"Disabled or otherwise unable to work",b:17},
+{a:"Self-employed business owner",b:7},
+{a:"Student",b:6},
+{a:"Unemployed and looking for work",b:6},
+{a:"Employed part-time",b:5},
+{a:"Unemployed and not looking for work",b:3},
+{a:"Prefer not to answer",b:.5}];
 
 var dummydata_employed=[
 {a:"Employed full-time",b:57},
-{a:"Disabled or otherwise unable to work",b:12},
 {a:"Retired",b:10},
+{a:"Disabled or otherwise unable to work",b:12},
 {a:"Self-employed business owner",b:5},
 {a:"Student",b:5},
 {a:"Unemployed and looking for work",b:5},
@@ -5393,16 +6204,21 @@ var dummydata_employed=[
 {a:"Prefer not to answer",b:1}
 ];
 
+/////
+//////
 
 var numero_data_employed=[5];
 
+////
+/////
+var numero_data_underemployed=[34];
 
 /////
 /////// training 
  
 var data_traing = [
-{a:"Yes",b:40},
-{a:"No",b:60}
+{a:"Yes",b:39},
+{a:"No",b:61}
 ];
  
 var dummydata_traing = [
@@ -5414,6 +6230,12 @@ var dummydata_traing = [
 /////
 /////// job secured before leaving military 
  
+ //////
+
+var numero_data_job_secured=[66];
+
+
+
 var data_job_before = [
 {a:"Yes",b:31},
 {a:"No",b:69}
@@ -5432,12 +6254,12 @@ var dummydata_job_before = [
 var data_without_job = [
 {a:"Less than 30 days",b:11},
 {a:"31 to 60 days",b:13},
-{a:"61 to 90 days",b:13},
-{a:"91 to 180 days",b:13},
-{a:"181 to 365 days",b:9},
-{a:"Over 365 days",b:20},
+{a:"61 to 90 days",b:11},
+{a:"91 to 180 days",b:15},
+{a:"181 to 365 days",b:11},
+{a:"Over 365 days",b:21},
 {a:"Have not experienced unemployment",b:4},
-{a:"Opted to attend school",b:17}
+{a:"Opted to attend school",b:14}
 ];
  
 var dummydata_without_job = [
@@ -5478,11 +6300,11 @@ var dummydata_level = [
 //// Are you personally satisfied with your current job? 
  
 var data_satisfied = [
-{a:"Extremely satisfied",b:29},
-{a:"Somewhat satisfied",b:41},
-{a:"Neither satisfied nor dissatisfied",b:12},
-{a:"Somewhat dissatisfied",b:12},
-{a:"Extremely dissatisfied",b:6}
+{a:"Extremely satisfied",b:36},
+{a:"Somewhat satisfied",b:42},
+{a:"Neither satisfied nor dissatisfied",b:9},
+{a:"Somewhat dissatisfied",b:9},
+{a:"Extremely dissatisfied",b:4}
 ];
  
 var dummydata_satisfied = [
@@ -5596,6 +6418,21 @@ var dummydata_startup = [
 {a:"I am already a business owner",b:50}
 ];
 
+///
+///////
+///// Are you currently a business owner or do you have plans to start your own business/non-profit enterprise? 
+
+var data_startup = [
+{a:"I am already a business owner",b:9},
+{a:"I am planning on starting my own business",b:18},
+{a:"I have no plans to start my own business",b:73}
+];
+ 
+var dummydata_startup = [
+{a:"I am already a business owner",b:14},
+{a:"I am planning on starting my own business",b:10},
+{a:"I have no plans to start my own business",b:50}
+];
 
 
 //////
@@ -5603,13 +6440,13 @@ var dummydata_startup = [
 
 
 var data_startup_challenges = [
-{a:"Start up capital",b:88},
-{a:"Operating costs",b:62},
-{a:"Navigating federal and state regulations",b:53},
-{a:"Can't qualify for loans",b:37},
-{a:"Lack of industry experience",b:36},
-{a:"Lack of available training",b:22},
-{a:"Other",b:13}
+{a:"Start up capital",b:72},
+{a:"Operating costs",b:60},
+{a:"Navigating federal and state regulations",b:48},
+{a:"Can't qualify for loans",b:32},
+{a:"Lack of industry experience",b:32},
+{a:"Lack of available training",b:19},
+{a:"Other",b:12}
 ];
  
 var dummydata_startup_challenges = [
@@ -5624,10 +6461,14 @@ var dummydata_startup_challenges = [
 
 
 
+///
+//// aware of VA/Department of Labor small business support programs for veterans
 
+ var numero_employ_loans_aware = [43];
 
-
-
+////
+//////
+////////
 
 var numero_underemployed = [37];
 
