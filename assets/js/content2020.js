@@ -432,12 +432,13 @@ Founder and CEO
 
   
   
-    
+  
  
-<h5 style="display:none !important; ">Registered to Vote</h5>
- <div class="barlabel" style="display:none !important; "></div><div style="display:none !important;width:100%; ">
+ 
+<h5>What impact do you think having more veterans in Congress would have on the ability of Congress to address national issues?</h5>
+ <div class="barlabel" style="display:inline-block; "></div><div style="display:none !important;width:100%; ">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg28" height="75"></svg></div>
-<div id="legendrow28" class="legendrow" style="display:none !important; ">
+<div id="legendrow28" class="legendrow">
 </div>
 
 
@@ -446,8 +447,8 @@ Founder and CEO
  
   
 
-<h5>Political Party Affiliation</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg29" height="500"></svg></div>
+<h5 style="display:none !important; ">Political Party Affiliation</h5>
+<div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg29" height="500"></svg></div>
 
   <br />
 
@@ -461,13 +462,13 @@ Founder and CEO
   <span class="issuesBsm" style="height:6em; ">
  1. Veterans Issues
 <br />
-2. Economy
+2. Gun control/2nd Amendment rights
 <br />
 3. Military/defense issues
 <br />
-4. Health Care
+4. Economy
 <br />
-5. Gun control/2nd Amendment rights
+5. Health Care
  </span>
   
  

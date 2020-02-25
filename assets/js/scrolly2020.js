@@ -1103,12 +1103,12 @@ var dummydata_planning = [
 
 
 var data_party = [
-{a:"No affiliation/independent",b:37},
-{a:"Republican Party",b:33},
-{a:"Democratic Party",b:23},
+{a:"No affiliation/independent",b:36},
+{a:"Republican Party",b:35},
+{a:"Democratic Party",b:22},
 {a:"Libertarian Party",b:5},
 {a:"Green Party",b:.5},
-{a:"Other",b:2}
+////////{a:"Other",b:2}
 
 ];
 
@@ -1120,10 +1120,8 @@ var dummydata_party = [
 {a:"Democratic Party",b:23},
 {a:"Libertarian Party",b:5},
 {a:"Green Party",b:.5},
-{a:"Other",b:2}
+////////////////{a:"Other",b:2}
 ];
-
-
 
 
 
@@ -7412,13 +7410,29 @@ startnumerosB(data_planning);
 
 
 
+//////
+///// 2019 version
+//////
+///////// drawStackChart(data_reg);
+
+//////
+/// added in
+////
+drawStackChart(data_vet_impact);
 
 
-drawStackChart(data_reg);
 
 
-drawHBarChart(data_party);
+/////
+//////  
+//////
 
+///////
+//// taken out in 2020
+////////drawHBarChart(data_party);
+////
+/////
+//////
 
 ///////
 //////
@@ -8216,7 +8230,15 @@ startnumerosB(numero_impact,"svg25");
 startnumerosA(numero_considered,"svg26");
 startnumerosC(data_planning,"svg27");
 
-changeStackChart(data_reg,"svg28");
+
+////
+/// changed 2020
+//////changeStackChart(data_reg,"svg28");
+
+changeStackChart(data_vet_impact,"svg28");
+
+
+
 
 changeHBarChart(data_party,"svg29");
 
