@@ -220,23 +220,23 @@ Founder and CEO
  <br />
  <h5>Number of Deployments</h5>
 
-<div class="barlabel">Operation Enduring Freedom (OEF)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg4" height="75"></svg></div>
+<div class="barlabel">Afghanistan</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg4" height="75"></svg></div>
 <div id="legendrow4" class="legendrow">
 </div>
 
-<div class="barlabel">Iraqi Freedom (OIF)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg5" height="75"></svg></div>
+<div class="barlabel">Iraqi</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg5" height="75"></svg></div>
 <div id="legendrow5" class="legendrow">
 </div>
 
-<div class="barlabel">New Dawn (OND)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg6" height="75"></svg></div>
+<div class="barlabel">Other Combat Areas</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg6" height="75"></svg></div>
 <div id="legendrow6" class="legendrow">
 </div>
 
-<div class="barlabel">Resolute Support (ORS)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="75"></svg></div>
+ <div class="barlabel" style="display:none !important; ">Resolute Support (ORS)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="75"></svg></div>
 <div id="legendrow7" class="legendrow">
 </div>
 
- <div class="barlabel">Inherent Resolve (OIR)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg8" height="75"></svg></div>
+ <div class="barlabel" style="display:none !important; ">Inherent Resolve (OIR)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg8" height="75"></svg></div>
 <div id="legendrow8" class="legendrow">
 </div>
 
