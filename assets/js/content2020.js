@@ -232,11 +232,11 @@ Founder and CEO
 <div id="legendrow6" class="legendrow">
 </div>
 
- <div class="barlabel" style="display:none !important; ">Resolute Support (ORS)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="75"></svg></div>
+ <div class="barlabel" style="display:none !important; ">Resolute Support (ORS)</div><div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="75"></svg></div>
 <div id="legendrow7" class="legendrow">
 </div>
 
- <div class="barlabel" style="display:none !important; ">Inherent Resolve (OIR)</div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg8" height="75"></svg></div>
+ <div class="barlabel" style="display:none !important; ">Inherent Resolve (OIR)</div><div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg8" height="75"></svg></div>
 <div id="legendrow8" class="legendrow">
 </div>
 
@@ -412,7 +412,7 @@ Founder and CEO
 
 <div class="numerosB">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg25" width="260" height="150"></svg>
-<div class="numerosB-words">think having more veterans in Congress would have a positive impact Congress to address national issues.</div>
+<div class="numerosB-words">are registered to vote.</div>
 </div>
 
 
@@ -427,17 +427,17 @@ Founder and CEO
 
 <div class="numerosC">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg27" width="260" height="150"></svg>
-<div class="numerosC-words">definitely planned on voting in 2018 Midterm Elections.*</div>
+<div class="numerosC-words">definitely planned on voting in 2020 Elections.*</div>
 </div>
 
   
   
     
  
-<h5>Registered to Vote</h5>
- <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
+<h5 style="display:none !important; ">Registered to Vote</h5>
+ <div class="barlabel" style="display:none !important; "></div><div style="display:none !important;width:100%; ">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg28" height="75"></svg></div>
-<div id="legendrow28" class="legendrow">
+<div id="legendrow28" class="legendrow" style="display:none !important; ">
 </div>
 
 

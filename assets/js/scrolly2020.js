@@ -659,25 +659,24 @@ var dummydata_milserve_recommend=[{a:"Yes",b:41},{a:"No",b:27},{a:"Unsure",b:18}
 
 
 
-var data_m=[{a:"One Deployment",b:51},{a:"Two Deployments",b:18},{a:"Three Deployments",b:5},{a:"Four Deployments",b:1},{a:"Five+ Deployments",b:2}];
+var data_m=[{a:"One Deployment",b:29},{a:"Two Deployments",b:8},{a:"Three Deployments",b:2},{a:"Four Deployments",b:.5},{a:"Five+ Deployments",b:1}];
 
 var dummydata_m=[{a:"One Deployment",b:55},{a:"Two Deployments",b:21},{a:"Three Deployments",b:6},{a:"Four Deployments",b:6},{a:"Five+ Deployments",b:6}];
 
 
-var data_n=[{a:"Zero Deployments",b:12},{a:"One Deployment",b:57},{a:"Two Deployments",b:24},{a:"Three Deployments",b:5},{a:"Four Deployments",b:1},{a:"Five+ Deployments",b:1}];
+var data_n=[{a:"One Deployment",b:52},{a:"Two Deployments",b:23},{a:"Three Deployments",b:6},{a:"Four Deployments",b:2},{a:"Five+ Deployments",b:1}];
 
-var dummydata_n=[{a:"Zero Deployments",b:18},{a:"One Deployment",b:55},{a:"Two Deployments",b:21},{a:"Three Deployments",b:6},{a:"Four Deployments",b:6},{a:"Five+ Deployments",b:6}];
-
-
+var dummydata_n=[{a:"One Deployment",b:55},{a:"Two Deployments",b:21},{a:"Three Deployments",b:6},{a:"Four Deployments",b:6},{a:"Five+ Deployments",b:6}];
 
 
 
 
+var data_o=[{a:"One Deployment",b:24},{a:"Two Deployments",b:9},{a:"Three Deployments",b:4},{a:"Four Deployments",b:1},{a:"Five+ Deployments",b:2}];
 
-var data_o=[{a:"Zero Deployments",b:78},{a:"One Deployment",b:20},{a:"Two+ Deployments",b:2}];
+var dummydata_o=[{a:"One Deployment",b:55},{a:"Two Deployments",b:21},{a:"Three Deployments",b:6},{a:"Four Deployments",b:6},{a:"Five+ Deployments",b:6}];
 
-var dummydata_o=[{a:"Zero Deployments",b:18},{a:"One Deployment",b:55},{a:"Two+ Deployments",b:6}];
 
+ 
 
 
 var data_p=[{a:"Zero Deployments",b:95},{a:"One Deployment",b:4},{a:"Two+ Deployments",b:1}];
@@ -1152,11 +1151,6 @@ var dummydata_vet_impact = [
 
 
 
-var numero_impact = [87];
-
-
-
-
 ////
 //////  
 ///
@@ -1175,6 +1169,11 @@ var dummydata_running = [
 {a:"No",b:28}
 
 ];
+
+
+
+
+var numero_impact = [97];
 
 
 
