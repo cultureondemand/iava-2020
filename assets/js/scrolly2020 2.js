@@ -2488,12 +2488,12 @@ var numero_suicide_know_died = [62];
 
 var data_mental_considered  = [
 {a:"Yes",b:44},
-{a:"No",b:56}
+{a:"No",b:56
 ];
 
 var dummydata_mental_considered = [
 {a:"Yes",b:10},
-{a:"No",b:90}
+{a:"No",b:90
 ];
 
 
@@ -2533,7 +2533,7 @@ var dummydata_mental_considered = [
 
 var data_mental_considered_before  = [
 {a:"Yes",b:10},
-{a:"No",b:90}
+{a:"No",b:90
 ];
 
 var dummydata_mental_considered_before = [
