@@ -575,6 +575,26 @@ var data_interact = [
 
 
 
+
+/////////
+//// reco sevice to fam or friend
+///////////
+
+var dummydata_reco_service = [
+{a:"Yes",b:45},
+{a:"No",b:45},
+{a:"Unsure",b:10}
+];
+
+ 
+var data_reco_service = [
+{a:"Yes",b:77},
+{a:"No",b:8},
+{a:"Unsure",b:15}
+];
+
+
+
 ///////////
 //////// 2018nnumbers
 ///////////
@@ -1057,6 +1077,11 @@ var dummydata_reg = [
 
 var numero_vote_reg = [97];
 
+var numero_vote_reg_testA = [7];
+
+var numero_vote_reg_testB = [9];
+
+
 
  
 
@@ -1264,6 +1289,40 @@ var dummydata_employer_retain = [
 {a:"Somewhat disagree",b:13},
 {a:"Strongly disagree",b:1} 
 ];
+
+
+
+
+
+///
+////
+
+
+
+
+
+var data_employer_junk = [
+{a:"Strongly agree",b:6},  
+{a:"Somewhat agree",b:26},
+{a:"Neither agree nor disagree",b:35},
+{a:"Somewhat disagree",b:23},
+{a:"Strongly disagree",b:10} 
+];
+
+
+ 
+
+var dummydata_employer_junk = [
+{a:"Strongly agree",b:13},  
+{a:"Somewhat agree",b:86},
+{a:"Neither agree nor disagree",b:86},
+{a:"Somewhat disagree",b:13},
+{a:"Strongly disagree",b:1} 
+];
+
+
+
+
 
 
 
@@ -2090,7 +2149,7 @@ var dummydata_challenges_valued = [
 //// had a successful transition
 
 
-var data_challenges_valued = [
+var data_challenges_belonging = [
 {a:"Strongly agree",b:20},
 {a:"Somewhat agree",b:29},
 {a:"Neutral",b:23},
@@ -2101,7 +2160,7 @@ var data_challenges_valued = [
 
 
 
-var dummydata_challenges_valued = [
+var dummydata_challenges_belonging = [
 {a:"Strongly agree",b:25},
 {a:"Somewhat agree",b:32},
 {a:"Neutral",b:14},
@@ -2471,7 +2530,9 @@ var dummydata_benefits_influential = [
 ///////
 ////////
 //////////////
-var numero_suicide_progress = [77];
+var numero_suicide_progress = [15];
+
+var numero_suicide_care = [11];
 
 var numero_suicide_know_attempt = [67];
 
@@ -2582,6 +2643,34 @@ var data_mental_hotline_contact  = [
 var dummydata_mental_hotline_contact = [
 {a:"Yes",b:40},
 {a:"No",b:10}
+];
+///////////////
+////////////////////
+////
+
+
+
+
+
+////////
+//////////////////////////////
+//////// rate hotline 
+//////////////////////////////
+
+var data_mental_hotline_rate  = [
+{a:"Excellent",b:29},
+{a:"Good",b:32},
+{a:"Average",b:19},
+{a:"Poor",b:11},
+{a:"Terrible",b:10}
+];
+
+var dummydata_mental_hotline_rate = [
+{a:"Excellent",b:20},
+{a:"Good",b:20},
+{a:"Average",b:20},
+{a:"Poor",b:20},
+{a:"Terrible",b:20}
 ];
 ///////////////
 ////////////////////
@@ -2880,7 +2969,7 @@ var dummydata_mental_help_sought = [
 
 ////////////
 ////// General Health
-////
+////        
 //
  //// before
 ////////
@@ -3207,7 +3296,7 @@ var dummydata_health_medication = [
 ////
  //// In the past, have you been prescribed any of the following drugs for a service-related injury
 
-var data_health_medication = [
+var data_health_medication_past = [
 {a:"Antidepressant",b:46},
 {a:"Sleeping Pills",b:36},
 {a:"Anti-anxiety",b:35},
@@ -3215,7 +3304,7 @@ var data_health_medication = [
 ];
 
 
-var dummydata_health_medication = [
+var dummydata_health_medication_past = [
 {a:"Antidepressant",b:75},
 {a:"Sleeping Pills",b:52},
 {a:"Anti-anxiety",b:50},
@@ -3225,6 +3314,12 @@ var dummydata_health_medication = [
  
 
  
+
+
+var numero_health_taking = [6];
+
+
+
 
 
 
@@ -3443,6 +3538,25 @@ var dummydata_burn_symptoms = [
 ];
    
    
+
+
+/// 
+//// burn pits documented
+
+var data_burn_discuss = [
+{a:"Yes",b:49},
+{a:"No",b:51}
+];
+
+
+var dummydata_burn_discuss = [
+{a:"Yes",b:51},
+{a:"No",b:21}
+];
+   
+   
+   
+  
   
  
 
@@ -3711,6 +3825,24 @@ var data_cannabis = [
 
 
 var dummydata_cannabis = [
+{a:"Yes",b:1},
+{a:"No",b:4},
+{a:"Not sure",b:7}
+];
+
+ 
+//
+/////
+//////// Do you live in a state where cannabis or other cannabinoid products are legal for recreational
+
+var data_cannabis_state_med = [
+{a:"Yes",b:60},
+{a:"No",b:25},
+{a:"Not sure",b:15}
+];
+
+
+var dummydata_cannabis_state_med = [
 {a:"Yes",b:1},
 {a:"No",b:4},
 {a:"Not sure",b:7}
@@ -4589,7 +4721,7 @@ var dummydata_wom_prosecutor = [
 var numero_data_wom_survivor=[9];
 var numero_data_wom_survivor_f=[43];
 var numero_data_wom_survivor_m=[3];
-var numero_data_wom_report=[29];
+var numero_data_wom_report=[31];
 var numero_data_wom_retaliation=[73];
 
  
@@ -5071,7 +5203,7 @@ var dummydata_va_safe = [
 /////////
  
 
-var data_va_safe = [
+var data_va_respect = [
 {a:"Strongly agree",b:41},
 {a:"Somewhat agree",b:33},
 {a:"Neither agree nor disagree",b:14},
@@ -5079,7 +5211,7 @@ var data_va_safe = [
 {a:"Strongly disagree",b:4}
 ];
 
-var dummydata_va_safe = [
+var dummydata_va_respect = [
 {a:"Strongly agree",b:6},
 {a:"Somewhat agree",b:26},
 {a:"Neither agree nor disagree",b:15},
@@ -5382,6 +5514,33 @@ var dummydata_va_non_quality = [
 {a:"Neither agree nor disagree",b:15},
 {a:"Somewhat disagree",b:31},
 {a:"Strongly disagree",b:2}
+];
+
+
+///////////////
+
+
+
+
+///////////////
+/// How confident are you in VA's ability to successfully operate its Community Care program
+/////////
+ 
+
+var data_va_non_confident = [
+{a:"Extremely confident",b:6},
+{a:"Somewhat confident",b:29},
+{a:"Neither confident nor unconfident",b:40},
+{a:"Somewhat unconfident",b:15},
+{a:"Extremely unconfident",b:10}
+];
+
+var dummydata_va_non_confident = [
+{a:"Extremely confident",b:6},
+{a:"Somewhat confident",b:26},
+{a:"Neither confident nor unconfident",b:15},
+{a:"Somewhat unconfident",b:31},
+{a:"Extremely unconfident",b:2}
 ];
 
 
@@ -7329,12 +7488,46 @@ var containerA=document.getElementById("container-1");containerA.setAttribute("s
 
 if(!trigger){
 
-///////////
-////////////
-////////////////
-////// added in
-startnumerosA(numeros_milserve_recommend);
-///////////////startnumerosA(data_milserve_recommend);
+
+
+
+
+//////////////////
+//// profile of iava member
+////////////////////
+ /////////////////////////
+
+drawStackChart(data_gender);
+///////
+
+drawHBarChart(data_ethnicity);
+
+
+drawHBarChart(data_religion);
+
+drawPieChart(data_age);
+
+drawPieChart(data_marital);
+
+drawPieChart(data_children);
+
+drawHBarChart(data_school);
+
+
+drawHBarChart(data_income);
+
+
+
+///////////////
+/// added in
+/////////////// drawHBarChart(data_party);
+/////////////////
+//////////////////drawStackChart(data_orientation);
+
+
+
+
+
 
 
 drawStackChart(data_branch);
@@ -7345,65 +7538,58 @@ drawStackChart(data_officer);
 ///changePieChart(data_officer,"svg2");
 
 
-
-////////drawPieChart(dummydata_branch);
-/////drawPieChart(dummydata_officer);
+/////// number of deployments
 drawHBarChart(data_l);
 
-///
-//// 2019 stack charts
-/*
-drawStackChart(data_m);
-drawStackChart(data_n);
-drawStackChart(data_o);
-*/
-/////
-////
-
 drawHBarChart(data_m);
-drawHBarChart(data_n);
-drawHBarChart(data_o);
 
-drawStackChart(data_p);
-drawStackChart(data_pp);
-startnumerosA(numero_natg);
-drawHBarChart(data_milserve_separate);
-drawStackChart(data_discharge);
-////////////startnumerosA(numero_member);
-drawHBarChart(data_interact);
-drawHBarChart(data_interact_how);
-
-/////////
-///// taken out
-////drawStackChart(data_milserve_recommend);
 //////////////
+/// toook out community 2020
 
-//////////
+drawHBarChart(data_n);
+/*
+
+changeHBarChart(data_o,"svg14");
+
+
+drawStackChart(data_p,"svg15");
+
+drawStackChart(data_pp,"svg16");
+*/
+
+drawHBarChart(data_natg);
 
 
 
+drawStackChart(data_discharge);
+
+drawHBarChart(data_milserve_separate);
+
+/////////////////
+///////// removed
+/////////////////////// startnumerosA(numero_member,"svg12");
+
+drawHBarChart(data_interact);
+
+/////////////////////// changeHBarChart(data_interact_how,"svg19");
+//////////////////////////drawStackChart(data_milserve_recommend,"svg24");
+
+
+drawStackChart(data_reco_service);
+
+
+
+
+
+
+
+
+///////////
+////////////
+////////////////
 ////
 ///////
 //////////////
-
-//////////////////
-//// moved
-drawStackChart(data_gender);
-///////
-drawPieChart(dummydata_age);
-drawPieChart(dummydata_community);
-drawHBarChart(data_income);
-drawHBarChart(data_school);
-drawPieChart(dummydata_marital);
-drawPieChart(data_children);
-drawHBarChart(data_ethnicity);
-///////////////
-/// added in
-drawHBarChart(data_party);
-/////////////////
-drawHBarChart(data_religion);
-drawStackChart(data_orientation);
-
 
  
 /////////////////////////////
@@ -7411,6 +7597,8 @@ drawStackChart(data_orientation);
 ////// political engagement
 ///////////
 
+startnumerosB(numero_vote_reg_testA);
+startnumerosB(numero_vote_reg_testB);
 
 
 startnumerosA(numero_vote_reg);
@@ -7441,23 +7629,92 @@ drawStackChart(data_vet_impact);
 
 ///////
 //// taken out in 2020
- drawHBarChart(data_party);
+/////// drawHBarChart(data_party);
 ////
 /////
 //////
+
+
+
+
+
+
+
+
+///////////////////
+//////////
+///// Civic Engagement
+/////////////////////
+//////////
+/////////////////////
+
+
+ 
+
+startnumerosA(numeros_civic_volunteer);
+startnumerosC(numeros_civic_volunteer_more);
+drawHBarChart(data_civic_issues);
+
+
 
 ///////
 //////
 ////////
 ///////////// political perceptions
+/// 2020 merged / changed to issues from the headlines
 /////
 
-startnumerosA(numero_trump_supports);
 
-startnumerosB(numero_congress_supports);
 
-startnumerosC(numero_public_supports);
 
+
+drawStackChart(data_civic_oppose_trump);
+drawStackChart(data_civic_border);
+drawStackChart(data_civic_wall);
+drawStackChart(data_civic_paroleinplace);
+drawStackChart(data_civic_citizenship);
+
+ 
+drawStackChart(data_selective_end);
+drawStackChart(data_selective_women);
+drawHBarChart(data_deport);
+startnumerosA(numero_deport_impacted);
+startnumerosB(numero_deport_know);
+
+ 
+ 
+
+
+
+  
+ 
+ drawHBarChart(data_iraq_worth);
+
+drawHBarChart(data_afghan_worth);
+
+
+
+
+
+drawStackChart(data_trump_support);
+
+drawStackChart(data_congress_support);
+
+drawStackChart(data_public_support);
+
+drawStackChart(data_public_understand);
+
+drawStackChart(data_employer_support);
+
+drawStackChart(data_employer_retain);
+
+
+drawStackChart(data_employer_junk);
+
+
+
+
+ 
 
 /*
 startnumerosB(numeroVoted);
@@ -7468,67 +7725,11 @@ drawStackChart(data_s);
 */
 
 
-drawStackChart(data_public_support);
-drawStackChart(data_congress_support);
-
-drawStackChart(data_trump_support);
-
-drawStackChart(data_employer_support);
-
-
-drawStackChart(data_public_understand);
-
-
- 
-
-
-
-///////////
-////employment
-///////////
-
-
- 
- ///
- ////
- 
-///////////////   drawHBarChart(data_employed);
-    startnumerosA(numero_data_employed);
-
-
- startnumerosB(numero_underemployed);
-  startnumerosC(numero_unemployed);
-   drawStackChart(data_job_before);
-   drawHBarChart(data_without_job);
-  
-      drawStackChart(data_traing);
-   drawHBarChart(data_level);
-   drawStackChart(data_satisfied);
-  
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-////////////      drawHBarChart(data_satisfied_why);
-  
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-////////////      drawHBarChart(data_dissatisfied);
-
-
-///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-////////////          drawHBarChart(data_looking);
-
-
-
-
-
-   drawStackChart(data_startup);
-    drawHBarChart(data_startup_challenges);
- startnumerosB(numero_employ_loans);
-
+////////////////////
+////////////////
+////// 2020 suicide
+////////////////////
+//////////////////
  
  
 //////////////
@@ -7537,14 +7738,23 @@ drawStackChart(data_public_understand);
 ////////////////////
 ////////////
 
-startnumerosC(numero_suicide_know_died);
-startnumerosB(numero_suicide_know_attempt);
-startnumerosA(numero_suicide_progress);
+ startnumerosB(numero_suicide_progress);
+startnumerosA(numero_suicide_care);
 
-  drawHBarChart(data_mental_considered);
+   drawStackChart(data_mental_know_attempted);
+  drawStackChart(data_mental_know);
   drawStackChart(data_mental_considered_before);
+  drawStackChart(data_mental_considered);
   drawStackChart(data_mental_hotline);
   drawStackChart(data_mental_hotline_contact);
+  drawStackChart(data_mental_hotline_rate);
+
+
+
+ 
+
+
+
 
  
   ////////
@@ -7562,50 +7772,45 @@ startnumerosA(numero_suicide_progress);
 
 
 drawStackChart(data_burn_symptoms);
+drawStackChart(data_burn_discuss);
+drawStackChart(data_burn_documented);
 drawStackChart(data_burn_registry);
-drawHBarChart(data_burn_registered);
-drawStackChart(data_burn_issues);
+drawStackChart(data_burn_registered);
+
+drawHBarChart(data_burn_issues);
 
  
- 
- 
- 
- ///
-////
-//////////////////////
-////////////////
+drawHBarChart(data_burn_evaluation);
+
+
+
 /////////
-
-////////////
-/// women
-////////////
-
-
-
-///////
-////
- ////////////////
-/// womens data
-////////////////
+//////////
+////// womens issues
+/////////////
+/////////////////
 
 
 drawStackChart(data_wom_iava);
-//////drawStackChart(data_wom_positions);
-
-
+ 
+ 
 drawStackChart(data_wom_positions);
-drawStackChart(data_wom_positions_m);
 drawStackChart(data_wom_positions_f);
+drawStackChart(data_wom_positions_m);
 
  drawStackChart(data_wom_combat);
- drawStackChart(data_wom_combat_m);
  drawStackChart(data_wom_combat_f);
+ drawStackChart(data_wom_combat_m);
  
  
 drawStackChart(data_wom_recognition);
-drawStackChart(data_wom_recognition_m);
 drawStackChart(data_wom_recognition_f);
+drawStackChart(data_wom_recognition_m);
 
+ 
+drawHBarChart(data_wom_motto);
+drawHBarChart(data_wom_motto_f); 
+drawHBarChart(data_wom_motto_m);
 
 
 drawHBarChart(data_wom_suicidal);
@@ -7613,10 +7818,11 @@ drawHBarChart(data_wom_injury);
 drawHBarChart(data_wom_expenses);
 
 
+drawHBarChart(data_wom_safe);
+drawHBarChart(data_wom_respected);
 
 
-drawHBarChart(data_wom_motto);
- 
+
 
 /////////////////////
 ////////////
@@ -7626,128 +7832,142 @@ drawHBarChart(data_wom_motto);
 //////////////////
 
 
+ 
+
+
+startnumerosC(numero_data_wom_survivor);
+startnumerosB(numero_data_wom_survivor_f);
+startnumerosA(numero_data_wom_survivor_m);
+ startnumerosB(numero_data_wom_report);
+
+
+
+
+ startnumerosA(numero_data_wom_retaliation);
+
+drawHBarChart(data_wom_impact);
+  
+ drawStackChart(data_wom_prosecutor);
+
+   
+
+
+
+
 ///
 ///////
 ////
 
-startnumerosC(numero_data_wom_survivor);
- startnumerosB(numero_data_wom_report);
- startnumerosA(numero_data_wom_retaliation);
-
-drawHBarChart(data_wom_impact);
- 
-  startnumerosB(numero_mst);
- 
- drawStackChart(data_wom_prosecutor);
 
  
- //////////////////
- /// removing item
-/////////////////////   drawHBarChart(data_wom_not_report);
-
- ////////////////////////
- ///////////////////
- /////////////////////////
-
-
- ////
  
-  ////
-  //////
-  
-  
-  
-  
-///
-///////////
-/////va health
+ ///
 ////
+//////////////////////
+////////////////
+///////// rate va healtn care
 
- ////  drawStackChart(data_va_private);
+////////////
 
- startnumerosA(numero_va_priv);
-  startnumerosB(numero_enrolled);
-  startnumerosC(numero_va_rate);
 
-  //////////////////
- /// removing item
-/////////////////////   drawHBarChart(data_wom_not_report);
+startnumerosB(numero_enrolled);
 
- 
- 
- startnumerosA(numero_other);
- 
+ startnumerosA(numero_va_primary);
+
   drawHBarChart(data_va_coverage);
 
- drawStackChart(data_va_primary);
+drawStackChart(data_va_experience);
 
-  drawHBarChart(data_va_last);
- drawStackChart(data_va_experience);
- 
- //////////////////
- /// removing item
-/////////////////////  drawHBarChart(data_va_none);
+ startnumerosC(numero_2019_care_good);
+
+ startnumerosB(numero_2019_care_good);
 
 
-drawStackChart(data_va_quality);
- drawStackChart(data_va_non_quality);
+////////
 
 
  drawStackChart(data_va_understand);
- drawStackChart(data_va_non_understand);
+ //////drawStackChart(data_va_non_understand,"svg92");
+
+  drawStackChart(data_va_quality);
+//////drawStackChart(data_va_non_quality,"svg90");
+
+  drawStackChart(data_va_safe);
+
+  drawStackChart(data_va_respect);
+
+
+  drawStackChart(data_va_scheduling_mental);
+
+  drawStackChart(data_va_scheduling_prim);
+
+  drawStackChart(data_va_scheduling_special);
 
 
 
+  drawStackChart(data_va_satisfaction_mental);
 
- drawStackChart(data_va_satisfaction_prim);
- drawStackChart(data_va_satisfaction_special);
- drawStackChart(data_va_satisfaction_mental);
+  drawStackChart(data_va_satisfaction_prim);
 
-  
+  drawStackChart(data_va_satisfaction_special);
+
+
+ 
    ///////////////////////////////////////////////
- // removing
  /////////////////////////////////////////////////
-////////////   drawHBarChart(data_va_choose_non);
+/////////////////// mission act  community care
+ /////////////////////////////////////////////////
 
 
+startnumerosC(numero_va_mission_heard);
 
+startnumerosB(numero_va_mission_familiar);
 
+ startnumerosA(numero_va_mission_used);
 
-  
+  drawHBarChart(data_va_choice_exp);
+
+  drawStackChart(dummydata_va_non_understand);
+
+  drawStackChart(dummydata_va_non_quality);
+
+  drawStackChart(dummydata_va_scheduling_non_mental);
+
+  drawStackChart(dummydata_va_scheduling_non_prim);
+
+  drawStackChart(dummydata_va_scheduling_non_spec);
+
+   drawHBarChart(data_va_non_confident);
+
+ 
+ 
+
+ 
    ///////////////////////////////////////////////
- // removing
  /////////////////////////////////////////////////
-////////////     drawHBarChart(data_va_choose);
+///////////////////////////// rate va benefits
+ /////////////////////////////////////////////////
 
 
 
 
+startnumerosC(numero_va_rating);
 
 
- drawStackChart(data_va_familiar);
- drawStackChart(data_va_choice);
-  drawStackChart(data_va_choice_exp);
+  drawHBarChart(data_va_decision);
 
-  startnumerosB(numero_va_mission);
-
-
- 
-
-////////
- 
-  drawStackChart(data_va_rating);
- 
-  drawHBarChart(data_va_claim_long);
-
-  drawHBarChart(data_va_pending);
- 
   drawStackChart(data_va_outcome);
 
   drawStackChart(data_va_appeal);
- 
-  drawHBarChart(data_va_decision);
+  
+  drawHBarChart(data_va_claim_long);
 
-  drawHBarChart(data_va_appeal_pending);
+
+
+ /// changeStackChart(data_va_rating,"svg100");
+  /////// changeHBarChart(data_va_pending,"svg102");
+ 
+  //// changeHBarChart(data_va_appeal_pending,"svg106");
  
  
  
@@ -7763,48 +7983,69 @@ drawStackChart(data_va_quality);
 
   drawHBarChart(data_va_ask);
  
+ 
+ 
+
+
+
 
 //////
+////////
+/////////
+///////////////////////////// 
+////////// gi bill education
+/////////////////////////////////
+//////
 ///////
-  drawStackChart(data_gi_imp_recruit);
+
+
+/////// eligible for post 9/11 gi bill
+  startnumerosB(numero_gi_eligible);
+
+///// curenlty in school
+  startnumerosB(numero_gi_school_current);
+
+/////// ever used gi bill  
+  drawHBarChart(data_gi_use);
+
+///// graduate?
+  drawStackChart(data_gi_grad);
+
+/////// rate experience  
+  drawStackChart(data_gi_exp);
+   
+/////// what type of school attending  
+  drawHBarChart(data_ed_b);
+
+ /////  satisfaction with your ed programs 
+  drawHBarChart(data_ed_c);
+
+//// vet friendly
+  drawStackChart(data_ed_vetfriend);
+
+//// va ed benefits for ed
+  drawHBarChart(data_ed_a);
+
+
+//// how important is gi bill for the following
+ drawStackChart(data_gi_imp_recruit);
   drawStackChart(data_gi_imp_retent);
   drawStackChart(data_gi_imp_trans);
 
+/////// private lons
  startnumerosB(numero_ed_d);
-   startnumerosC(numero_data_ed_b);
 
+////// how much debt
    drawHBarChart(data_ed_d);
 
-
-  drawStackChart(data_gi_eligible);
-   drawHBarChart(data_gi_use);
-   drawStackChart(data_gi_grad);
-  drawStackChart(data_gi_exp);
-
  
- ////
- ///
+
+
+
+
+////////////////////////
+///////////////////////////
  
- 
- startnumerosA(numero_ed_a);
-startnumerosB(numero_ed_b);
-startnumerosC(numero_ed_c);
- 
-  drawHBarChart(data_ed_c);
-  drawStackChart(data_ed_vetfriend);
-
-/////  drawStackChart(data_ed_a);
-   drawHBarChart(data_ed_a);
-
-
-
-
-
-
-
-
-
-
 
 
  
@@ -7814,30 +8055,34 @@ startnumerosC(numero_ed_c);
  ///////////////////
  /// cannabis ////
  ////////////////////
+  
  
-startnumerosB(numero_cannabis_med);
+ ////////////
+ //////////////
+
+
+ drawStackChart(data_mj_legal);
+ drawStackChart(data_mj_medicinal);
+ drawStackChart(data_mj_research);
+drawStackChart(data_mj_va_research);
+
+
 
 startnumerosA(numero_cannabis_rec);
 
-/////// startnumerosA(numero_cannabis);
- 
- 
- drawStackChart(data_mj_research);
-drawStackChart(data_mj_va_research);
-drawStackChart(data_cannabis);
+ startnumerosB(numero_cannabis_med);
 
+
+ 
 drawStackChart(data_mj_treatment);
-drawHBarChart(data_cannabis_comfort);
-drawStackChart(data_cannabis_discussed);
 
-
-drawPieChart(dummydata_cannabis_recreational);
-drawPieChart(dummydata_cannabis_legal_med);
-drawPieChart(dummydata_cannabis_legal_rec);
+drawPieChart(data_cannabis_state_med);
+drawPieChart(data_cannabis);
 
 
  
  
+
  
  
  
@@ -7852,6 +8097,12 @@ drawHBarChart(data_alcohol);
 
 drawHBarChart(data_alcohol_typical);
 
+drawHBarChart(data_alcohol_twohour);
+
+
+
+
+
 
 /////////////////////////
 /////// removing item
@@ -7861,7 +8112,7 @@ drawHBarChart(data_alcohol_typical);
 ////////////////////////////////////////// bingswitch bars for number
 //////////////////////////////////////drawHBarChart(data_alcohol_twohour);
 
- startnumerosA(numero_data_alcohol);
+//// startnumerosA(numero_data_alcohol);
 
 
 
@@ -7901,14 +8152,20 @@ startnumerosA(numero_guns);
  drawHBarChart(data_guns_storage);
 
   drawStackChart(data_guns_lockers);
-  drawStackChart(data_guns_concealed);
-  drawStackChart(data_guns_assault);
-  drawStackChart(data_guns_high);
-  drawStackChart(data_guns_wait);
   drawStackChart(data_guns_trigger);
   drawStackChart(data_guns_background);
+  drawStackChart(data_guns_assault);
+  drawStackChart(data_guns_high);
+  drawStackChart(data_guns_concealed);
+  drawStackChart(data_guns_wait);
 
   
+
+ 
+ 
+
+
+
   
 
 ///
@@ -7922,34 +8179,34 @@ startnumerosA(numero_guns);
 ////////////////////  mental health
 ////
 
-  
-startnumerosA(numero_mental_care);
+
 
  
+  
+  
+startnumerosA(numero_mental_injury);
+
+startnumerosB(numero_mental_seek);
  
  ///////////////////////////////////////
  // insert top 3 mental help why here
  //////////////////////////////////////////
-///////////////   drawHBarChart(data_mental_help_why);
+///////////////   changeHBarChart(data_mental_help_why,"svg82");
 
-  drawStackChart(data_mental_injury);
-
-  drawStackChart(data_mental_help);
-  drawHBarChart(data_mental_help_where);
-
-
+  drawStackChart(data_mental_help_where);
 
  
    ///////////////////////////////////////////////
  // insert top 3 mental not seeking help why here
  /////////////////////////////////////////////////
-////////////   drawHBarChart(data_mental_help_not);
-
-
-
+////////////  changeHBarChart(data_mental_help_not,"svg86");
 
   drawStackChart(data_mental_help_suggest);
   drawStackChart(data_mental_help_sought);
+
+  
+
+
 
   
 ////////////////////
@@ -7959,62 +8216,59 @@ startnumerosA(numero_mental_care);
 
 
 
-
-////
-//
-
-drawPieChart(dummydata_health_before);
-drawPieChart(dummydata_health_after);
-drawPieChart(dummydata_health_importance);
-
-
-
 ///////////////////
 ///// general health
 ///////////////////////
 
 
-////drawStackChart(data_health_injury);
-startnumerosA(numero_health_injury);
+////
+//
 
-///////drawStackChart(data_health_pain);
-startnumerosB(numero_health_pain);
-
+drawPieChart(data_health_before);
+drawPieChart(data_health_after);
+drawPieChart(data_health_importance);
+ 
+ startnumerosA(numero_health_injury);
 drawHBarChart(data_health_a);
 
+startnumerosB(numero_health_pain);
 
 drawHBarChart(data_health_affect);
-
-
-
-
-//////////////////////////////
-// ########## new item insert
-/////////////////////////////
-
-/////////////drawHBarChart(data_health_sleep);
-
-//////////////////////////////
-// ########## new item insert
-/////////////////////////////
-
-/////////drawStackChart(data_health_sleep_trouble);
-//////////drawStackChart(data_health_sleep_diagnosed);
-
-//////////drawStackChart(data_health_exercise);
-///////////////drawStackChart(data_health_exercise_often);
-
-
 drawHBarChart(data_health_medication);
+
+
+startnumerosC(numero_health_taking);
+
+drawHBarChart(data_health_medication_past);
+
+
+//////drawStackChart(data_health_injury,"svg92");
+
+/////drawStackChart(data_health_pain,"svg93");
+////changeHBarChart(data_health_a,"svg94");
+
 
 drawHBarChart(data_health_therapies);
 
-drawStackChart(data_health_therapies_result);
-drawStackChart(data_health_assisting);
+
+ startnumerosA(numero_health_therapies);
+
+
+ startnumerosB(numero_health_assist);
+
 
 drawHBarChart(data_health_assisting_who);
-drawStackChart(data_health_activities);
 
+ drawStackChart(data_health_activities);
+
+drawStackChart(data_health_sleep);
+drawStackChart(data_health_sleep_trouble);
+
+ startnumerosA(numero_health_sleep);
+
+drawHBarChart(data_health_exercise_often);
+
+ 
   
 ////
 
@@ -8024,37 +8278,96 @@ drawStackChart(data_health_activities);
 /////
 
 
+  drawHBarChart(data_challenges);
+  drawHBarChart(data_challenges_current);
+  
+  drawStackChart(data_challenges_success);
+  drawStackChart(data_challenges_overcome);
+  drawStackChart(data_challenges_valued);
+  drawStackChart(data_challenges_belonging);
 
-  drawStackChart(data_challenges);
+/////////////
   drawStackChart(data_finances);
   drawStackChart(data_bills);
+
+/// loan practices
 startnumerosA(numero_lending);
+///loan type
   drawHBarChart(data_conditions);
+
+//////// current living situation
+  drawHBarChart(data_tran_current);
+
+
+///// perm place to live
 startnumerosA(numero_perm);
-  drawStackChart(data_tran_long);
-    drawStackChart(data_tran_temp);
 
-  
- drawHBarChart(data_tran_current);
+/// couchsurfing
+startnumerosB(numero_perm);
 
+////// 
+/// drawStackChart(data_tran_temp,"svg203");
   
-  
-    drawStackChart(data_tran_tap);
+//////   
+//// changeHBarChart(data_tran_current,"svg204");
+
+//how long
+   drawStackChart(data_tran_long);
+
+///////   
+ drawStackChart(data_tran_tap);
+//////
   drawStackChart(data_tran_rate);
-  drawStackChart(data_tran_when);
-  drawStackChart(data_tran_plan);
 
-  drawHBarChart(data_tran_challenges);
 
-  drawStackChart(data_tran_familiar);
 
-  drawHBarChart(data_benefits_influential);
 
+////////////////////////
+///////////////////////
  
 //////
 ////////
 
  
+
+
+
+///////////
+////employment
+///////////
+
+
+ 
+ ///
+ ////
+ 
+
+   drawHBarChart(data_employed);
+
+  ///////////  startnumerosA(numero_data_employed,"svg207");
+
+    startnumerosB(numero_underemployed);
+
+   drawStackChart(data_traing);
+   
+startnumerosC(numero_data_job_secured);
+  
+   drawHBarChart(data_without_job);
+   drawStackChart(data_satisfied);
+   drawStackChart(data_startup);
+    drawHBarChart(data_startup_challenges);
+
+
+
+ startnumerosB(numero_employ_loans);
+
+
+
+ 
+
+ 
+
+
 ////
 ///
 //////////////////////
@@ -8064,35 +8377,25 @@ startnumerosA(numero_perm);
 //////////changed
 
 /////////////////////////////////
-/////// issues in the headlines
+/////// issues in the headlines //// taken out 2020
 ////////////////////////////////////
 //////////
+/*
  drawHBarChart(data_iraq_worth);
 drawHBarChart(data_afghan_worth);
-/////////////
-//// moved
- drawStackChart(data_selective_women);
-drawStackChart(data_selective_end);
-///////////
-numero_afghan_visa
-startnumerosB(numero_afghan_visa);
-///////drawHBarChart(data_afghan_visa);
-drawHBarChart(data_citizenship);
+  drawStackChart(data_selective_end);
+drawStackChart(data_selective_women);
+  startnumerosB(numero_afghan_visa);
+ drawHBarChart(data_citizenship);
 drawHBarChart(data_deport);
 startnumerosA(numero_deport_impacted);
 startnumerosB(numero_deport_know);
-//////drawStackChart(data_deport_impacted);
-////////drawStackChart(data_deport_know);
- drawStackChart(data_transgender);
+  drawStackChart(data_transgender);
 drawStackChart(data_dadt);
-  ////
- //////////changed
-drawStackChart(data_parade);
-///////////
-//// moved
-//////////
-drawHBarChart(data_nfl);
+ drawStackChart(data_parade);
+ drawHBarChart(data_nfl);
 drawHBarChart(data_nfl_plan);
+*/
 ///////////
 ////////////
 /////////////
@@ -8148,88 +8451,43 @@ iii=0;
 ////////
 
 
-////// added in
-startnumerosA(numeros_milserve_recommend,"svg0");
-////////////////
-
-drawStackChart(data_branch,"svg1");
-/////changePieChart(data_branch,"svg1");
-
-
-drawStackChart(data_officer,"svg2");
-///changePieChart(data_officer,"svg2");
-
-changeHBarChart(data_l,"svg3");
-
-changeHBarChart(data_m,"svg4");
-
-changeHBarChart(data_n,"svg5");
-
-changeHBarChart(data_o,"svg6");
-
-
-
-
-drawStackChart(data_p,"svg7");
-
-drawStackChart(data_pp,"svg8");
-
-startnumerosA(numero_natg,"svg9");
-
-changeHBarChart(data_milserve_separate,"svg10");
-
-drawStackChart(data_discharge,"svg11");
-
-/////////////////
-///////// removed
-/////////////////////// startnumerosA(numero_member,"svg12");
-
-changeHBarChart(data_interact,"svg12");
-
-changeHBarChart(data_interact_how,"svg13");
-
-//////////////////////////drawStackChart(data_milserve_recommend,"svg24");
-
-
-
-
 ////////////////////////
 ////////////////////////////
 /////////////////////////
 
 //////////////////
 //// moved
-drawStackChart(data_gender,"svg14");
+drawStackChart(data_gender,"svg0");
 ///////
 
+changeHBarChart(data_ethnicity,"svg1");
 
 
-changePieChart(data_age,"svg15");
+changeHBarChart(data_religion,"svg2");
 
-changePieChart(data_community,"svg16");
+changePieChart(data_age,"svg3");
 
-changeHBarChart(data_income,"svg17");
+changePieChart(data_marital,"svg4");
 
-changeHBarChart(data_school,"svg18");
+changePieChart(data_children,"svg5");
 
-changePieChart(data_marital,"svg19");
+changeHBarChart(data_school,"svg6");
 
-changePieChart(data_children,"svg20");
 
-changeHBarChart(data_ethnicity,"svg21");
+changeHBarChart(data_income,"svg7");
+
+////////////////// changePieChart(data_community,"svg2");
 ///////////////
 /// added in
-changeHBarChart(data_party,"svg22");
+////////////////////changeHBarChart(data_party,"svg8");
 /////////////////
 
 
-changeHBarChart(data_religion,"svg23");
-
 /////////////////////////drawStackChart(data_gender,"svg8");
 
-changeStackChart(data_orientation,"svg24");
+////////changeStackChart(data_orientation,"svg8");
 
-var containerA=document.getElementById("container-1");containerA.setAttribute("style","visibility:hidden; ");
+
 
 
 }
@@ -8237,56 +8495,906 @@ var containerA=document.getElementById("container-1");containerA.setAttribute("s
 function showTitle4(){
 
 
-iii=25;
+
+iii=8;
+
+
+//////////////////////
+////// added in
+
+
+drawStackChart(data_branch,"svg8");
+/////changePieChart(data_branch,"svg1");
+
+
+drawStackChart(data_officer,"svg9");
+///changePieChart(data_officer,"svg2");
+
+
+/////// number of deployments
+changeHBarChart(data_l,"svg10");
+
+changeHBarChart(data_m,"svg11");
+
+//////////////
+/// toook out community 2020
+
+changeHBarChart(data_n,"svg12");
+/*
+
+changeHBarChart(data_o,"svg14");
+
+
+drawStackChart(data_p,"svg15");
+
+drawStackChart(data_pp,"svg16");
+*/
+
+ changeHBarChart(data_natg,"svg13");
+
+drawStackChart(data_discharge,"svg14");
+
+changeHBarChart(data_milserve_separate,"svg15");
+
+/////////////////
+///////// removed
+/////////////////////// startnumerosA(numero_member,"svg12");
+
+changeHBarChart(data_interact,"svg16");
+
+/////////////////////// changeHBarChart(data_interact_how,"svg19");
+//////////////////////////drawStackChart(data_milserve_recommend,"svg24");
+
+
+drawStackChart(data_reco_service,"svg17");
 
 
 
-startnumerosB(numero_vote_reg,"svg25");
-startnumerosA(numero_considered,"svg26");
-startnumerosC(data_planning,"svg27");
+
+
+
+var containerA=document.getElementById("container-1");containerA.setAttribute("style","visibility:hidden; ");
+
+
+}
+
+function showTitle5(){
+
+
+iii=18;
+
+
+
+startnumerosB(numero_vote_reg_testA,"svg18");
+startnumerosB(numero_vote_reg_testB,"svg19");
+
+
+startnumerosB(numero_vote_reg,"svg20");
+startnumerosA(numero_considered,"svg21");
+startnumerosC(data_planning,"svg22");
 
 
 ////
 /// changed 2020
 //////changeStackChart(data_reg,"svg28");
 
-changeStackChart(data_vet_impact,"svg28");
+changeStackChart(data_vet_impact,"svg23");
 
 
 
 
-changeHBarChart(data_party,"svg29");
+//////////// changeHBarChart(data_party,"svg24");
 
 ////////////
  
 }
 
-function showTitle5(){
 
-iii=30;
 
+
+
+
+function showTitle6(){
+
+
+iii=24;
+
+
+
+startnumerosB(numeros_civic_volunteer,"svg24");
+startnumerosA(numeros_civic_volunteer_more,"svg25");
+ 
+
+////
+/// changed 2020
+//////changeStackChart(data_reg,"svg28");
+
+changeHBarChart(data_civic_issues,"svg26");
+
+ 
+
+
+
+
+
+//////////////////////////changeHBarChart(data_party,"svg28");
+
+////////////
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+function showTitle7(){
+
+iii=27;
+
+
+changeStackChart(data_civic_oppose_trump,"svg27");
+
+changeStackChart(data_civic_border,"svg28");
+
+changeStackChart(data_civic_wall,"svg29");
+
+
+changeStackChart(data_civic_paroleinplace,"svg30");
+
+
+
+changeStackChart(data_civic_citizenship,"svg31");
+
+ 
+
+
+
+
+
+
+//////changeHBarChart(data_afghan_visa,"svg36");
+ 
+
+////changeHBarChart(data_citizenship,"svg32");
+
+
+changeStackChart(data_selective_end,"svg32");
+
+ 
+ changeStackChart(data_selective_women,"svg33");
+
+
+ 
+changeHBarChart(data_deport,"svg34");
+
+
+
+startnumerosA(numero_deport_impacted,"svg35");
+
+startnumerosB(numero_deport_know,"svg36");
+
+ 
+//////drawStackChart(data_deport_impacted,"svg39");
+
+//////drawStackChart(data_deport_know,"svg40");
+
+ 
+
+
+
+
+  
+ 
+ changeHBarChart(data_iraq_worth,"svg37");
+
+changeHBarChart(data_afghan_worth,"svg38");
+
+
+
+
+
+changeStackChart(data_trump_support,"svg39");
+
+changeStackChart(data_congress_support,"svg40");
+
+changeStackChart(data_public_support,"svg41");
+
+changeStackChart(data_public_understand,"svg42");
+
+changeStackChart(data_employer_support,"svg43");
+
+changeStackChart(data_employer_retain,"svg44");
+
+
+
+changeStackChart(data_employer_junk,"svg45");
+
+
+//////
+/*
 
 startnumerosA(numero_trump_supports,"svg30");
 startnumerosB(numero_congress_supports,"svg31");
 startnumerosC(numero_public_supports,"svg32");
 
- 
-
-changeStackChart(data_public_support,"svg33");
-changeStackChart(data_congress_support,"svg34");
-changeStackChart(data_trump_support,"svg35");
-
-changeStackChart(data_employer_support,"svg36");
+ */
+ //////
 
 
-changeStackChart(data_public_understand,"svg37");
+
 
 
 }
 
 
-function showTitle6(){
-iii=38;
+
+function showTitle8(){
+
+
+ 
+
+iii=46;
+/*
+ 
+
+*/
+
+
+ startnumerosB(numero_suicide_progress,"svg46");
+ startnumerosC(numero_suicide_care,"svg47");
+
+
+  drawStackChart(data_mental_know_attempted,"svg48");
+
+  drawStackChart(data_mental_know,"svg49");
+
+
+  drawStackChart(data_mental_considered_before,"svg50");
+
+  drawStackChart(data_mental_considered,"svg51");
+
+
+  drawStackChart(data_mental_hotline,"svg52");
+  drawStackChart(data_mental_hotline_contact,"svg53");
+ 
+  drawStackChart(data_mental_hotline_rate,"svg54");
+
+
+
+
+ 
+
+}
+
+
+
+function showTitle9(){
+
+
+/*
+
+
+*/
+
+
+
+
+iii=55;
+ 
+
+ 
+ startnumerosA(numero_burn_pit,"svg55");
+
+////////changeStackChart(data_burn,"svg106");
+
+
+changeStackChart(data_burn_symptoms,"svg56");
+
+changeStackChart(data_burn_discuss,"svg57");
+changeStackChart(data_burn_documented,"svg58");
+
+
+
+
+
+changeStackChart(data_burn_registered,"svg59");
+changeStackChart(data_burn_registry,"svg60");
+changeHBarChart(data_burn_issues,"svg61");
+
+  
+  changeHBarChart(data_burn_evaluation,"svg62");
+
+
+
+ 
+
+
+}
+
+function showTitle10(){
+
+/*
+
+*/
+//////////////////////////////////////////////
+//////////////////////////////////////////////
+//////////////////////////////////////////////
+
+
+iii=63;
+ 
+
+
+
+
+drawStackChart(data_wom_iava,"svg63");
+ 
+ 
+drawStackChart(data_wom_positions,"svg64");
+drawStackChart(data_wom_positions_f,"svg65");
+drawStackChart(data_wom_positions_m,"svg66");
+
+ drawStackChart(data_wom_combat,"svg67");
+ drawStackChart(data_wom_combat_f,"svg68");
+ drawStackChart(data_wom_combat_m,"svg69");
+ 
+ 
+drawStackChart(data_wom_recognition,"svg70");
+drawStackChart(data_wom_recognition_f,"svg71");
+drawStackChart(data_wom_recognition_m,"svg72");
+
+ 
+changeHBarChart(data_wom_motto,"svg73");
+changeHBarChart(data_wom_motto_f,"svg74"); 
+changeHBarChart(data_wom_motto_m,"svg75");
+
+
+changeHBarChart(data_wom_suicidal,"svg76");
+changeHBarChart(data_wom_injury,"svg77");
+changeHBarChart(data_wom_expenses,"svg78");
+
+
+changeHBarChart(data_wom_safe,"svg79");
+changeHBarChart(data_wom_respected,"svg80");
+
+
+
+
+
+
+
+
+}
+
+
+
+function showTitle11(){
+
+/*
+
+ 
+*/
+
+
+iii=81;
+
+
+
+ 
+ 
+
+
+
+startnumerosC(numero_data_wom_survivor,"svg81");
+startnumerosB(numero_data_wom_survivor_f,"svg82");
+startnumerosA(numero_data_wom_survivor_m,"svg83");
+ startnumerosB(numero_data_wom_report,"svg84");
+
+
+ 
+
+
+
+ startnumerosA(numero_data_wom_retaliation,"svg85");
+
+ 
+
+
+
+changeHBarChart(data_wom_impact,"svg86");
+  
+  
+  
+ drawStackChart(data_wom_prosecutor,"svg87");
+
+  
+
+  
+  
+  
+  
+  
+
+}
+
+function showTitle12(){
+
+/*
+
+
+
+*/
+
+iii=88;
+ 
+
+
+
+
+startnumerosB(numero_enrolled,"svg88");
+
+ startnumerosA(numero_va_primary,"svg89");
+
+  changeHBarChart(data_va_coverage,"svg90");
+
+drawStackChart(data_va_experience,"svg91");
+
+ startnumerosC(numero_2019_care_good,"svg92");
+
+ startnumerosB(numero_2019_care_good,"svg93");
+
+
+////////
+
+
+ drawStackChart(data_va_understand,"svg94");
+ //////drawStackChart(data_va_non_understand,"svg92");
+
+  drawStackChart(data_va_quality,"svg95");
+//////drawStackChart(data_va_non_quality,"svg90");
+
+  drawStackChart(data_va_safe,"svg96");
+
+  drawStackChart(data_va_respect,"svg97");
+
+
+  drawStackChart(data_va_scheduling_mental,"svg98");
+
+  drawStackChart(data_va_scheduling_prim,"svg99");
+
+  drawStackChart(data_va_scheduling_special,"svg100");
+
+
+
+  drawStackChart(data_va_satisfaction_mental,"svg101");
+
+  drawStackChart(data_va_satisfaction_prim,"svg102");
+
+  drawStackChart(data_va_satisfaction_special,"svg103");
+
+
+ 
+ 
+ 
+
+}
+
+function showTitle13(){
+
+
+iii=104;
+
+
+startnumerosC(numero_va_mission_heard,"svg104");
+
+startnumerosB(numero_va_mission_familiar,"svg105");
+
+ startnumerosA(numero_va_mission_used,"svg106");
+
+  changeHBarChart(data_va_choice_exp,"svg107");
+
+  drawStackChart(dummydata_va_non_understand,"svg108");
+
+  drawStackChart(dummydata_va_non_quality,"svg109");
+
+  drawStackChart(dummydata_va_scheduling_non_mental,"svg110");
+
+  drawStackChart(dummydata_va_scheduling_non_prim,"svg111");
+
+  drawStackChart(dummydata_va_scheduling_non_spec,"svg112");
+
+   changeHBarChart(data_va_non_confident,"svg113");
+
+ 
+ 
+
+}
+
+function showTitle14(){
+
+/*
+*/
+
+iii=114;
+
+
+startnumerosC(numero_va_rating,"svg114");
+
+
+  changeHBarChart(data_va_decision,"svg115");
+
+  drawStackChart(data_va_outcome,"svg116");
+
+  drawStackChart(data_va_appeal,"svg117");
+  
+  changeHBarChart(data_va_claim_long,"svg118");
+
+
+
+ /// changeStackChart(data_va_rating,"svg100");
+  /////// changeHBarChart(data_va_pending,"svg102");
+ 
+  //// changeHBarChart(data_va_appeal_pending,"svg106");
+ 
+ 
+ 
+  drawStackChart(data_va_rate_dis,"svg119");
+  drawStackChart(data_va_rate_pension,"svg120");
+  drawStackChart(data_va_rate_edu,"svg121");
+  drawStackChart(data_va_rate_home,"svg122");
+  drawStackChart(data_va_rate_ins,"svg123");
+  drawStackChart(data_va_rate_voc,"svg124");
+  drawStackChart(data_va_rate_care,"svg125");
+
+ 
+  changeHBarChart(data_va_ask,"svg126");
+ 
+  
+
+
+
+  
+}
+
+function showTitle13(){
+/*
+
+
+ */
+ 
+ iii=127;
+
+ 
+/////// eligible for post 9/11 gi bill
+  startnumerosB(numero_gi_eligible,"svg127");
+
+///// curenlty in school
+  startnumerosB(numero_gi_school_current,"svg128");
+
+/////// ever used gi bill  
+  changeHBarChart(data_gi_use,"svg129");
+
+///// graduate?
+  drawStackChart(data_gi_grad,"svg130");
+
+/////// rate experience  
+  drawStackChart(data_gi_exp,"svg131");
+   
+/////// what type of school attending  
+  changeHBarChart(data_ed_b,"svg132");
+
+ /////  satisfaction with your ed programs 
+  changeHBarChart(data_ed_c,"svg133");
+
+//// vet friendly
+  drawStackChart(data_ed_vetfriend,"svg134");
+
+//// va ed benefits for ed
+  changeHBarChart(data_ed_a,"svg135");
+
+
+//// how important is gi bill for the following
+ drawStackChart(data_gi_imp_recruit,"svg136");
+  drawStackChart(data_gi_imp_retent,"svg137");
+  drawStackChart(data_gi_imp_trans,"svg138");
+
+/////// private lons
+ startnumerosB(numero_ed_d,"svg139");
+
+////// how much debt
+   changeHBarChart(data_ed_d,"svg140");
+
+ 
+
+
+
+
+}
+
+function showTitle14(){
+
+
+/*
+
+
+*/
+
+iii=141;
+
+////drawStackChart(data_mj_medicinal,"svg133");
+/////drawStackChart(data_mj_legal,"svg134");
+
+
+
+ drawStackChart(data_mj_legal,"svg141");
+ drawStackChart(data_mj_medicinal,"svg142");
+ drawStackChart(data_mj_research,"svg143");
+drawStackChart(data_mj_va_research,"svg144");
+
+
+
+startnumerosA(numero_cannabis_rec,"svg145");
+
+ startnumerosB(numero_cannabis_med,"svg146");
+
+
+ 
+drawStackChart(data_mj_treatment,"svg147");
+
+changePieChart(data_cannabis_state_med,"svg148");
+changePieChart(data_cannabis,"svg149");
+
+
+ 
+ 
+
+
+
+
+
+
+}
+
+function showTitle15(){
+
+
+
+iii=142;
+
+
+
+changeHBarChart(data_alcohol,"svg150");
+
+changeHBarChart(data_alcohol_typical,"svg151");
+
+changeHBarChart(data_alcohol_twohour,"svg152");
+
+
+
+
+//////////////////////////
+//// removing item
+//////////////////////changeHBarChart(data_alcohol_typical,"svg128");
+
+///////////
+///////////////changeHBarChart(data_alcohol_twohour,"svg127");
+
+//// startnumerosA(numero_data_alcohol,"svg144");
+
+
+changeStackChart(data_tobacco,"svg153");
+changeHBarChart(data_tobacco_type,"svg154");
+ 
+drawStackChart(data_tobacco_use,"svg155");
+changeHBarChart(data_tobacco_often,"svg156");
+
+
+/*
+ 
+*/
+
+
+ 
+
+ 
+
+}
+
+function showTitle16(){
+/*
+
+*/
+iii=157;
+ 
+
+ //////////////////
+ /// removing item
+/////////////////////  changeHBarChart(data_wom_not_report,"svg141");
+
+
+  
+
+
+startnumerosA(numero_guns,"svg157");
+ changeHBarChart(data_guns_storage,"svg158");
+
+  drawStackChart(data_guns_lockers,"svg159");
+  drawStackChart(data_guns_trigger,"svg160");
+  drawStackChart(data_guns_background,"svg161");
+  drawStackChart(data_guns_assault,"svg162");
+  drawStackChart(data_guns_high,"svg163");
+  drawStackChart(data_guns_concealed,"svg164");
+  drawStackChart(data_guns_wait,"svg165");
+
+  
+ 
+  
+ 
+}
+
+function showTitle17(){
+
+/*
+
+
+ 
+*/
+iii=166;
+
+ 
+  
+  
+startnumerosA(numero_mental_injury,"svg166");
+
+startnumerosB(numero_mental_seek,"svg167");
+ 
+ ///////////////////////////////////////
+ // insert top 3 mental help why here
+ //////////////////////////////////////////
+///////////////   changeHBarChart(data_mental_help_why,"svg82");
+
+  drawStackChart(data_mental_help_where,"svg168");
+
+ 
+   ///////////////////////////////////////////////
+ // insert top 3 mental not seeking help why here
+ /////////////////////////////////////////////////
+////////////  changeHBarChart(data_mental_help_not,"svg86");
+
+  drawStackChart(data_mental_help_suggest,"svg169");
+  drawStackChart(data_mental_help_sought,"svg170");
+
+  
+  
+}
+
+function showTitle18(){
+
+   
+ iii=171;
+
+
+
+
+changePieChart(data_health_before,"svg171");
+changePieChart(data_health_after,"svg172");
+changePieChart(data_health_importance,"svg173");
+ 
+ startnumerosA(numero_health_injury,"svg174");
+changeHBarChart(data_health_a,"svg175");
+
+startnumerosB(numero_health_pain,"svg176");
+
+changeHBarChart(data_health_affect,"svg177");
+changeHBarChart(data_health_medication,"svg178");
+
+
+startnumerosC(numero_health_taking,"svg179");
+
+changeHBarChart(data_health_medication_past,"svg180");
+
+
+//////drawStackChart(data_health_injury,"svg92");
+
+/////drawStackChart(data_health_pain,"svg93");
+////changeHBarChart(data_health_a,"svg94");
+
+
+changeHBarChart(data_health_therapies,"svg181");
+
+
+ startnumerosA(numero_health_therapies,"svg182");
+
+
+ startnumerosB(numero_health_assist,"svg183");
+
+
+changeHBarChart(data_health_assisting_who,"svg184");
+
+ drawStackChart(data_health_activities,"svg185");
+
+drawStackChart(data_health_sleep,"svg186");
+drawStackChart(data_health_sleep_trouble,"svg187");
+
+ startnumerosA(numero_health_sleep,"svg188");
+
+changeHBarChart(data_health_exercise_often,"svg189");
+
+ 
+
+
+   
+}
+
+function showTitle19(){
+
+ 
+
+  iii=190;
+
+
+  changeHBarChart(data_challenges,"svg190");
+  changeHBarChart(data_challenges_current,"svg191");
+  
+  drawStackChart(data_challenges_success,"svg192");
+  drawStackChart(data_challenges_overcome,"svg193");
+  drawStackChart(data_challenges_valued,"svg194");
+  drawStackChart(data_challenges_belonging,"svg195");
+
+/////////////
+  drawStackChart(data_finances,"svg196");
+  drawStackChart(data_bills,"svg197");
+
+/// loan practices
+startnumerosA(numero_lending,"svg198");
+///loan type
+  changeHBarChart(data_conditions,"svg199");
+
+//////// current living situation
+  changeHBarChart(data_tran_current,"svg200");
+
+
+///// perm place to live
+startnumerosA(numero_perm,"svg201");
+
+/// couchsurfing
+startnumerosB(numero_perm,"svg202");
+
+////// 
+/// drawStackChart(data_tran_temp,"svg203");
+  
+//////   
+//// changeHBarChart(data_tran_current,"svg204");
+
+//how long
+   drawStackChart(data_tran_long,"svg203");
+
+///////   
+ drawStackChart(data_tran_tap,"svg204");
+//////
+  drawStackChart(data_tran_rate,"svg205");
+
+
+
+
+
+
+ 
+}
+ 
+
+
+
+
+function showTitle20(){
+iii=206;
 
 /*
 
@@ -8305,21 +9413,29 @@ iii=52;
 
 */
 
-    startnumerosA(numero_data_employed,"svg38");
 
-    startnumerosB(numero_underemployed,"svg39");
-  startnumerosC(numero_unemployed,"svg40");
+   changeHBarChart(data_employed,"svg206");
+
+  ///////////  startnumerosA(numero_data_employed,"svg207");
+
+    startnumerosB(numero_underemployed,"svg207");
+
+   drawStackChart(data_traing,"svg208");
+   
+startnumerosC(numero_data_job_secured,"svg209");
   
+   changeHBarChart(data_without_job,"svg210");
+   drawStackChart(data_satisfied,"svg211");
+   drawStackChart(data_startup,"svg212");
+    changeHBarChart(data_startup_challenges,"svg213");
 
-   drawStackChart(data_job_before,"svg41");
-   changeHBarChart(data_without_job,"svg42");
-      
 
-   drawStackChart(data_traing,"svg43");
-   
-   
-   changeHBarChart(data_level,"svg44");
-   drawStackChart(data_satisfied,"svg45");
+
+ startnumerosB(numero_employ_loans,"svg214");
+
+
+
+ 
     ///////////////////////////////////////////////
  // removing
  /////////////////////////////////////////////////
@@ -8337,731 +9453,18 @@ iii=52;
 
 
 
-   drawStackChart(data_startup,"svg46");
-    changeHBarChart(data_startup_challenges,"svg47");
- startnumerosB(numero_employ_loans,"svg48");
 
 
 
-
-
-
-
-
-  
- 
-}
-
-function showTitle7(){
-
-
- 
-
-iii=49;
-/*
- 
-
-*/
-
- 
-
-startnumerosC(numero_suicide_know_died,"svg49");
-startnumerosB(numero_suicide_know_attempt,"svg50");
-startnumerosA(numero_suicide_progress,"svg51");
-
-  changeHBarChart(data_mental_considered,"svg52");
-  drawStackChart(data_mental_considered_before,"svg53");
-  drawStackChart(data_mental_hotline,"svg54");
-  drawStackChart(data_mental_hotline_contact,"svg55");
- 
-
- 
-
-}
-
-
-
-function showTitle8(){
-
-
-/*
-
-
-*/
-
-
-
-
-iii=56;
- 
-
- 
- startnumerosA(numero_burn_pit,"svg56");
-
-////////changeStackChart(data_burn,"svg106");
-
-
-changeStackChart(data_burn_symptoms,"svg57");
-changeStackChart(data_burn_registry,"svg58");
-changeHBarChart(data_burn_registered,"svg59");
-changeStackChart(data_burn_issues,"svg60");
-
-  
-  
-
-
- 
-
-
-}
-
-function showTitle9(){
-
-/*
-
-*/
-
-
-iii=61;
- 
-
-
-
-
-drawStackChart(data_wom_iava,"svg61");
- 
- 
-drawStackChart(data_wom_positions,"svg62");
-drawStackChart(data_wom_positions_m,"svg63");
-drawStackChart(data_wom_positions_f,"svg64");
-
- drawStackChart(data_wom_combat,"svg65");
- drawStackChart(data_wom_combat_m,"svg66");
- drawStackChart(data_wom_combat_f,"svg67");
- 
- 
-drawStackChart(data_wom_recognition,"svg68");
-drawStackChart(data_wom_recognition_m,"svg69");
-drawStackChart(data_wom_recognition_f,"svg70");
-
- 
- 
-changeHBarChart(data_wom_suicidal,"svg71");
-changeHBarChart(data_wom_injury,"svg72");
-changeHBarChart(data_wom_expenses,"svg73");
-
-
-changeHBarChart(data_wom_motto,"svg74");
-
-
-
-
-
-
-
-
-}
-
-
-
-function showTitle10(){
-
-/*
-
- 
-*/
-
-
-iii=75;
-
-
-
-
-
-
-startnumerosC(numero_data_wom_survivor,"svg75");
- startnumerosB(numero_data_wom_report,"svg76");
- startnumerosA(numero_data_wom_retaliation,"svg77");
-
- 
-
-changeHBarChart(data_wom_impact,"svg78");
-  
-  
-
-
-
- startnumerosB(numero_mst,"svg79");
- 
- drawStackChart(data_wom_prosecutor,"svg80");
-
-  
-  
-  
-  
-  
-  
-
-}
-
-function showTitle11(){
-
-/*
-
-
-
-*/
-
-iii=81;
- 
-
-
-
-
- 
- startnumerosA(numero_va_priv,"svg81");
-
-   startnumerosB(numero_enrolled,"svg82");
-  startnumerosC(numero_va_rate,"svg83");
-
- 
- 
-  startnumerosA(numero_other,"svg84");
-  
-  
- //////////////////
- /// removing item
-/////////////////////  changeHBarChart(data_wom_not_report,"svg144");
-
-  changeHBarChart(data_va_coverage,"svg85");
-
- drawStackChart(data_va_primary,"svg86");
-
-  changeHBarChart(data_va_last,"svg87");
- drawStackChart(data_va_experience,"svg88");
- 
- 
- 
- 
- 
- 
- 
- //////////////////
- /// removing item
-/////////////////////  changeHBarChart(data_va_none,"svg149");
-
- 
-
-  drawStackChart(data_va_quality,"svg89");
-drawStackChart(data_va_non_quality,"svg90");
-
-
- drawStackChart(data_va_understand,"svg91");
- drawStackChart(data_va_non_understand,"svg92");
-
-
-
-
-
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-/*
-
- changeStackChart(data_va_scheduling_prim,"svg88");
- changeStackChart(data_va_scheduling_mental,"svg89");
- changeStackChart(data_va_scheduling_special,"svg90");
-
-*/
- /////////////////////////////////////////////////
- /////////////////////////////////////////////////
-
-
-
- drawStackChart(data_va_satisfaction_prim,"svg93");
- drawStackChart(data_va_satisfaction_special,"svg94");
- drawStackChart(data_va_satisfaction_mental,"svg95");
-
- 
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-/*
-changeStackChart(data_va_scheduling_non_prim,"svg94");
- changeStackChart(data_va_scheduling_non_mental,"svg95");
- changeStackChart(data_va_scheduling_non_spec,"svg96");
-*/
- /////////////////////////////////////////////////
- /////////////////////////////////////////////////
-
-
-
-
-
-  
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-////////////   changeHBarChart(data_va_choose_non,"svg163");
-
- 
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-////////////     changeHBarChart(data_va_choose,"svg164");
-
- 
-
- drawStackChart(data_va_familiar,"svg96");
- drawStackChart(data_va_choice,"svg97");
-  drawStackChart(data_va_choice_exp,"svg98");
-
-  startnumerosB(numero_va_mission,"svg99");
- 
- 
- 
- 
- 
- 
-
-}
-
-function showTitle12(){
-
-
-/*
-
- 
-*/
-
-iii=100;
-
-
-
-
-  changeStackChart(data_va_rating,"svg100");
- 
-  changeHBarChart(data_va_claim_long,"svg101");
-
-  changeHBarChart(data_va_pending,"svg102");
- 
-  drawStackChart(data_va_outcome,"svg103");
-
-  drawStackChart(data_va_appeal,"svg104");
- 
-  changeHBarChart(data_va_decision,"svg105");
-
-  changeHBarChart(data_va_appeal_pending,"svg106");
- 
- 
- 
-  drawStackChart(data_va_rate_dis,"svg107");
-  drawStackChart(data_va_rate_pension,"svg108");
-  drawStackChart(data_va_rate_edu,"svg109");
-  drawStackChart(data_va_rate_home,"svg110");
-  drawStackChart(data_va_rate_ins,"svg111");
-  drawStackChart(data_va_rate_voc,"svg112");
-  drawStackChart(data_va_rate_care,"svg113");
-
- 
-
-  changeHBarChart(data_va_ask,"svg114");
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-  
-}
-
-function showTitle13(){
-/*
-
-
- */
- 
- iii=115;
-
- 
-  
- drawStackChart(data_gi_imp_recruit,"svg115");
-  drawStackChart(data_gi_imp_retent,"svg116");
-  drawStackChart(data_gi_imp_trans,"svg117");
-
-
- startnumerosB(numero_ed_d,"svg118");
- 
- startnumerosC(numero_data_ed_b,"svg119");
-
- 
-
-
-   changeHBarChart(data_ed_d,"svg120");
-
-
-
-
-  
-
- 
- 
-   drawStackChart(data_gi_eligible,"svg121");
-
-  changeHBarChart(data_gi_use,"svg122");
-
-  drawStackChart(data_gi_grad,"svg123");
-  drawStackChart(data_gi_exp,"svg124");
-   
- 
-/*
-
- 
- 
-}
-
-function showTitle14(){
-
-iii=121;
-
-
-*/
-
- 
-  
-
- startnumerosA(numero_ed_a,"svg125");
-startnumerosB(numero_ed_b,"svg126");
-startnumerosC(numero_ed_c,"svg127");
- 
-///////////////////////////////  drawStackChart(data_ed_b,"svg127");
-  changeHBarChart(data_ed_c,"svg128");
-  drawStackChart(data_ed_vetfriend,"svg129");
- //// changeStackChart(data_ed_a,"svg198");
-   changeHBarChart(data_ed_a,"svg130");
-
-
-
-
-
-
-
-
-
-}
-
-function showTitle14(){
-
-
-/*
-
-
-*/
-
-iii=131;
-
-////drawStackChart(data_mj_medicinal,"svg133");
-/////drawStackChart(data_mj_legal,"svg134");
-
-
-
- startnumerosB(numero_cannabis_med,"svg131");
-
-startnumerosA(numero_cannabis_rec,"svg132");
-
- 
-
- 
- ///////////startnumerosA(numero_cannabis,"svg111");
- 
- drawStackChart(data_mj_research,"svg133");
-drawStackChart(data_mj_va_research,"svg134");
-drawStackChart(data_cannabis,"svg135");
-
-drawStackChart(data_mj_treatment,"svg136");
-changeHBarChart(data_cannabis_comfort,"svg137");
-drawStackChart(data_cannabis_discussed,"svg138");
-
-
-changePieChart(data_cannabis_recreational,"svg139");
-changePieChart(data_cannabis_legal_med,"svg140");
-changePieChart(data_cannabis_legal_rec,"svg141");
-
-
- 
-
-
-
-
-}
-
-function showTitle15(){
-
-
-
-iii=142;
-
-
-
-changeHBarChart(data_alcohol,"svg142");
-
-changeHBarChart(data_alcohol_typical,"svg143");
-
-
-
-
-//////////////////////////
-//// removing item
-//////////////////////changeHBarChart(data_alcohol_typical,"svg128");
-
-///////////
-///////////////changeHBarChart(data_alcohol_twohour,"svg127");
-
- startnumerosA(numero_data_alcohol,"svg144");
-
-
-changeStackChart(data_tobacco,"svg145");
-changeHBarChart(data_tobacco_type,"svg146");
- 
-drawStackChart(data_tobacco_use,"svg147");
-changeHBarChart(data_tobacco_often,"svg148");
-
-
-/*
- 
-*/
-
-
- 
-
- 
-
-}
-
-function showTitle16(){
-/*
-
-*/
-iii=149;
- 
-
- //////////////////
- /// removing item
-/////////////////////  changeHBarChart(data_wom_not_report,"svg141");
-
-
-  
-
-
-startnumerosA(numero_guns,"svg149");
- changeHBarChart(data_guns_storage,"svg150");
-
-  drawStackChart(data_guns_lockers,"svg151");
-  drawStackChart(data_guns_concealed,"svg152");
-  drawStackChart(data_guns_assault,"svg153");
-  drawStackChart(data_guns_high,"svg154");
-  drawStackChart(data_guns_wait,"svg1557");
-  drawStackChart(data_guns_trigger,"svg156");
-  drawStackChart(data_guns_background,"svg157");
-
-  
- 
-  
- 
-}
-
-function showTitle17(){
-
-/*
-
-
- 
-*/
-iii=158;
-
- 
-  
-  
-startnumerosA(numero_mental_care,"svg158");
-
- 
- 
- ///////////////////////////////////////
- // insert top 3 mental help why here
- //////////////////////////////////////////
-///////////////   changeHBarChart(data_mental_help_why,"svg82");
-
-  drawStackChart(data_mental_injury,"svg159");
-
-  drawStackChart(data_mental_help,"svg160");
-  changeHBarChart(data_mental_help_where,"svg161");
- 
- 
- 
-   ///////////////////////////////////////////////
- // insert top 3 mental not seeking help why here
- /////////////////////////////////////////////////
-////////////  changeHBarChart(data_mental_help_not,"svg86");
-
-
-
-  drawStackChart(data_mental_help_suggest,"svg162");
-  drawStackChart(data_mental_help_sought,"svg163");
-
-  
-  
-}
-
-function showTitle18(){
-
-   
- iii=164;
-
-
-
-
-changePieChart(data_health_before,"svg164");
-changePieChart(data_health_after,"svg165");
-changePieChart(data_health_importance,"svg166");
- 
- 
-startnumerosA(numero_health_injury,"svg167");
-startnumerosB(numero_health_pain,"svg168");
-
-
-//////drawStackChart(data_health_injury,"svg92");
-
-/////drawStackChart(data_health_pain,"svg93");
-////changeHBarChart(data_health_a,"svg94");
-
-changeHBarChart(data_health_a,"svg169");
- 
-changeHBarChart(data_health_affect,"svg170");
- 
-  
-changeHBarChart(data_health_medication,"svg171");
-
-changeHBarChart(data_health_therapies,"svg172");
-
-drawStackChart(data_health_therapies_result,"svg173");
-drawStackChart(data_health_assisting,"svg174");
-
-changeHBarChart(data_health_assisting_who,"svg175");
-drawStackChart(data_health_activities,"svg176");
-
- 
-
-
-   
-}
-
-function showTitle19(){
-
- 
-
-  iii=177;
-
-
-  drawStackChart(data_challenges,"svg177");
-  drawStackChart(data_finances,"svg178");
-  drawStackChart(data_bills,"svg179");
-startnumerosA(numero_lending,"svg180");
-  changeHBarChart(data_conditions,"svg181");
-startnumerosA(numero_perm,"svg182");
-   drawStackChart(data_tran_long,"svg183");
- drawStackChart(data_tran_temp,"svg184");
-  
-  
- changeHBarChart(data_tran_current,"svg185");
-
-  
-  
-    drawStackChart(data_tran_tap,"svg186");
-  drawStackChart(data_tran_rate,"svg187");
-  drawStackChart(data_tran_when,"svg188");
-  drawStackChart(data_tran_plan,"svg189");
-
-  changeHBarChart(data_tran_challenges,"svg190");
-
-  drawStackChart(data_tran_familiar,"svg191");
-
-  changeHBarChart(data_benefits_influential,"svg192");
-
- 
-
-
- 
-}
- 
-function showTitle20(){
-
- 
- iii=193;
- 
- 
-  
- 
- changeHBarChart(data_iraq_worth,"svg193");
-
-changeHBarChart(data_afghan_worth,"svg194");
-
-
-
- 
- drawStackChart(data_selective_women,"svg195");
-
-drawStackChart(data_selective_end,"svg196");
-
- 
-//////changeHBarChart(data_afghan_visa,"svg36");
-startnumerosB(numero_afghan_visa,"svg197");
-
-
-changeHBarChart(data_citizenship,"svg198");
-
-changeHBarChart(data_deport,"svg199");
-
-
-
-startnumerosA(numero_deport_impacted,"svg200");
-
-startnumerosB(numero_deport_know,"svg201");
-
- 
-//////drawStackChart(data_deport_impacted,"svg39");
-
-//////drawStackChart(data_deport_know,"svg40");
-
- drawStackChart(data_transgender,"svg202");
-
-drawStackChart(data_dadt,"svg203");
- 
- 
-
-drawStackChart(data_parade,"svg204");
-
-
-changeHBarChart(data_nfl,"svg205");
-
-changeHBarChart(data_nfl_plan,"svg206");
-
-
-
- 
-
-
- 
  
  d3.select("body").selectAll("toolTip").remove();
-/////d3.select("#legendcontain").select("rect").remove();
 
+  
+ 
 }
+
+
+
 
  
 
@@ -9187,7 +9590,6 @@ var width=window.windowWidth;resize();
 
 
 
-
 iii=0;
 
 
@@ -9196,126 +9598,838 @@ iii=0;
 ////////
 
 
-////// added in
-startnumerosA(numeros_milserve_recommend,"svg0");
-////////////////
-drawStackChart(data_branch,"svg1");
-/////changePieChart(data_branch,"svg1");
-
-
-drawStackChart(data_officer,"svg2");
-///changePieChart(data_officer,"svg2");
-
-changeHBarChart(data_l,"svg3");
-
-drawStackChart(data_m,"svg4");
-
-drawStackChart(data_n,"svg5");
-
-drawStackChart(data_o,"svg6");
-
-drawStackChart(data_p,"svg7");
-
-drawStackChart(data_pp,"svg8");
-
-startnumerosA(numero_natg,"svg9");
-
-changeHBarChart(data_milserve_separate,"svg10");
-
-drawStackChart(data_discharge,"svg11");
-
-/////////////////
-///////// removed
-/////////////////////// startnumerosA(numero_member,"svg12");
-
-changeHBarChart(data_interact,"svg12");
-
-changeHBarChart(data_interact_how,"svg13");
-
-//////////////////////////drawStackChart(data_milserve_recommend,"svg24");
-
-
-
-
 ////////////////////////
 ////////////////////////////
 /////////////////////////
 
 //////////////////
 //// moved
-drawStackChart(data_gender,"svg14");
+drawStackChart(data_gender,"svg0");
 ///////
 
+changeHBarChart(data_ethnicity,"svg1");
 
 
-changePieChart(data_age,"svg15");
+changeHBarChart(data_religion,"svg2");
 
-changePieChart(data_community,"svg16");
+changePieChart(data_age,"svg3");
 
-changeHBarChart(data_income,"svg17");
+changePieChart(data_marital,"svg4");
 
-changeHBarChart(data_school,"svg18");
+changePieChart(data_children,"svg5");
 
-changePieChart(data_marital,"svg19");
+changeHBarChart(data_school,"svg6");
 
-changePieChart(data_children,"svg20");
 
-changeHBarChart(data_ethnicity,"svg21");
+changeHBarChart(data_income,"svg7");
+
+////////////////// changePieChart(data_community,"svg2");
 ///////////////
 /// added in
-changeHBarChart(data_party,"svg22");
+////////////////////changeHBarChart(data_party,"svg8");
 /////////////////
 
 
-changeHBarChart(data_religion,"svg23");
-
 /////////////////////////drawStackChart(data_gender,"svg8");
 
-changeStackChart(data_orientation,"svg24");
+////////changeStackChart(data_orientation,"svg8");
+
+
+ 
+
+iii=8;
+
+
+//////////////////////
+////// added in
+
+
+drawStackChart(data_branch,"svg8");
+/////changePieChart(data_branch,"svg1");
+
+
+drawStackChart(data_officer,"svg9");
+///changePieChart(data_officer,"svg2");
+
+
+/////// number of deployments
+changeHBarChart(data_l,"svg10");
+
+changeHBarChart(data_m,"svg11");
+
+//////////////
+/// toook out community 2020
+
+changeHBarChart(data_n,"svg12");
+/*
+
+changeHBarChart(data_o,"svg14");
+
+
+drawStackChart(data_p,"svg15");
+
+drawStackChart(data_pp,"svg16");
+*/
+ changeHBarChart(data_natg,"svg13");
+
+ 
+drawStackChart(data_discharge,"svg14");
+
+changeHBarChart(data_milserve_separate,"svg15");
+
+/////////////////
+///////// removed
+/////////////////////// startnumerosA(numero_member,"svg12");
+
+changeHBarChart(data_interact,"svg16");
+
+/////////////////////// changeHBarChart(data_interact_how,"svg19");
+//////////////////////////drawStackChart(data_milserve_recommend,"svg24");
+
+
+drawStackChart(data_reco_service,"svg17");
+
+
 
 
 
  
-
-
- 
-iii=25;
+iii=18;
 
 
 
-startnumerosB(numero_impact,"svg25");
-startnumerosA(numero_considered,"svg26");
-startnumerosC(data_planning,"svg27");
+startnumerosB(numero_vote_reg_testA,"svg18");
+startnumerosB(numero_vote_reg_testB,"svg19");
 
-changeStackChart(data_reg,"svg28");
 
-changeHBarChart(data_party,"svg29");
+startnumerosB(numero_vote_reg,"svg20");
+startnumerosA(numero_considered,"svg21");
+startnumerosC(data_planning,"svg22");
+
+
+////
+/// changed 2020
+//////changeStackChart(data_reg,"svg28");
+
+changeStackChart(data_vet_impact,"svg23");
+
+
+
+
+//////////// changeHBarChart(data_party,"svg24");
 
 ////////////
  
  
 
-iii=30;
+iii=24;
 
+
+
+startnumerosB(numeros_civic_volunteer,"svg24");
+startnumerosA(numeros_civic_volunteer_more,"svg25");
+ 
+
+////
+/// changed 2020
+//////changeStackChart(data_reg,"svg28");
+
+changeStackChart(data_civic_issues,"svg26");
+
+ 
+
+
+
+
+
+//////////////////////////changeHBarChart(data_party,"svg28");
+
+////////////
+ 
+ 
+iii=27;
+
+
+changeStackChart(data_civic_oppose_trump,"svg27");
+
+changeStackChart(data_civic_border,"svg28");
+
+changeStackChart(data_civic_wall,"svg29");
+
+
+changeStackChart(data_civic_paroleinplace,"svg30");
+
+
+
+changeStackChart(data_civic_citizenship,"svg31");
+
+ 
+
+
+
+
+
+
+//////changeHBarChart(data_afghan_visa,"svg36");
+ 
+
+////changeHBarChart(data_citizenship,"svg32");
+
+
+changeStackChart(data_selective_end,"svg32");
+
+ 
+ changeStackChart(data_selective_women,"svg33");
+
+
+ 
+changeHBarChart(data_deport,"svg34");
+
+
+
+startnumerosA(numero_deport_impacted,"svg35");
+
+startnumerosB(numero_deport_know,"svg36");
+
+ 
+//////drawStackChart(data_deport_impacted,"svg39");
+
+//////drawStackChart(data_deport_know,"svg40");
+
+ 
+
+
+
+
+  
+ 
+ changeHBarChart(data_iraq_worth,"svg37");
+
+changeHBarChart(data_afghan_worth,"svg38");
+
+
+
+
+
+changeStackChart(data_trump_support,"svg39");
+
+changeStackChart(data_congress_support,"svg40");
+
+changeStackChart(data_public_support,"svg41");
+
+changeStackChart(data_public_understand,"svg42");
+
+changeStackChart(data_employer_support,"svg43");
+
+changeStackChart(data_employer_retain,"svg44");
+
+
+
+changeStackChart(data_employer_junk,"svg45");
+
+
+
+//////
+/*
 
 startnumerosA(numero_trump_supports,"svg30");
 startnumerosB(numero_congress_supports,"svg31");
 startnumerosC(numero_public_supports,"svg32");
 
- 
+ */
+ //////
 
-changeStackChart(data_public_support,"svg33");
-changeStackChart(data_congress_support,"svg34");
-changeStackChart(data_trump_support,"svg35");
-
-changeStackChart(data_employer_support,"svg36");
-
-
-changeStackChart(data_public_understand,"svg37");
 
 
  
-iii=38;
+ 
+
+iii=46;
+/*
+ 
+
+*/
+
+
+ startnumerosB(numero_suicide_progress,"svg46");
+ startnumerosC(numero_suicide_care,"svg47");
+
+
+  drawStackChart(data_mental_know_attempted,"svg48");
+
+  drawStackChart(data_mental_know,"svg49");
+
+
+  drawStackChart(data_mental_considered_before,"svg50");
+
+  drawStackChart(data_mental_considered,"svg51");
+
+
+  drawStackChart(data_mental_hotline,"svg52");
+  drawStackChart(data_mental_hotline_contact,"svg53");
+ 
+  drawStackChart(data_mental_hotline_rate,"svg54");
+
+
+
+
+ 
+
+ 
+
+/*
+
+
+*/
+
+
+
+
+iii=55;
+ 
+
+ 
+ startnumerosA(numero_burn_pit,"svg55");
+
+////////changeStackChart(data_burn,"svg106");
+
+
+changeStackChart(data_burn_symptoms,"svg56");
+
+changeStackChart(data_burn_discuss,"svg57");
+changeStackChart(data_burn_documented,"svg58");
+
+
+
+
+
+changeStackChart(data_burn_registered,"svg59");
+changeStackChart(data_burn_registry,"svg60");
+changeHBarChart(data_burn_issues,"svg61");
+
+  
+  changeHBarChart(data_burn_evaluation,"svg62");
+
+
+
+ 
+
+ 
+/*
+
+*/
+//////////////////////////////////////////////
+//////////////////////////////////////////////
+//////////////////////////////////////////////
+
+
+iii=63;
+ 
+
+
+
+
+drawStackChart(data_wom_iava,"svg63");
+ 
+ 
+drawStackChart(data_wom_positions,"svg64");
+drawStackChart(data_wom_positions_f,"svg65");
+drawStackChart(data_wom_positions_m,"svg66");
+
+ drawStackChart(data_wom_combat,"svg67");
+ drawStackChart(data_wom_combat_f,"svg68");
+ drawStackChart(data_wom_combat_m,"svg69");
+ 
+ 
+drawStackChart(data_wom_recognition,"svg70");
+drawStackChart(data_wom_recognition_f,"svg71");
+drawStackChart(data_wom_recognition_m,"svg72");
+
+ 
+changeHBarChart(data_wom_motto,"svg73");
+changeHBarChart(data_wom_motto_f,"svg74"); 
+changeHBarChart(data_wom_motto_m,"svg75");
+
+
+changeHBarChart(data_wom_suicidal,"svg76");
+changeHBarChart(data_wom_injury,"svg77");
+changeHBarChart(data_wom_expenses,"svg78");
+
+
+changeHBarChart(data_wom_safe,"svg79");
+changeHBarChart(data_wom_respected,"svg80");
+
+
+
+
+
+ 
+/*
+
+ 
+*/
+
+
+iii=81;
+
+
+
+ 
+ 
+
+
+
+startnumerosC(numero_data_wom_survivor,"svg81");
+startnumerosB(numero_data_wom_survivor_f,"svg82");
+startnumerosA(numero_data_wom_survivor_m,"svg83");
+ startnumerosB(numero_data_wom_report,"svg84");
+
+
+ 
+
+
+
+ startnumerosA(numero_data_wom_retaliation,"svg85");
+
+ 
+
+
+
+changeHBarChart(data_wom_impact,"svg86");
+  
+  
+  
+ drawStackChart(data_wom_prosecutor,"svg87");
+
+  
+
+  
+  
+  
+  
+   
+
+/*
+
+
+
+*/
+
+iii=88;
+ 
+
+
+
+
+startnumerosB(numero_enrolled,"svg88");
+
+ startnumerosA(numero_va_primary,"svg89");
+
+  changeHBarChart(data_va_coverage,"svg90");
+
+drawStackChart(data_va_experience,"svg91");
+
+ startnumerosC(numero_2019_care_good,"svg92");
+
+ startnumerosB(numero_2019_care_good,"svg93");
+
+
+////////
+
+
+ drawStackChart(data_va_understand,"svg94");
+ //////drawStackChart(data_va_non_understand,"svg92");
+
+  drawStackChart(data_va_quality,"svg95");
+//////drawStackChart(data_va_non_quality,"svg90");
+
+  drawStackChart(data_va_safe,"svg96");
+
+  drawStackChart(data_va_respect,"svg97");
+
+
+  drawStackChart(data_va_scheduling_mental,"svg98");
+
+  drawStackChart(data_va_scheduling_prim,"svg99");
+
+  drawStackChart(data_va_scheduling_special,"svg100");
+
+
+
+  drawStackChart(data_va_satisfaction_mental,"svg101");
+
+  drawStackChart(data_va_satisfaction_prim,"svg102");
+
+  drawStackChart(data_va_satisfaction_special,"svg103");
+
+
+ 
+ 
+  
+
+
+iii=104;
+
+
+startnumerosC(numero_va_mission_heard,"svg104");
+
+startnumerosB(numero_va_mission_familiar,"svg105");
+
+ startnumerosA(numero_va_mission_used,"svg106");
+
+  changeHBarChart(data_va_choice_exp,"svg107");
+
+  drawStackChart(dummydata_va_non_understand,"svg108");
+
+  drawStackChart(dummydata_va_non_quality,"svg109");
+
+  drawStackChart(dummydata_va_scheduling_non_mental,"svg110");
+
+  drawStackChart(dummydata_va_scheduling_non_prim,"svg111");
+
+  drawStackChart(dummydata_va_scheduling_non_spec,"svg112");
+
+   changeHBarChart(data_va_non_confident,"svg113");
+
+ 
+ 
+ 
+
+/*
+*/
+
+iii=114;
+
+
+startnumerosC(numero_va_rating,"svg114");
+
+
+  changeHBarChart(data_va_decision,"svg115");
+
+  drawStackChart(data_va_outcome,"svg116");
+
+  drawStackChart(data_va_appeal,"svg117");
+  
+  changeHBarChart(data_va_claim_long,"svg118");
+
+
+
+ /// changeStackChart(data_va_rating,"svg100");
+  /////// changeHBarChart(data_va_pending,"svg102");
+ 
+  //// changeHBarChart(data_va_appeal_pending,"svg106");
+ 
+ 
+ 
+  drawStackChart(data_va_rate_dis,"svg119");
+  drawStackChart(data_va_rate_pension,"svg120");
+  drawStackChart(data_va_rate_edu,"svg121");
+  drawStackChart(data_va_rate_home,"svg122");
+  drawStackChart(data_va_rate_ins,"svg123");
+  drawStackChart(data_va_rate_voc,"svg124");
+  drawStackChart(data_va_rate_care,"svg125");
+
+ 
+  changeHBarChart(data_va_ask,"svg126");
+ 
+  
+
+
+ 
+/*
+
+
+ */
+ 
+ iii=127;
+
+ 
+/////// eligible for post 9/11 gi bill
+  startnumerosB(numero_gi_eligible,"svg127");
+
+///// curenlty in school
+  startnumerosB(numero_gi_school_current,"svg128");
+
+/////// ever used gi bill  
+  changeHBarChart(data_gi_use,"svg129");
+
+///// graduate?
+  drawStackChart(data_gi_grad,"svg130");
+
+/////// rate experience  
+  drawStackChart(data_gi_exp,"svg131");
+   
+/////// what type of school attending  
+  changeHBarChart(data_ed_b,"svg132");
+
+ /////  satisfaction with your ed programs 
+  changeHBarChart(data_ed_c,"svg133");
+
+//// vet friendly
+  drawStackChart(data_ed_vetfriend,"svg134");
+
+//// va ed benefits for ed
+  changeHBarChart(data_ed_a,"svg135");
+
+
+//// how important is gi bill for the following
+ drawStackChart(data_gi_imp_recruit,"svg136");
+  drawStackChart(data_gi_imp_retent,"svg137");
+  drawStackChart(data_gi_imp_trans,"svg138");
+
+/////// private lons
+ startnumerosB(numero_ed_d,"svg139");
+
+////// how much debt
+   changeHBarChart(data_ed_d,"svg140");
+
+ 
+
+
+ 
+
+/*
+
+
+*/
+
+iii=141;
+
+////drawStackChart(data_mj_medicinal,"svg133");
+/////drawStackChart(data_mj_legal,"svg134");
+
+
+
+ drawStackChart(data_mj_legal,"svg141");
+ drawStackChart(data_mj_medicinal,"svg142");
+ drawStackChart(data_mj_research,"svg143");
+drawStackChart(data_mj_va_research,"svg144");
+
+
+
+startnumerosA(numero_cannabis_rec,"svg145");
+
+ startnumerosB(numero_cannabis_med,"svg146");
+
+
+ 
+drawStackChart(data_mj_treatment,"svg147");
+
+changePieChart(data_cannabis_state_med,"svg148");
+changePieChart(data_cannabis,"svg149");
+
+
+ 
+ 
+
+
+
+ 
+
+iii=142;
+
+
+
+changeHBarChart(data_alcohol,"svg150");
+
+changeHBarChart(data_alcohol_typical,"svg151");
+
+changeHBarChart(data_alcohol_twohour,"svg152");
+
+
+
+
+//////////////////////////
+//// removing item
+//////////////////////changeHBarChart(data_alcohol_typical,"svg128");
+
+///////////
+///////////////changeHBarChart(data_alcohol_twohour,"svg127");
+
+//// startnumerosA(numero_data_alcohol,"svg144");
+
+
+changeStackChart(data_tobacco,"svg153");
+changeHBarChart(data_tobacco_type,"svg154");
+ 
+drawStackChart(data_tobacco_use,"svg155");
+changeHBarChart(data_tobacco_often,"svg156");
+
+
+/*
+ 
+*/
+
+
+ 
+
+  
+/*
+
+*/
+iii=157;
+ 
+
+ //////////////////
+ /// removing item
+/////////////////////  changeHBarChart(data_wom_not_report,"svg141");
+
+
+  
+
+
+startnumerosA(numero_guns,"svg157");
+ changeHBarChart(data_guns_storage,"svg158");
+
+  drawStackChart(data_guns_lockers,"svg159");
+  drawStackChart(data_guns_trigger,"svg160");
+  drawStackChart(data_guns_background,"svg161");
+  drawStackChart(data_guns_assault,"svg162");
+  drawStackChart(data_guns_high,"svg163");
+  drawStackChart(data_guns_concealed,"svg164");
+  drawStackChart(data_guns_wait,"svg165");
+
+  
+ 
+  
+  
+/*
+
+
+ 
+*/
+iii=166;
+
+ 
+  
+  
+startnumerosA(numero_mental_injury,"svg166");
+
+startnumerosB(numero_mental_seek,"svg167");
+ 
+ ///////////////////////////////////////
+ // insert top 3 mental help why here
+ //////////////////////////////////////////
+///////////////   changeHBarChart(data_mental_help_why,"svg82");
+
+  drawStackChart(data_mental_help_where,"svg168");
+
+ 
+   ///////////////////////////////////////////////
+ // insert top 3 mental not seeking help why here
+ /////////////////////////////////////////////////
+////////////  changeHBarChart(data_mental_help_not,"svg86");
+
+  drawStackChart(data_mental_help_suggest,"svg169");
+  drawStackChart(data_mental_help_sought,"svg170");
+
+  
+   
+   
+ iii=171;
+
+
+
+
+changePieChart(data_health_before,"svg171");
+changePieChart(data_health_after,"svg172");
+changePieChart(data_health_importance,"svg173");
+ 
+ startnumerosA(numero_health_injury,"svg174");
+changeHBarChart(data_health_a,"svg175");
+
+startnumerosB(numero_health_pain,"svg176");
+
+changeHBarChart(data_health_affect,"svg177");
+changeHBarChart(data_health_medication,"svg178");
+
+
+startnumerosC(numero_health_taking,"svg179");
+
+changeHBarChart(data_health_medication_past,"svg180");
+
+
+//////drawStackChart(data_health_injury,"svg92");
+
+/////drawStackChart(data_health_pain,"svg93");
+////changeHBarChart(data_health_a,"svg94");
+
+
+changeHBarChart(data_health_therapies,"svg181");
+
+
+ startnumerosA(numero_health_therapies,"svg182");
+
+
+ startnumerosB(numero_health_assist,"svg183");
+
+
+changeHBarChart(data_health_assisting_who,"svg184");
+
+ drawStackChart(data_health_activities,"svg185");
+
+drawStackChart(data_health_sleep,"svg186");
+drawStackChart(data_health_sleep_trouble,"svg187");
+
+ startnumerosA(numero_health_sleep,"svg188");
+
+changeHBarChart(data_health_exercise_often,"svg189");
+
+ 
+
+ 
+
+  iii=190;
+
+
+  changeHBarChart(data_challenges,"svg190");
+  changeHBarChart(data_challenges_current,"svg191");
+  
+  drawStackChart(data_challenges_success,"svg192");
+  drawStackChart(data_challenges_overcome,"svg193");
+  drawStackChart(data_challenges_valued,"svg194");
+  drawStackChart(data_challenges_belonging,"svg195");
+
+/////////////
+  drawStackChart(data_finances,"svg196");
+  drawStackChart(data_bills,"svg197");
+
+/// loan practices
+startnumerosA(numero_lending,"svg198");
+///loan type
+  changeHBarChart(data_conditions,"svg199");
+
+//////// current living situation
+  changeHBarChart(data_tran_current,"svg200");
+
+
+///// perm place to live
+startnumerosA(numero_perm,"svg201");
+
+/// couchsurfing
+startnumerosB(numero_perm,"svg202");
+
+////// 
+/// drawStackChart(data_tran_temp,"svg203");
+  
+//////   
+//// changeHBarChart(data_tran_current,"svg204");
+
+//how long
+   drawStackChart(data_tran_long,"svg203");
+
+///////   
+ drawStackChart(data_tran_tap,"svg204");
+//////
+  drawStackChart(data_tran_rate,"svg205");
+
+
+
+
+
+
+  
+iii=206;
 
 /*
 
@@ -9334,667 +10448,25 @@ iii=52;
 
 */
 
- 
+
+   changeHBarChart(data_employed,"svg206");
+
+  ///////////  startnumerosA(numero_data_employed,"svg207");
+
+    startnumerosB(numero_underemployed,"svg207");
+
+   drawStackChart(data_traing,"svg208");
    
-
-
-    startnumerosA(numero_data_employed,"svg38");
-
-    startnumerosB(numero_underemployed,"svg39");
-  startnumerosC(numero_unemployed,"svg40");
+startnumerosC(numero_data_job_secured,"svg209");
   
+   changeHBarChart(data_without_job,"svg210");
+   drawStackChart(data_satisfied,"svg211");
+   drawStackChart(data_startup,"svg212");
+    changeHBarChart(data_startup_challenges,"svg213");
 
-   drawStackChart(data_job_before,"svg41");
-   changeHBarChart(data_without_job,"svg42");
-      
 
-   drawStackChart(data_traing,"svg43");
-   changeHBarChart(data_level,"svg44");
-   drawStackChart(data_satisfied,"svg45");
 
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-////////////      changeHBarChart(data_looking,"svg211");
-
-
-
-
-
-   drawStackChart(data_startup,"svg46");
-    changeHBarChart(data_startup_challenges,"svg47");
- startnumerosB(numero_employ_loans,"svg48");
-
-
-
-
-
-
-
- 
-
-iii=49;
-/*
- 
-
-*/
-
- 
-
-startnumerosC(numero_suicide_know_died,"svg49");
-startnumerosB(numero_suicide_know_attempt,"svg50");
-startnumerosA(numero_suicide_progress,"svg51");
-
-  changeHBarChart(data_mental_considered,"svg52");
-  drawStackChart(data_mental_considered_before,"svg53");
-  drawStackChart(data_mental_hotline,"svg54");
-  drawStackChart(data_mental_hotline_contact,"svg55");
- 
-
- 
-
-
-/*
-
-
-*/
-
-
-
-iii=56;
- 
-
- 
- startnumerosA(numero_burn_pit,"svg56");
-
-////////changeStackChart(data_burn,"svg106");
-
-
-changeStackChart(data_burn_symptoms,"svg57");
-changeStackChart(data_burn_registry,"svg58");
-changeHBarChart(data_burn_registered,"svg59");
-changeStackChart(data_burn_issues,"svg60");
-
-  
-  
-
-
- 
- 
-
-/*
-
-*/
-
-
-iii=61;
- 
-
-
-
-
-drawStackChart(data_wom_iava,"svg61");
- 
- 
-drawStackChart(data_wom_positions,"svg62");
-drawStackChart(data_wom_positions_m,"svg63");
-drawStackChart(data_wom_positions_f,"svg64");
-
- drawStackChart(data_wom_combat,"svg65");
- drawStackChart(data_wom_combat_m,"svg66");
- drawStackChart(data_wom_combat_f,"svg67");
- 
- 
-drawStackChart(data_wom_recognition,"svg68");
-drawStackChart(data_wom_recognition_m,"svg69");
-drawStackChart(data_wom_recognition_f,"svg70");
-
- 
- 
-changeHBarChart(data_wom_suicidal,"svg71");
-changeHBarChart(data_wom_injury,"svg72");
-changeHBarChart(data_wom_expenses,"svg73");
-
-
-changeHBarChart(data_wom_motto,"svg74");
-
-
-
-
-
-
- 
-
-/*
-
- 
-*/
-
-iii=75;
-
-
-
-
-
-
-
-startnumerosC(numero_data_wom_survivor,"svg75");
- startnumerosB(numero_data_wom_report,"svg76");
- startnumerosA(numero_data_wom_retaliation,"svg77");
-
- 
-
-changeHBarChart(data_wom_impact,"svg78");
-  
-  
-
-
- startnumerosB(numero_mst,"svg79");
- 
- drawStackChart(data_wom_prosecutor,"svg80");
-
-  
-  
-  
-  
-  
-  
- 
-
-/*
-
-
-
-*/
-
-iii=81;
- 
-
-
-
-
-
-
-////// va health care
-
-
-
- startnumerosA(numero_va_priv,"svg81");
-  startnumerosB(numero_enrolled,"svg82");
-  startnumerosC(numero_va_rate,"svg83");
-
- 
- 
-  startnumerosA(numero_other,"svg84");
-  
-  
- //////////////////
- /// removing item
-/////////////////////  changeHBarChart(data_wom_not_report,"svg144");
-
-  changeHBarChart(data_va_coverage,"svg85");
-
- changeStackChart(data_va_primary,"svg86");
-
-  changeHBarChart(data_va_last,"svg87");
- changeStackChart(data_va_experience,"svg88");
- 
- 
- 
- 
- 
- 
- 
- //////////////////
- /// removing item
-/////////////////////  changeHBarChart(data_va_none,"svg149");
-
- 
-
-  changeStackChart(data_va_quality,"svg89");
-changeStackChart(data_va_non_quality,"svg90");
-
-
- changeStackChart(data_va_understand,"svg91");
- changeStackChart(data_va_non_understand,"svg92");
-
-
-
-
-
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-/*
-
- changeStackChart(data_va_scheduling_prim,"svg88");
- changeStackChart(data_va_scheduling_mental,"svg89");
- changeStackChart(data_va_scheduling_special,"svg90");
-
-*/
- /////////////////////////////////////////////////
- /////////////////////////////////////////////////
-
-
-
- changeStackChart(data_va_satisfaction_prim,"svg93");
- changeStackChart(data_va_satisfaction_special,"svg94");
- changeStackChart(data_va_satisfaction_mental,"svg95");
-
- 
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-/*
-changeStackChart(data_va_scheduling_non_prim,"svg94");
- changeStackChart(data_va_scheduling_non_mental,"svg95");
- changeStackChart(data_va_scheduling_non_spec,"svg96");
-*/
- /////////////////////////////////////////////////
- /////////////////////////////////////////////////
-
-
-
-
-
-  
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-////////////   changeHBarChart(data_va_choose_non,"svg163");
-
- 
-   ///////////////////////////////////////////////
- // removing
- /////////////////////////////////////////////////
-////////////     changeHBarChart(data_va_choose,"svg164");
-
- 
-
- changeStackChart(data_va_familiar,"svg96");
- changeStackChart(data_va_choice,"svg97");
-  changeStackChart(data_va_choice_exp,"svg98");
-
-  startnumerosB(numero_va_mission,"svg99");
- 
- 
- 
- 
- 
- 
-
-
-/*
-
- 
-*/
-
-iii=100;
-
-
-
-
-  changeStackChart(data_va_rating,"svg100");
- 
-  changeHBarChart(data_va_claim_long,"svg101");
-
-  changeHBarChart(data_va_pending,"svg102");
- 
-  changeStackChart(data_va_outcome,"svg103");
-
-  changeStackChart(data_va_appeal,"svg104");
- 
-  changeHBarChart(data_va_decision,"svg105");
-
-  changeHBarChart(data_va_appeal_pending,"svg106");
- 
- 
- 
-  changeStackChart(data_va_rate_dis,"svg107");
-  changeStackChart(data_va_rate_pension,"svg108");
-  changeStackChart(data_va_rate_edu,"svg109");
-  changeStackChart(data_va_rate_home,"svg110");
-  changeStackChart(data_va_rate_ins,"svg111");
-  changeStackChart(data_va_rate_voc,"svg112");
-  changeStackChart(data_va_rate_care,"svg113");
-
- 
-
-  changeHBarChart(data_va_ask,"svg114");
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-   
-/*
-
-
- */
- 
-iii=115;
-
- 
-  
- drawStackChart(data_gi_imp_recruit,"svg115");
-  drawStackChart(data_gi_imp_retent,"svg116");
-  drawStackChart(data_gi_imp_trans,"svg117");
-
-
- startnumerosB(numero_ed_d,"svg118");
- 
- startnumerosC(numero_data_ed_b,"svg119");
-
- 
-
-
-   changeHBarChart(data_ed_d,"svg120");
-
-
-
-
-  
-
- 
- 
-   drawStackChart(data_gi_eligible,"svg121");
-
-  changeHBarChart(data_gi_use,"svg122");
-
-  drawStackChart(data_gi_grad,"svg123");
-  drawStackChart(data_gi_exp,"svg124");
-   
- 
- 
- 
-  
-
- startnumerosA(numero_ed_a,"svg125");
-startnumerosB(numero_ed_b,"svg126");
-startnumerosC(numero_ed_c,"svg127");
- 
-///////////////////////////////  drawStackChart(data_ed_b,"svg127");
-  changeHBarChart(data_ed_c,"svg128");
-  drawStackChart(data_ed_vetfriend,"svg129");
- //// changeStackChart(data_ed_a,"svg198");
-   changeHBarChart(data_ed_a,"svg130");
-
-
-
-
- 
-
-
-/*
-
-
-*/
-
-iii=131;
-
-////drawStackChart(data_mj_medicinal,"svg133");
-/////drawStackChart(data_mj_legal,"svg134");
-
-
-
- startnumerosB(numero_cannabis_med,"svg131");
-
-startnumerosA(numero_cannabis_rec,"svg132");
-
- 
-
- 
- ///////////startnumerosA(numero_cannabis,"svg111");
- 
- drawStackChart(data_mj_research,"svg133");
-drawStackChart(data_mj_va_research,"svg134");
-drawStackChart(data_cannabis,"svg135");
-
-drawStackChart(data_mj_treatment,"svg136");
-changeHBarChart(data_cannabis_comfort,"svg137");
-drawStackChart(data_cannabis_discussed,"svg138");
-
-
-changePieChart(data_cannabis_recreational,"svg139");
-changePieChart(data_cannabis_legal_med,"svg140");
-changePieChart(data_cannabis_legal_rec,"svg141");
-
-
- 
-
-
-
- 
-
-
-iii=142;
-
-
-
-changeHBarChart(data_alcohol,"svg142");
-
-changeHBarChart(data_alcohol_typical,"svg143");
-
-
-
-
-//////////////////////////
-//// removing item
-//////////////////////changeHBarChart(data_alcohol_typical,"svg128");
-
-///////////
-///////////////changeHBarChart(data_alcohol_twohour,"svg127");
-
- startnumerosA(numero_data_alcohol,"svg144");
-
-
-changeStackChart(data_tobacco,"svg145");
-changeHBarChart(data_tobacco_type,"svg146");
- 
-drawStackChart(data_tobacco_use,"svg147");
-changeHBarChart(data_tobacco_often,"svg148");
-
-
-/*
- 
-*/
-
-
- 
-
-  
-/*
-
-*/
-iii=149;
- 
-
- //////////////////
- /// removing item
-/////////////////////  changeHBarChart(data_wom_not_report,"svg141");
-
-
-  
-
-
-startnumerosA(numero_guns,"svg149");
- changeHBarChart(data_guns_storage,"svg150");
-
-  drawStackChart(data_guns_lockers,"svg151");
-  drawStackChart(data_guns_concealed,"svg152");
-  drawStackChart(data_guns_assault,"svg153");
-  drawStackChart(data_guns_high,"svg154");
-  drawStackChart(data_guns_wait,"svg1557");
-  drawStackChart(data_guns_trigger,"svg156");
-  drawStackChart(data_guns_background,"svg157");
-
-  
- 
- 
-  
-
-/*
-
-
- 
-*/
-iii=158;
-
- 
-  
-  
-startnumerosA(numero_mental_care,"svg158");
-
- 
- 
- ///////////////////////////////////////
- // insert top 3 mental help why here
- //////////////////////////////////////////
-///////////////   changeHBarChart(data_mental_help_why,"svg82");
-
-  drawStackChart(data_mental_injury,"svg159");
-
-  drawStackChart(data_mental_help,"svg160");
-  changeHBarChart(data_mental_help_where,"svg161");
- 
- 
- 
-   ///////////////////////////////////////////////
- // insert top 3 mental not seeking help why here
- /////////////////////////////////////////////////
-////////////  changeHBarChart(data_mental_help_not,"svg86");
-
-
-
-  drawStackChart(data_mental_help_suggest,"svg162");
-  drawStackChart(data_mental_help_sought,"svg163");
-
-  
-   
- iii=164;
-
- 
-
-
-changePieChart(data_health_before,"svg164");
-changePieChart(data_health_after,"svg165");
-changePieChart(data_health_importance,"svg166");
- 
- 
-startnumerosA(numero_health_injury,"svg167");
-startnumerosB(numero_health_pain,"svg168");
-
-//////drawStackChart(data_health_injury,"svg92");
-
-/////drawStackChart(data_health_pain,"svg93");
-////changeHBarChart(data_health_a,"svg94");
-
-changeHBarChart(data_health_a,"svg169");
- 
-changeHBarChart(data_health_affect,"svg170");
-  
-  
-changeHBarChart(data_health_medication,"svg171");
-
-changeHBarChart(data_health_therapies,"svg172");
-
-drawStackChart(data_health_therapies_result,"svg173");
-drawStackChart(data_health_assisting,"svg174");
-
-changeHBarChart(data_health_assisting_who,"svg175");
-drawStackChart(data_health_activities,"svg176");
-
- 
-
- 
- 
-
-  iii=177;
-
-
-  drawStackChart(data_challenges,"svg177");
-  drawStackChart(data_finances,"svg178");
-  drawStackChart(data_bills,"svg179");
-startnumerosA(numero_lending,"svg180");
-  changeHBarChart(data_conditions,"svg181");
-startnumerosA(numero_perm,"svg182");
-   drawStackChart(data_tran_long,"svg183");
- drawStackChart(data_tran_temp,"svg184");
-  
-  
- changeHBarChart(data_tran_current,"svg185");
-
-  
-  
-    drawStackChart(data_tran_tap,"svg186");
-  drawStackChart(data_tran_rate,"svg187");
-  drawStackChart(data_tran_when,"svg188");
-  drawStackChart(data_tran_plan,"svg189");
-
-  changeHBarChart(data_tran_challenges,"svg190");
-
-  drawStackChart(data_tran_familiar,"svg191");
-
-  changeHBarChart(data_benefits_influential,"svg192");
-
- 
-
- 
- iii=193;
- 
- 
-  
- 
- changeHBarChart(data_iraq_worth,"svg193");
-
-changeHBarChart(data_afghan_worth,"svg194");
-
-
-
- 
- drawStackChart(data_selective_women,"svg195");
-
-drawStackChart(data_selective_end,"svg196");
-
- 
-//////changeHBarChart(data_afghan_visa,"svg36");
-startnumerosB(numero_afghan_visa,"svg197");
-
-
-changeHBarChart(data_citizenship,"svg198");
-
-changeHBarChart(data_deport,"svg199");
-
-
-
-startnumerosA(numero_deport_impacted,"svg200");
-
-startnumerosB(numero_deport_know,"svg201");
-
- 
-//////drawStackChart(data_deport_impacted,"svg39");
-
-//////drawStackChart(data_deport_know,"svg40");
-
- drawStackChart(data_transgender,"svg202");
-
-drawStackChart(data_dadt,"svg203");
- 
- 
-
-drawStackChart(data_parade,"svg204");
-
-
-changeHBarChart(data_nfl,"svg205");
-
-changeHBarChart(data_nfl_plan,"svg206");
+ startnumerosB(numero_employ_loans,"svg214");
 
 
 

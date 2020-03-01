@@ -193,22 +193,22 @@ Founder and CEO
  
 <h5>Gender</h5>
  <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg14" height="75"></svg></div>
-<div id="legendrow14" class="legendrow">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg0" height="75"></svg></div>
+<div id="legendrow0" class="legendrow">
 </div>
   <br />
 
  
    
-<h5>Ethnicity</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg21" height="500"></svg></div>
+<h5>Race</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg1" height="500"></svg></div>
 
   <br />
 
  
 
 <h5>Religious Affiliation</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg23" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg2" height="500"></svg></div>
 
   <br />
 
@@ -217,7 +217,7 @@ Founder and CEO
 
 <div class="donut">
 <h5>Age</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg15" width="310" height="396">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg3" width="310" height="396">
  
 </svg>
 
@@ -225,59 +225,40 @@ Founder and CEO
 
 </div>
 
-
-<div class="donut">
-<h5>Community</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" width="310" height="396"></svg>    
-</div>
-
- <br />
  
 
 
 <div class="donut">
 <h5>Marital Status</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg19" width="310" height="396"></svg>    
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4" width="310" height="396"></svg>    
 </div>
 
 
 <div class="donut">
 <h5>Children</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg20" width="310" height="396"></svg>    
+<svg xmlns="http://www.w3.org/2000/svg" id="svg5" width="310" height="396"></svg>    
 </div>
 
 <br />
 
  
  
-
-<h5 style="display:none !important; ">Political Party Affiliation</h5>
-<div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg22" height="500"></svg></div>
-
-  <br />
-
+ 
 
 
 <h5>Education</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg18" height="500"></svg></div>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg6" height="500"></svg></div>
  <br />
  
 
 
   
 <h5>Household Income</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg17" height="500"></svg></div>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="500"></svg></div>
  
   <br />
 
-
- <h5 style="display:none !important; ">Sexual Orientation</h5>
- <div class="barlabel" style="display:none !important; "></div>
- <div style="display:none !important;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg24" height="75"></svg></div>
-<div id="legendrow24" class="legendrow" style="display:none !important; ">
-</div>
-  <br />
+ 
  
 <br /><br /> 
  
@@ -310,120 +291,129 @@ Founder and CEO
 
  
  
- 
-
-<div class="numerosA-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg0" width="260" height="150"></svg>
-</div>
-<div class="numerosA-words-h">would recommend military service to a family member or friend.</div>
-   <br />
- 
- 
+  
  
  
 
  <h5>Branch of Service</h5>
 
-<div class="barlabel"></div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg1" height="75"></svg></div>
-<div id="legendrow1" class="legendrow">
+<div class="barlabel"></div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg8" height="75"></svg></div>
+<div id="legendrow8" class="legendrow">
 </div>
 
  
 
  <h5>Officer or Enlisted</h5>
 
-<div class="barlabel"></div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg2" height="75"></svg></div>
-<div id="legendrow2" class="legendrow">
+<div class="barlabel"></div><div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg9" height="75"></svg></div>
+<div id="legendrow9" class="legendrow">
 </div>
 
 
 
- 
-
-<h5 style="display:none !important; ">Where have you served on Active Duty?</h5>
-
- <div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg3" height="500"></svg></div>
- 
- <br />
-
-
-
+  
 
 
 
 
  <h5>Number of Deployments</h5>
 
-<div class="barlabel">Afghanistan</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg4" height="500"></svg></div>
-<div id="legendrow4" class="legendrow" style="display:none !important; ">
+<div class="barlabel">Afghanistan</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg10" height="500"></svg></div>
+<div id="legendrow10" class="legendrow" style="display:none !important; ">
 </div>
 
-<div class="barlabel">Iraq</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg5" height="500"></svg></div>
-<div id="legendrow5" class="legendrow" style="display:none !important; ">
+<div class="barlabel">Iraq</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg11" height="500"></svg></div>
+<div id="legendrow11" class="legendrow" style="display:none !important; ">
 </div>
 
-<div class="barlabel">Other Combat Areas</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg6" height="500"></svg></div>
-<div id="legendrow6" class="legendrow" style="display:none !important; ">
+<div class="barlabel">Other Combat Areas</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg12" height="500"></svg></div>
+<div id="legendrow12" class="legendrow" style="display:none !important; ">
 </div>
-
- <div class="barlabel" style="display:none !important; ">Resolute Support (ORS)</div><div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="75"></svg></div>
-<div id="legendrow7" class="legendrow" style="display:none !important; ">
-</div>
-
- <div class="barlabel" style="display:none !important; ">Inherent Resolve (OIR)</div><div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg8" height="75"></svg></div>
-<div id="legendrow8" class="legendrow" style="display:none !important; ">
-</div>
-
-
-
-
- <br /><br />
-<div class="numerosA-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg9" width="260" height="150"></svg>
-</div>
-<div class="numerosA-words-h">Were, or are currently, a member of the National Guard or Reserves</div>
- <br />
  
 
- 
- 
 
- <h5>Year Separated from the Military</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg10" height="500"></svg></div>
+
+
+ 
+ <h5>Service Component:</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg13" height="500"></svg></div>
  <br />
 
 
+
+
+ 
+
+ 
 
  
 <h5>Discharge Status</h5>
  <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg11" height="75"></svg></div>
-<div id="legendrow11" class="legendrow">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg14" height="75"></svg></div>
+<div id="legendrow14" class="legendrow">
 </div>
   <br />
   
  
-  
 
+ <h5>Year Separated from the Military</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg15" height="500"></svg></div>
+ <br />
+
+
+ 
+  
 
 
 
  
 <h5>How important is it for you to interact regularly with other veterans and military service members?</h5>
- <div class="barlabel" style="display:none !important; "></div>
- <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg12" height="500"></svg></div>
-<div id="legendrow12" class="legendrow" style="display:none !important; ">
+ <div class="barlabel"></div>
+ <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg16" height="500"></svg></div>
+<div id="legendrow16" class="legendrow">
 </div>
   <br />
   
   
-   
  
+
+ 
+
  <h5>How do you interact with other veterans and military service members?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg13" height="500"></svg></div>
- <br />
+  <span class="issuesBsm" style="height:6em; ">
+ 1. Social media 61%
+<br />
+2. Daily Life 47%
+<br />
+3. At Work 47%
+<br />
+4. Meetups 30%
+<br />
+5. On the Phone 28%
+<br />
+6. Social Clubs or VSOs 25%
+<br />
+7. Service Projects 18%
+ </span>
+  
+ 
+
+ <br /><br />
 
 
+
+ 
+<h5>How important is it for you to interact regularly with other veterans and military service members?</h5>
+ <div class="barlabel"></div>
+ <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg17" height="500"></svg></div>
+<div id="legendrow17" class="legendrow">
+</div>
+  <br />
+  
+  
+
+
+   
 
  
 
@@ -457,15 +447,34 @@ Founder and CEO
 
  
 
+<div class="numerosB" style="display:none !important; ">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="260" height="150" style="display:none !important; "></svg>
+<div class="numerosB-words" style="display:none !important; "></div>
+</div>
+
+
+<div class="numerosB" style="display:none !important; ">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg19" width="260" height="150" style="display:none !important; "></svg>
+<div class="numerosB-words" style="display:none !important; "></div>
+</div>
+
+
+
+ 
+
+
+
+
+
 <div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg25" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg20" width="260" height="150"></svg>
 <div class="numerosB-words">are registered to vote.</div>
 </div>
 
 
 
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg26" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg21" width="260" height="150"></svg>
 <div class="numerosA-words">have considered running for public office.</div>
 </div>
 
@@ -473,34 +482,12 @@ Founder and CEO
 
 
 <div class="numerosC">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg27" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg22" width="260" height="150"></svg>
 <div class="numerosC-words">definitely planned on voting in 2020 Elections.</div>
 </div>
 
   
   
-  
- 
- 
-<h5>What impact do you think having more veterans in Congress would have on the ability of Congress to address national issues?</h5>
- <div class="barlabel" style="display:inline-block; "></div><div style="display:inline-block !important;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg28" height="75"></svg></div>
-<div id="legendrow28" class="legendrow">
-</div>
-
-
- 
-
- 
-  
-
-<h5 style="display:none !important; ">Political Party Affiliation</h5>
-<div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg29" height="500"></svg></div>
-
-  <br />
-
- 
-
 
 
  
@@ -520,12 +507,23 @@ Founder and CEO
   
  
 
-
-
-
  <br /><br />
 
+  
  
+<h5>What impact do you think having more veterans in Congress would have on the ability of Congress to address national issues?</h5>
+ <div class="barlabel" style="display:inline-block; "></div><div style="display:inline-block !important;width:100%; ">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg23" height="75"></svg></div>
+<div id="legendrow23" class="legendrow">
+</div>
+
+
+ 
+
+  
+
+
+
 
  <br /><br />
 
@@ -535,8 +533,91 @@ Founder and CEO
 `
   },
 
+
+
+
+
+
+
+
+
+  {
+    section: "// CIVIC ENGAGEMENT",
+   icon: "",
+   header: "Post-9/11 veterans have stood out in the veteran community for their desire to continue to serve and give back once they return home. Many IAVA members have discovered the psychological, emotional and social benefits from serving in their local communities. Of those who volunteer on a regular basis, 63 percent report feeling like a valued member of their community, compared to 47 percent of those who do not. Additionally, 58 percent of regular volunteers feel a sense of belonging to their community compared to 42 percent of those who do not.",
+    bkgImage: {
+      small: "45060583551_744b9828b7_z.jpg",
+      medium: "45060583551_744b9828b7_z.jpg",
+      large: "45060583551_744b9828b7_z.jpg"
+    },
+    body: `
+
+
+ 
+
+<div class="numerosB">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg24" width="260" height="150"></svg>
+<div class="numerosB-words">are registered to vote.</div>
+</div>
+
+
+
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg25" width="260" height="150"></svg>
+<div class="numerosA-words">have considered running for public office.</div>
+</div>
+ 
+
+
+
+<h5>Which issues do you focus your volunteer work on?</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg26" height="500"></svg></div>
+  
+
+ 
+
+ <h5>What organizations do you volunteer with?</h5>
+  <span class="issuesBsm" style="height:6em; ">
+ 1.  
+<br />
+2.  
+<br />
+3.  
+<br />
+4.  
+<br />
+5.  
+ </span>
+  
+ 
+
+ <br /><br />
+
+  
+  
+  
+
+
+
+
+ <br /><br />
+
+
+
+ 
+`
+  },
+
+
+
+
+
+
+
+
+
     {
-    section: "// Political Perceptions",
+    section: "// Issues In The Headlines",
    icon: "",
     header: "IAVA Members are engaged with the news of the day and have varying degrees of trust and support for political figures.",
     bkgImage: {
@@ -547,67 +628,199 @@ Founder and CEO
     body: `
 
 
-<div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg30" width="260" height="150"></svg>
-<div class="numerosA-words">believe President Trump acts in the interest of veterans.</div>
-</div>
- 
 
+
+<span class="barlabel">Do you support or oppose the impeachment of President Trump?</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg27" height="75"></svg></div>
+
+<div id="legendrow27" class="legendrow">
+</div>
+<br />
+*The survey was fielded between December 6th, 2019 and January 13th, 2020. The House Impeachment inquiry began on September 24, 2019 and the formal impeachment vote in the House of Representatives took place on December 18, 2019.
+
+
+
+<br />
+<br />
+
+
+
+<span class="barlabel">As of July 2019, there were over 6,000 military personnel deployed to the Mexican border. What is your opinion on the deployment of U.S. servicemembers to the border?
+</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg28" height="75"></svg></div>
+
+<div id="legendrow28" class="legendrow">
+</div>
+
+
+
+
+
+
+
+<span class="barlabel">Earlier this year, $3.6 billion in military construction funds were diverted to pay for the U.S./Mexico border wall. What is your opinion of the use of military funds for this purpose?
+</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg29" height="75"></svg></div>
+
+<div id="legendrow29" class="legendrow">
+</div>
+
+
+
+
+
+<span class="barlabel">There is currently a discretionary program (Parole in Place) that temporarily protects non-citizen immediate family members of active-duty troops from being deported in one-year increments. What is your opinion of this policy?
+</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg30" height="75"></svg></div>
+
+<div id="legendrow30" class="legendrow">
+</div>
+
+
+
+
+
+<span class="barlabel">A new immigration policy withholds automatic citizenship for children born overseas to non-citizen U.S. servicemembers. What is your opinion of this policy?
+</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg31" height="75"></svg></div>
+
+<div id="legendrow31" class="legendrow">
+</div>
+
+
+
+
+
+
+
+<br />
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+<h5>Please indicate your level of agreement with the following statements:</h5>
+
+  <div class="barlabel">Ending the Selective Service enrollment process (used in the event of a draft) for male U.S. citizens turning 18 years old.</div><div style="display:inline-block;width:100%; ">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg32" height="75"></svg></div>
+<div id="legendrow32" class="legendrow">
+</div>
+  <br />
+  
+
+ <div class="barlabel">Maintaining the Selective Service with the inclusion of women U.S. citizens turning 18 years old in the enrollment process.</div><div style="display:inline-block;width:100%; ">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg33" height="75"></svg></div>
+<div id="legendrow33" class="legendrow">
+</div>
+  <br />
+  
+  
+ 
+ <h5>Under current immigration law, non-citizens may be deported after committing a crime, regardless of veteran status or military service. What is your opinion of this policy?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg34" height="500"></svg></div>
+ <br />   
+
+
+
+  
 <div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg31" width="260" height="150"></svg>
-<div class="numerosB-words">
-believe Congress acts in the interest of veterans.</div>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg35" width="260" height="150"></svg>
+<div class="numerosB-words">have been personally impacted by this immigration policy.</div>
 </div>
+
+
+
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg36" width="260" height="150"></svg>
+<div class="numerosA-words">know a post-9/11 veteran impacted by this policy.</div>
+</div>
+
+
 
  
+<br />
 
-<div class="numerosC">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg32" width="260" height="150"></svg>
-<div class="numerosC-words">
-believe the American public supports veterans.</div>
-</div>
+  
+
+  
+ <h5>In all, do you think our engagement in Iraq was worth it, or not?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg37" height="500"></svg></div>
+ <br />
+
+
+ <h5>In all, do you think our engagement in Afghanistan is worth it, or not?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg38" height="500"></svg></div>
+ <br />
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
 
 
  
  <h5>Which of the following most closely resembles your opinion on the following statements?</h5>
  
-
-<span class="barlabel">The American public supports veterans.</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg33" height="75"></svg></div>
-
-<div id="legendrow33" class="legendrow">
-</div>
-
-  
-  
-<span class="barlabel">Congress acts in the interest of veterans.</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg34" height="75"></svg></div>
-
-<div id="legendrow34" class="legendrow">
-</div>
-
- 
 <span class="barlabel">President Trump acts in the interest of veterans.</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg35" height="75"></svg></div>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg39" height="75"></svg></div>
 
-<div id="legendrow35" class="legendrow">
+<div id="legendrow39" class="legendrow">
 </div> 
  
+
+  
+<span class="barlabel">Congress acts in the interest of veterans.</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg40" height="75"></svg></div>
+
+<div id="legendrow40" class="legendrow">
+</div>
+
+ 
+
+
+<span class="barlabel">The American public supports veterans.</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg41" height="75"></svg></div>
+
+<div id="legendrow41" class="legendrow">
+</div>
+
+  
+<span class="barlabel">The American public understands the sacrifices of veterans.</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg42" height="75"></svg></div>
+
+<div id="legendrow42" class="legendrow">
+</div>
+
  
 <span class="barlabel">Employers see value in hiring veterans.</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg36" height="75"></svg></div>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg43" height="75"></svg></div>
 
-<div id="legendrow36" class="legendrow">
+<div id="legendrow43" class="legendrow">
 </div>
+  
+
  
+<span class="barlabel">Employers make efforts to retain veterans.</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg44" height="75"></svg></div>
 
-
-<span class="barlabel">The American public understands the sacrifices of veterans.</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg37" height="75"></svg></div>
-
-<div id="legendrow37" class="legendrow">
+<div id="legendrow44" class="legendrow">
 </div>
- 
+  
  
   <h5>Top 5 mediums IAVA members get their news through:</h5>
   <span class="issuesBsm" style="height:6em; ">
@@ -625,6 +838,19 @@ believe the American public supports veterans.</div>
   <br />
 
  
+
+
+
+
+<span class="barlabel" style="display:none !important; ">Employers make efforts to retain veterans.</span> 
+<div style="display:none !important;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg45" height="75" style="display:none !important; "></svg></div>
+
+<div id="legendrow45" class="legendrow" style="display:none !important; ">
+</div>
+  
+
+
+
  
 
 `
@@ -634,341 +860,6 @@ believe the American public supports veterans.</div>
   
   
   
-
-
-  {
-    section: "// Employment",
-        icon: "",
-  header: "Unemployment has been consistently declining, particularly for the post-9/11 generation. This year, we continue to see this trend among IAVA members with the lowest unemployment rate ever recorded. But job satisfaction, underemployment, veteran-friendly employment practices and other factors continue to impact the overall employment outlook for the post-9/11 generation.",
-    bkgImage: {
-      small: "45849260391_89d2af2072_z.jpg",
-      medium: "45849260391_89d2af2072_z.jpg",
-      large: "45849260391_89d2af2072_z.jpg"
-    },
-    body:`
- 
-
-  
-<div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg38" width="260" height="150"></svg>
-<div class="numerosA-words">of participants are unemployed and looking for work</div>
-</div>
-
- 
-
-<div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg39" width="260" height="150"></svg>
-<div class="numerosB-words">of employed participants consider themselves currently underemployed</div>
-</div>
-
-
-<div class="numerosC">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg40" width="260" height="150"></svg>
-<div class="numerosC-words">of those unemployed have been for over 27 weeks</div>
-</div>
- 
- 
-  <h5>Did you have a job secured before you left the military?</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg41" height="75"></svg></div>
-<div id="legendrow41" class="legendrow"></div>
-
- <br />
- <div class="numeros-hero">
-</div>
- 
-  
-  
- 
- 
-<h5>How long were you without a job after transitioning out of the military?</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg42" height="500"></svg></div>
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- <h5>Top 3 Job Incentives</h5>
-<span class="issuesBsm" style="height:4em; ">
- 1. Salary/benefits package
-  <br />
-
-2. Job is meaningful
-<br />
- 3. Translating military skills
- </span>
- 
-
- 
- 
-  <h5>Did you receive support/training for transitioning to the civilian workforce before leaving the military?</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg43" height="75"></svg></div>
-<div id="legendrow43" class="legendrow"></div>
-
- 
-
-
-
-
-
-
-
-
-<h5>At which level do you currently work?</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg44" height="500"></svg></div>
-  
-
- 
-  <h5>Are you personally satisfied with your current job?</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg45" height="75"></svg></div>
-<div id="legendrow45" class="legendrow"></div>
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <h5>Top 5 Job Satisfaction Factors:</h5>
-
- <span class="issuesBsm" style="height:7em; ">
-1. The environment and/or people
-<br />
-2. Job is mission driven/has an impact
-<br />
-3. Opportunity to apply skills/abilities
-<br />
-4. Compensation
-<br />
-5. Job is challenging
-<br />
-   </span>
-
-  
- 
-  
-
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- <h5>Top 5 Reasons Unsatisfied with Job:</h5>
-
- <span class="issuesBsm" style="height:8em; ">
-1. Job does not best use my skills
-  <br />
-2. The environment and/or people
-  <br />
-3. Compensation
-  <br />
-4. Job does not match my education/experience level
-  <br />
-5. Job is not challenging
-  </span>
-
-  <br />
- 
-
- 
-  
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <h5>Top 5 Challenges faced in finding work:</h5>
-
- <span class="issuesBsm" style="height:7em; ">
-
-1. Competing with candidates in the workforce longer
-
- <br />
- 
-2. Lacking required education/certification
-
- <br />
- 
-3. Explaining how military skills translate
-
- <br />
- 
-4. Employers avoid hiring veterans
-
- <br />
- 
-5. Mental health injuries
- </span>
-   
- 
- 
-  
-  
-
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- <h5>Top 3 Reasons Not Looking for Work:</h5>
-
- <span class="issuesBsm" style="height:4em; ">
-1. Family responsibilities
-  <br />
-2. Health concerns
-  <br />
-3. Childcare conflicts / In school or trainings
-   <br />
-  </span>
-
-
- 
-  
-
-  
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-  <h5>Plans to start own business or non-profit enterprise:</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg46" height="75"></svg></div>
-<div id="legendrow46" class="legendrow"></div>
-
-
-
- <br />
- <div class="numeros-hero">
-</div>
- 
-  
-  
- 
-
-<h5>What challenges do you anticipate for starting your business/non-profit?</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg47" height="500"></svg></div>
-  
-
-<br />
-<div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg48" width="260" height="150"></svg>
-</div>
-<div class="numerosB-words-h">Are aware of VA/Department of Labor small business support programs.</div>
-  
-
-
-
-
-`
-
-  }
-,
-
-
-
-
-
 
 
   {
@@ -987,47 +878,68 @@ believe the American public supports veterans.</div>
  
 
 <div class="numerosC">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg49" width="260" height="150"></svg>
-<div class="numerosC-words">Personally know a post-9/11 veteran who has died by suicide</div>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg46" width="260" height="150"></svg>
+<div class="numerosC-words">Believe as a nation we are making progress in combating military/veteran suicide</div>
 </div>
-
-
-
-<div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg50" width="260" height="150"></svg>
-<div class="numerosB-words">Personally know a post-9/11 veteran who has attempted suicide</div>
-</div>
-
 
 
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg51" width="260" height="150"></svg>
-<div class="numerosA-words">Do not believe as a nation we are making progress in combating military/veteran suicide</div>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg47" width="260" height="150"></svg>
+<div class="numerosA-words">Believe that the military/veteran community are getting the care they need for mental health injuries</div>
 </div>
+
 
  
  
   
 
-
- <h5>Reported suicidal ideation since joining the military:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg52" height="500"></svg></div>
- <br />
-
-
-
-
-
-
-
-
  
-<h5>Reported suicidal ideation prior to joining the military:</h5>
+
+
+
+<h5>Do you personally know a post-9/11 veteran who has attempted suicide?</h5>
 <span class="barlabel"></span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg53" height="75"></svg></div>
-<div id="legendrow53" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg48" height="75"></svg></div>
+<div id="legendrow48" class="legendrow">
 </div>
  
+
+
+
+
+
+<h5>Do you personally know a post-9/11 veteran who has died by suicide?</h5>
+<span class="barlabel"></span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg49" height="75"></svg></div>
+<div id="legendrow49" class="legendrow">
+</div>
+ 
+
+
+
+
+
+
+ 
+<h5>Had you ever had thoughts of taking your own life prior to joining military service?</h5>
+<span class="barlabel"></span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg50" height="75"></svg></div>
+<div id="legendrow50" class="legendrow">
+</div>
+ 
+
+
+
+
+<h5>Since joining the military, have you had thoughts about taking your own life?</h5>
+<span class="barlabel"></span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg51" height="75"></svg></div>
+<div id="legendrow51" class="legendrow">
+</div>
+ 
+
+ 
+
    
   <br />
   
@@ -1039,8 +951,8 @@ believe the American public supports veterans.</div>
  
 <h5>Are you aware of the Veterans Crisis Line, the 24/7 toll-free hotline connecting veterans in crisis with trained responders, which can be reached at 1-800-273-8255 (press 1)?</h5>
 <span class="barlabel"></span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg54" height="75"></svg></div>
-<div id="legendrow54" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg52" height="75"></svg></div>
+<div id="legendrow52" class="legendrow">
 </div>
 
 
@@ -1053,9 +965,22 @@ believe the American public supports veterans.</div>
 </div>
 
   
- <span class="barlabel">Have you ever contacted the Veterans Crisis Line  (1-800-273-8255)?</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg55" height="75"></svg></div>
-<div id="legendrow55" class="legendrow">
+ <span class="barlabel">Have you ever contacted the Veterans Crisis Line?</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg53" height="75"></svg></div>
+<div id="legendrow53" class="legendrow">
+</div>
+
+  
+  <br />
+  
+ 
+<div class="numeros-hero">
+</div>
+
+  
+ <span class="barlabel">Overall, how would you rate your experience with the Veterans Crisis Line?</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg54" height="75"></svg></div>
+<div id="legendrow54" class="legendrow">
 </div>
 
  
@@ -1085,9 +1010,9 @@ believe the American public supports veterans.</div>
 
 
 <div class="numerosA-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg56" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg55" width="260" height="150"></svg>
 </div>
-<div class="numerosA-words-h">were exposed to burn pits and/or airborne toxic materials.</div>
+<div class="numerosA-words-h">Were exposed to burn pits and/or airborne toxic materials.</div>
    <br />
    <br />
 
@@ -1100,18 +1025,44 @@ believe the American public supports veterans.</div>
 
 
 <h5>Do you believe that you have symptoms associated with burn pits or toxic exposure, such as respiratory issues?</h5>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg56" height="75"></svg></div>
+<div id="legendrow56" class="legendrow"></div>
+
+  <br />
+ 
+
+
+
+
+
+
+
+
+<h5>Do you discuss your burn pit and/or toxic exposures and any symptoms you may be experiencing with your primary care provider?</h5>
  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg57" height="75"></svg></div>
 <div id="legendrow57" class="legendrow"></div>
 
   <br />
- <div class="numeros-hero">
-</div>
+ 
 
 
 
-<h5>Are you aware of the VA's 'burn pits' registry?</h5>
+
+
+
+<h5>Was your burn pit or toxic exposure documented by DoD in a Periodic Health Assessment or other report?</h5>
  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg58" height="75"></svg></div>
 <div id="legendrow58" class="legendrow"></div>
+
+  <br />
+ 
+
+
+
+
+<h5>Are you aware of the VA's Airborne Hazards and Open Burn Pit Registry?</h5>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg59" height="75"></svg></div>
+<div id="legendrow59" class="legendrow"></div>
 
   <br />
  <div class="numeros-hero">
@@ -1120,8 +1071,8 @@ believe the American public supports veterans.</div>
 
 
  
-<h5>Registered in the VA’s ‘burn pits’ registry:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg59" height="500"></svg></div>
+<h5>Are you registered in the VA's Airborne Hazards and Open Burn Pit Registry?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg60" height="500"></svg></div>
  <br />
 
  <br />
@@ -1134,8 +1085,14 @@ believe the American public supports veterans.</div>
 
 
 <h5>Did you have any issues when registering with the VA’s 'burn pits' registry?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg60" height="75"></svg></div>
-<div id="legendrow60" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg61" height="75"></svg></div>
+<div id="legendrow61" class="legendrow"></div>
+
+  
+  
+<h5>Have you completed the optional in-person medical evaluation that is offered to veterans who have entered into the VA's Airborne Hazards and Open Burn Pit Registry?</h5>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg62" height="75"></svg></div>
+<div id="legendrow62" class="legendrow"></div>
 
   
   
@@ -1175,8 +1132,8 @@ believe the American public supports veterans.</div>
 
 
 <h5>How important do you think it is for IAVA to address issues facing women veterans?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg61" height="75"></svg></div>
-<div id="legendrow61" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg63" height="75"></svg></div>
+<div id="legendrow63" class="legendrow"></div>
 
 
 
@@ -1188,35 +1145,22 @@ believe the American public supports veterans.</div>
 
 
  <span class="barlabel">All respondents </span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg62" height="75"></svg></div>
-<div id="legendrow62" class="legendrow"></div>
-
-
-
-
-  <span class="barlabel">Male respondents  </span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg63" height="75"></svg></div>
-<div id="legendrow63" class="legendrow"></div>
-
-
-
-
-  <span class="barlabel">Female respondents  </span> 
  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg64" height="75"></svg></div>
 <div id="legendrow64" class="legendrow"></div>
 
 
 
 
+  <span class="barlabel">Female respondents  </span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg65" height="75"></svg></div>
+<div id="legendrow65" class="legendrow"></div>
 
 
+ 
 
-
-
-
-
-
-
+  <span class="barlabel">Male respondents  </span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg66" height="75"></svg></div>
+<div id="legendrow66" class="legendrow"></div>
 
 
 
@@ -1231,44 +1175,27 @@ believe the American public supports veterans.</div>
 
 
  <span class="barlabel">All respondents </span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg65" height="75"></svg></div>
-<div id="legendrow65" class="legendrow"></div>
-
-
-
-  <span class="barlabel">Male respondents </span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg66" height="75"></svg></div>
-<div id="legendrow66" class="legendrow"></div>
-
-
-
-
- <span class="barlabel">Female respondents </span> 
  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg67" height="75"></svg></div>
 <div id="legendrow67" class="legendrow"></div>
 
 
 
+
+ <span class="barlabel">Female respondents </span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg68" height="75"></svg></div>
+<div id="legendrow68" class="legendrow"></div>
+
+
+
  
 
+  <span class="barlabel">Male respondents </span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg69" height="75"></svg></div>
+<div id="legendrow69" class="legendrow"></div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -1277,27 +1204,58 @@ believe the American public supports veterans.</div>
 
 
  <span class="barlabel">All respondents </span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg68" height="75"></svg></div>
-<div id="legendrow68" class="legendrow"></div>
-
-
- <span class="barlabel">Male respondents </span> 
-
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg69" height="75"></svg></div>
-<div id="legendrow69" class="legendrow"></div>
-
- <span class="barlabel">Female respondents </span> 
-
  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg70" height="75"></svg></div>
 <div id="legendrow70" class="legendrow"></div>
 
 
+ <span class="barlabel">Female respondents </span> 
 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg71" height="75"></svg></div>
+<div id="legendrow71" class="legendrow"></div>
+
+
+
+
+ <span class="barlabel">Male respondents </span> 
+
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg72" height="75"></svg></div>
+<div id="legendrow72" class="legendrow"></div>
  
  
  
  
  
+
+
+
+
+<h5>Opinions On Changing the VA’s Motto: "To care for him who has borne the battle and for his widow and his orphan."</h5>
+
+ <span class="barlabel">All respondents </span> 
+
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg73" height="500"></svg></div>
+ <br />
+
+
+ <span class="barlabel">Female respondents </span> 
+
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg74" height="500"></svg></div>
+ <br />
+
+
+  
+ <span class="barlabel">Male respondents </span> 
+
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg75" height="500"></svg></div>
+ <br />
+
+
+  
+  
+
+
+
+
  
   
  
@@ -1307,7 +1265,7 @@ believe the American public supports veterans.</div>
  
 
  <h5>Report suicidal ideation since joining the military:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg71" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg76" height="500"></svg></div>
  <br />
 
 
@@ -1318,7 +1276,7 @@ believe the American public supports veterans.</div>
  
 
  <h5>Report a service-connected mental health injury:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg72" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg77" height="500"></svg></div>
  <br />
 
 
@@ -1329,7 +1287,7 @@ believe the American public supports veterans.</div>
  
 
  <h5>Report difficulty covering expenses in a typical month:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg73" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg78" height="500"></svg></div>
  <br />
 
 
@@ -1337,29 +1295,38 @@ believe the American public supports veterans.</div>
 
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
-
-<h5>Opinions On Changing the VA’s Motto: "To care for him who has borne the battle and for his widow and his orphan."</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg74" height="500"></svg></div>
+ <h5>Report not feeling safe in VA healthcare facilities:</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg79" height="500"></svg></div>
  <br />
 
 
-  
+ 
+ 
+
+ <h5>Report not feeling respected by VA employees:</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg80" height="500"></svg></div>
+ <br />
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
   
   
   
@@ -1390,7 +1357,7 @@ believe the American public supports veterans.</div>
   {
     section: "// Sexual Trauma and Assault",
         icon: "",
-  header: "Military sexual trauma affects an estimated 1 in 4 women veterans and 1 in 100 male veterans, according to the VA. While there has been much attention on the issue from Department of Defense and VA, sexual assault continues to plague the services. By better understanding the past experience of these survivors, IAVA can better combat sexual assault in the future.",
+  header: "Military sexual trauma affects an estimated one in four women veterans and one in one-hundred male veterans, according to VA. While there has been much attention on the issue from Department of Defense and VA, sexual assault continues to plague the services. By better understanding the past experience of these survivors, IAVA is dedicated to understanding the experiences of survivors so that we can better advocate for policies that will stop sexual assault in the future.",
     bkgImage: {
       small: "06.jpg",
       medium: "06.jpg",
@@ -1409,96 +1376,127 @@ believe the American public supports veterans.</div>
 
 
 <div class="numerosC">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg75" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg81" width="260" height="150"></svg>
 <div class="numerosC-words">are a survivor of military sexual assault.</div>
 </div>
 
 
 
+
 <div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg76" width="260" height="150"></svg>
-<div class="numerosB-words">of those assaulted reported it.</div>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg82" width="260" height="150"></svg>
+<div class="numerosC-words">are a survivor of military sexual assault.</div>
 </div>
+
 
 
 
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg77" width="260" height="150"></svg>
-<div class="numerosA-words">experienced any kind of retaliation after reporting.</div>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg83" width="260" height="150"></svg>
+<div class="numerosC-words">are a survivor of military sexual assault.</div>
 </div>
 
- 
- 
-  
-  
-  
-  
-  
-  
-  
-  
 
 
 
+
+
+
+<br />
+<div class="numerosB-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg84" width="260" height="150"></svg>
+</div>
+<div class="numerosB-words-h">of those assaulted reported it.</div>
   <br />
+   <br />
+
  
-<div class="numeros-hero">
+  <br />
+ <div class="numeros-hero">
 </div>
- 
 
-
-
-
-<h5>If instead of your commander, a trained military prosecutor had the authority to make the decision to move forward with your case, would it have impacted your decision to report?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg78" height="500"></svg></div>
- <br />
- 
- 
   
-  
-  
-
   
   
 
 
 
-
-
-
-
-
- <div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg79" width="260" height="150"></svg>
-</div>
-<div class="numerosB-words-h">Do not believe that Department of Defense is effectively addressing the problem of military sexual assault.</div>
-
- 
-
-<h5>If the final decision to send someone to court martial for military sexual assault was a trained military prosecutor instead of the commanding officer, would you view the commander as:</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg80" height="75"></svg></div>
-<div id="legendrow80" class="legendrow"></div>
-
-
-
-
- 
- 
-
-
-
-
-
- <h5>Top 3 reasons Survivors Did Not Report the Crime:</h5>
+ <h5>Top 5 reasons survivors did not report the crime:</h5>
 
  <span class="issuesBsm" style="height:5em; ">
 1. Did not think anything would be done
 <br />
- 2. Concerned about impact on my career
+ 2. Concerned that my peers would treat me differently
  <br />
- 3. Concerned that my peers would treat me differently
+ 3. Concerned about impact on my career
+ <br />
+ 4. Fear of retaliation by my peers or Commander
+ <br />
+ 5. Doubted that my Commander would believe me
   </span>
 
+  <br />
+ 
+  
+
+
+
+
+ 
+ 
+
+<div class="numerosA-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg85" width="260" height="150"></svg>
+</div>
+<div class="numerosA-words-h">experienced any kind of retaliation after reporting.</div>
+   <br />
+   <br />
+
+ 
+  <br />
+ <div class="numeros-hero">
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+<h5>If instead of your commander, a trained military prosecutor had the authority to make the decision to move forward with your case, would it have impacted your decision to report?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg86" height="500"></svg></div>
+ <br />
+ 
+ 
+  
+  
+  
+
+  
+  
+
+
+
+
+
+ 
+<h5>If the final decision to send someone to court martial for military sexual assault was a trained military prosecutor instead of the commanding officer, would you view the commander as:</h5>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg87" height="75"></svg></div>
+<div id="legendrow87" class="legendrow"></div>
+
+
+
+
+ 
+ 
+
+
+ 
   <br />
  
 
@@ -1539,49 +1537,97 @@ believe the American public supports veterans.</div>
  
  
    
-<div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg81" width="260" height="150"></svg>
-<div class="numerosA-words">support the expansion of privatizing care at VA.</div>
-</div>
-
-
-
-
-
-
 <div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg82" width="260" height="150"></svg>
-<div class="numerosB-words">are enrolled in VA health care.</div>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg88" width="260" height="150"></svg>
+<div class="numerosA-words">members are enrolled in VA healthcare.</div>
+</div>
+
+
+
+
+
+
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg89" width="260" height="150"></svg>
+<div class="numerosB-words">as their primary source for healthcare.</div>
 </div>
  
 
 
 
 
-<div class="numerosC">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg83" width="260" height="150"></svg>
-<div class="numerosC-words">rate VA care as average or above average.</div>
+
+
+
+ 
+ 
+  
+  
+ <h5>What do you currently use for healthcare coverage?</h5>
+ 
+  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg90" height="150"></svg></div>
+ 
+  
+  
+   
+  
+ <h5>Rate your overall experience with VA health care:</h5>
+ 
+  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg91" height="150"></svg></div>
+ 
+  
+
+
+
+
+
+    <br />
+
+ 
+
+
+ <span class="barlabel">2019 </span> 
+
+<div class="numerosC-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg92" width="260" height="150"></svg>
+</div>
+<div class="numerosC-words-h">of IAVA members rated their overall VA healthcare experience as excellent or good.</div>
+   <br />
+ 
+
+ <span class="barlabel">2017 </span> 
+
+<div class="numerosB-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg93" width="260" height="150"></svg>
+<div class="numerosB-words">of IAVA members rated their overall VA healthcare experience as excellent or good VA care as average or above average.</div>
 </div>
  
 
- 
- 
- 
- 
- 
+
+
+
+
+    <br />
 
  
 
 
+ 
 
- <h5>Top 3 reforms needed to address improvements to VA health care:</h5>
+
+
+ <h5>Top 5 reforms needed to address improvements to VA health care:</h5>
 
  <span class="issuesBsm" style="height:6em; ">
 1. Reduce paperwork and bureaucracy to access care
 <br />
- 2. Reform hiring and firing practices to improve accountability
+ 2. Reform hiring and firing practices to improve accountability of bad actors and rewarding good actors.
  <br />
- 3. Consolidate Community Care programs
+ 3. Expansion of specialized care
+ <br />
+ 4. More post-9/11 vets working at VA
+ <br />
+ 5. Updates to technology
   </span>
 
   <br />
@@ -1591,161 +1637,24 @@ believe the American public supports veterans.</div>
 
 
 
+ <h5>Top 5 reasons not enrolled in VA healthcare:</h5>
 
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- <div class="numerosA-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg84" width="260" height="150"></svg>
-</div>
-<div class="numerosA-words-h">are receiving VA benefits other than health care.</div>
-
-
-
-
-
-
-
-<h5>Health Care Sources:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg85" height="500"></svg></div>
- <br />
-
-
-  
-  
- <h5>Who is your primary source of care?</h5>
- 
-  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg86" height="75"></svg></div>
-<div id="legendrow86" class="legendrow"></div>
-
-  
-  
-  
-  
-  
-<h5>When was the last time you sought health care from the VA?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg87" height="500"></svg></div>
- <br />
-
-
-  
-  
- <h5>Rate your overall experience with VA health care:</h5>
- 
-  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg88" height="75"></svg></div>
-<div id="legendrow88" class="legendrow"></div>
-
-  
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <h5>Top 3 Reasons Not Enrolled in VA Health Care:</h5>
-
- <span class="issuesBsm" style="height:5em; ">
-1. Have other health benefits
+ <span class="issuesBsm" style="height:6em; ">
+1. I have other health benefits and I don’t need VA care
 <br />
- 2. Other veterans need the benefits more
+ 2. I prefer my private sector provider
  <br />
- 3. Prefer private sector provider
+ 3. Other veterans need the benefits more
+ <br />
+ 4. I am not sure if I am eligible
+ <br />
+ 5. I do not trust the care that VA has to offer
   </span>
 
   <br />
  
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1754,182 +1663,223 @@ believe the American public supports veterans.</div>
  <h5>Please rate your level of agreement with the following statements:</h5>
 
 
+ <h5>VA clinicians understand my medical needs:</h5>
+  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg94" height="75"></svg></div>
+<div id="legendrow94" class="legendrow"></div>
 
-
- <h5>Clinicians provide quality care to veterans:</h5>
  
+ <h5>VA clinicians provide timely, quality care to veterans:</h5>
+  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg95" height="75"></svg></div>
+<div id="legendrow95" class="legendrow"></div>
+
  
- <span class="barlabel">VA clinicians </span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg89" height="75"></svg></div>
-<div id="legendrow89" class="legendrow"></div>
+ <h5>I feel safe when going to VA facilities:</h5>
+  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg96" height="75"></svg></div>
+<div id="legendrow96" class="legendrow"></div>
 
-
- <span class="barlabel">Non-VA clinicians</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg90" height="75"></svg></div>
-<div id="legendrow90" class="legendrow"></div>
-
-
-
- <h5>Clinicians understand the medical needs of veterans:</h5>
  
-
- <span class="barlabel">VA clinicians</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg91" height="75"></svg></div>
-<div id="legendrow91" class="legendrow"></div>
-
-
-
- <span class="barlabel">Non-VA clinicians</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg92" height="75"></svg></div>
-<div id="legendrow92" class="legendrow"></div>
-
-
-
-
+ <h5>VA employees treat me with respect:</h5>
+  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg97" height="75"></svg></div>
+<div id="legendrow97" class="legendrow"></div>
 
 
  
 
+ 
+ 
+
+
+  
+ <h5>Which statement best describes your experience scheduling appointments with the following providers:</h5>
+ 
+
+
+ <span class="barlabel">VA mental health provider</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg98" height="75"></svg></div>
+<div id="legendrow98" class="legendrow"></div>
+
+ <span class="barlabel">VA primary care provider</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg99" height="75"></svg></div>
+<div id="legendrow99" class="legendrow"></div>
 
 
 
+ <span class="barlabel">VA specialty care</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg100" height="75"></svg></div>
+<div id="legendrow100" class="legendrow"></div>
 
 
+
+ 
+  
 
 
   
  <h5>Rate your level of satisfaction with the following providers:</h5>
  
+
+
+ <span class="barlabel">VA mental health provider</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg101" height="75"></svg></div>
+<div id="legendrow101" class="legendrow"></div>
+
  <span class="barlabel">VA primary care provider</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg93" height="75"></svg></div>
-<div id="legendrow93" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg102" height="75"></svg></div>
+<div id="legendrow102" class="legendrow"></div>
 
 
 
  <span class="barlabel">VA specialty care</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg94" height="75"></svg></div>
-<div id="legendrow94" class="legendrow"></div>
-
-
-
-
- <span class="barlabel">VA mental health provider</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg95" height="75"></svg></div>
-<div id="legendrow95" class="legendrow"></div>
-
-
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg103" height="75"></svg></div>
+<div id="legendrow103" class="legendrow"></div>
 
 
 
 
  
 
-
-
-
- 
-
-
-
-
-
- 
-
-
-
- <h5>Top 3 Reasons to Use Non-VA Provider as Primary Source of Care:</h5>
+ <h5>Top 3 Reasons to Use non-VA Provider as primary source of care:</h5>
 
  <span class="issuesBsm" style="height:3em; ">
-1. Convenience
+1. Non-VA provider more convenient
 <br />
- 2. Higher quality of care
+ 2. Higher quality of care with non-VA provider
  <br />
- 3. Not enrolled in VA health care
+ 3. More cmfortable with non-VA provider
   </span>
 
   <br />
  
 
  
-  
-    
 
 
- 
+ <h5>Top 3 reasons to use VA provider as primary source of care:</h5>
 
-
-
-
-
-
-
-
- <h5>Top 3 Reasons to Use VA Provider as Primary Source of Care:</h5>
-
- <span class="issuesBsm" style="height:4em; ">
-1. Health care is free
+ <span class="issuesBsm" style="height:5em; ">
+1. VA healthcare is free
 <br />
- 2. My only source of health care
+ 2. VA provider understands my military service
  <br />
- 3. Provider understands military service
+ 3. The VA is my only source of healthcare
   </span>
 
   <br />
  
 
- 
+
+`
+
+  }
+,
+
+
+
+
+
+
+
+  {
+    section: "// The MISSION ACT & Community Care Program",
+        icon: "",
+  header: "The VA MISSION Act, passed into law in 2018, seeks to consolidate, reform, and streamline the many VA community care programs and strengthen healthcare options for veterans, while sunsetting the Choice program. For years, IAVA has advocated for the consolidation of VA’s community care programs. With that goal now achieved, monitoring and assisting with its implementation is paramount. There is a long road ahead of us; it will take the will of Congress, the Administration, and the American public to continue on this path towards a truly integrated network of VA health care.",
+    bkgImage: {
+      small: "11.jpg",
+      medium: "11.jpg",
+      large: "11.jpg"
+    },
+    body:`
+
   
 
  
-
-
-
-
-
+<div class="numerosC-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg104" width="260" height="150"></svg>
+</div>
+<div class="numerosC-words-h">have heard of the VA MISSION Act and the changes it will make to the VA system.</div>
   
- <h5>Are you familiar with the VA Choice Card Program</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg96" height="75"></svg></div>
-<div id="legendrow96" class="legendrow"></div>
-
 
  <br />
- <div class="numeros-hero">
-</div>
- 
-  
-  
-  
- <span class="barlabel">Have you used the VA Choice Card Program</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg97" height="75"></svg></div>
-<div id="legendrow97" class="legendrow"></div>
-
- <br />
- <div class="numeros-hero">
-</div>
- 
-  
-  
-
-
-  
- <span class="barlabel">Please rate your experience with the Choice program</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg98" height="75"></svg></div>
-<div id="legendrow98" class="legendrow"></div>
-
-
-
-
-
-
 
  
 <div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg99" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg105" width="260" height="150"></svg>
 </div>
-<div class="numerosB-words-h">Have not heard of the VA MISSION Act and the changes it will make to the VA system.</div>
+<div class="numerosB-words-h">are familiar with the Community Care Program.</div>
   
 
  <br />
+
+ 
+<div class="numerosA-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg106" width="260" height="150"></svg>
+</div>
+<div class="numerosA-words-h">have used the Community Care Program.</div>
+  
+
+ <br />
+   
+ <div class="numeros-hero">
+</div>
+ 
+
+<h5>Please rate your experience with the Community Care program.</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg107" height="500"></svg></div>
+
+ <br />
+   
+ <div class="numeros-hero">
+</div>
+ 
+
+  
+ <h5>Please indicate your level of agreement or disagreement with the following statements:</h5>
+
+ <span class="barlabel">Community Care health providers understand my medical needs</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg108" height="75"></svg></div>
+<div id="legendrow108" class="legendrow"></div>
+
+
+ <span class="barlabel">I receive timely, quality care from Community Care health providers</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg109" height="75"></svg></div>
+<div id="legendrow109" class="legendrow"></div>
+
+
+ <br />
+ <div class="numeros-hero">
+</div>
+ 
+  
+   
+  
+
+ <h5>Please rate your experience scheduling appointments with the following providers:</h5>
+
+
+  
+ <span class="barlabel">Community Care Program mental health provider</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg110" height="75"></svg></div>
+<div id="legendrow110" class="legendrow"></div>
+
+
+  
+ <span class="barlabel">Community Care Program primary care provider</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg111" height="75"></svg></div>
+<div id="legendrow111" class="legendrow"></div>
+
+
+  
+ <span class="barlabel">Community Care Program specialty care provider</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg112" height="75"></svg></div>
+<div id="legendrow112" class="legendrow"></div>
+
+
+
+
+
+<h5>How confident are you in VA's ability to successfully operate its Community Care program?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg113" height="500"></svg></div>
+
  
  <br />
  
@@ -1966,34 +1916,28 @@ believe the American public supports veterans.</div>
   
 
 <h5>Do you have a service-connected disability rating from VA?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg100" height="75"></svg></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg114" height="75"></svg></div>
 <div id="legendrow100" class="legendrow"></div>
 
  
   
 <h5>How long did it take for the VA to notify you of a decision on your claim?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg101" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg115" height="500"></svg></div>
  <br />
 
- 
   
-<h5>For those still waiting, length of pending claim:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg102" height="500"></svg></div>
- <br />
-
-
  
 
 <h5>Were you satisfied with the outcome of your claim?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg103" height="75"></svg></div>
-<div id="legendrow103" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg116" height="75"></svg></div>
+<div id="legendrow116" class="legendrow"></div>
 
 
  
 
 <h5>Have you ever appealed a VA disability compensation claim decision?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg104" height="75"></svg></div>
-<div id="legendrow104" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg117" height="75"></svg></div>
+<div id="legendrow117" class="legendrow"></div>
  <br />
 
 
@@ -2003,55 +1947,50 @@ believe the American public supports veterans.</div>
  
   
 <h5>How long did it take to receive a final decision on your appeal?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg105" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg118" height="500"></svg></div>
  <br />
 
- 
-<h5>For those with a pending appeal, length of pending appeal:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg106" height="500"></svg></div>
- <br />
-
-
+  
   
 
 
 <h5>Please rate your satisfaction with the following VA benefits:</h5>
  
  <span class="barlabel">Disability compensation</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg107" height="75"></svg></div>
-<div id="legendrow107" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg119" height="75"></svg></div>
+<div id="legendrow119" class="legendrow"></div>
 
  
  <span class="barlabel">Pension</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg108" height="75"></svg></div>
-<div id="legendrow108" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg120" height="75"></svg></div>
+<div id="legendrow120" class="legendrow"></div>
 
  
  <span class="barlabel">GI Bill/Education Benefits*</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg109" height="75"></svg></div>
-<div id="legendrow109" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg121" height="75"></svg></div>
+<div id="legendrow121" class="legendrow"></div>
 * Responses collected over time frame of VA GI Bill payment scandal around Veterans Day 2018.
  <br />
  
  
  <span class="barlabel">Home loans</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg110" height="75"></svg></div>
-<div id="legendrow110" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg122" height="75"></svg></div>
+<div id="legendrow122" class="legendrow"></div>
 
  
  <span class="barlabel">Insurance</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg111" height="75"></svg></div>
-<div id="legendrow111" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg123" height="75"></svg></div>
+<div id="legendrow123" class="legendrow"></div>
 
  
  <span class="barlabel">Vocational rehabilitation/employment services</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg112" height="75"></svg></div>
-<div id="legendrow112" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg124" height="75"></svg></div>
+<div id="legendrow124" class="legendrow"></div>
 
  
  <span class="barlabel">VA Caregiver Benefits</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg113" height="75"></svg></div>
-<div id="legendrow113" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg125" height="75"></svg></div>
+<div id="legendrow125" class="legendrow"></div>
 
  
 
@@ -2059,7 +1998,7 @@ believe the American public supports veterans.</div>
 
   
 <h5>When you have questions about VA benefits, who do you ask?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg114" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg126" height="500"></svg></div>
  <br />
 
 
@@ -2092,121 +2031,74 @@ believe the American public supports veterans.</div>
     },
     body:`
  
-   
-<h5>How important is the post-9/11 GI Bill for the following:</h5>
- 
-  <span class="barlabel">Military recruitment</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg115" height="75"></svg></div>
-<div id="legendrow115" class="legendrow"></div>
-
- 
- <span class="barlabel">Military retention</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg116" height="75"></svg></div>
-<div id="legendrow116" class="legendrow"></div>
-
- 
-  <span class="barlabel">Successful transition/reintegration of veterans into civilian life</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg117" height="75"></svg></div>
-<div id="legendrow117" class="legendrow"></div>
-
 
 
   
 
 <div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg118" width="260" height="150"></svg>
-<div class="numerosB-words">took out loans for school.</div>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg127" width="260" height="150"></svg>
+<div class="numerosB-words">of IAVA members are eligible for the Post-9/11 GI Bill.</div>
  </div>
 
 
 <div class="numerosC">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg119" width="260" height="150"></svg>
-<div class="numerosC-words">went to for profit school.</div>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg128" width="260" height="150"></svg>
+<div class="numerosC-words">of IAVA members are currently in school.</div>
+</div>
+
+ 
+
+
+
+
+
+
+<h5>Have you or one of your dependents ever used the post-9/11 GI Bill?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg129" height="500"></svg></div>
+ <br />
+
+
+  <div class="numeros-hero">
 </div>
 
  
  
- 
 
- 
-  
-<h5>Amount of Student Loan Debt</h5>
-
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg120" height="500"></svg></div>
-  
- 
-  
-
-
-
-
-
-
-<h5>Are you eligible for the post-9/11 GI Bill (Chapter 33)?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg121" height="75"></svg></div>
-<div id="legendrow121" class="legendrow"></div>
-
- 
-  
-<h5>Have you or one of your dependents ever used the post-9/11 GI Bill?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg122" height="500"></svg></div>
+<h5>While in school on the post-9/11 GI Bill, did you (or your dependents) graduate?</h5>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg130" height="75"></svg></div>
+<div id="legendrow130" class="legendrow"></div>
  <br />
 
+
+  <div class="numeros-hero">
+</div>
+
  
 
 
-<h5>While in school on the post-9/11 GI Bill, did you (or your dependent) graduate?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg123" height="75"></svg></div>
-<div id="legendrow123" class="legendrow"></div>
-
+ 
 
 
 
 
 <h5>Overall, how would you rate your experience or your dependent's experience with the post-9/11 GI Bill?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg124" height="75"></svg></div>
-<div id="legendrow124" class="legendrow"></div>
-
-
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg131" height="75"></svg></div>
+<div id="legendrow131" class="legendrow"></div>
 
  
+
+
+<h5>What type of school are you attending/did you attend?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg132" height="500"></svg></div>
+ <br />
+
   
-
-
-
-
-
- 
- 
-   
-<div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg125" width="260" height="150"></svg>
-<div class="numerosA-words">Of respondents have pursued a degree since separating from the military</div>
-</div>
-
-
-
-<div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg126" width="260" height="150"></svg>
-<div class="numerosB-words">Of respondents are currently in school</div>
-</div>
-
-
-<div class="numerosC">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg127" width="260" height="150"></svg>
-<div class="numerosC-words">Have already finished degree.</div>
-</div>
-
- 
- 
  
 <h5>Overall level of satisfaction with your educational program(s):</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg128" height="500"></svg></div>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg133" height="500"></svg></div>
   
  
 
-
- 
 
  <h5>Top 5 Reasons Chose Institution:</h5>
   <span class="issuesBsm" style="height:7em; ">
@@ -2214,27 +2106,98 @@ believe the American public supports veterans.</div>
 <br />
 2. Location in relation to my home
 <br />
-3. Offering of specific program/field of study
+3. Veteran-friendly institution
 <br />
-4. Veteran-friendly institution
+4. Offering of specific program/field of study
 <br />
-5. Institution’s academic reputation/availability of online courses
+5. Availability of online classes
  </span>
   
 
 
 
+
 <h5>To what level is/are your school(s) veteran friendly?</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg129" height="75"></svg></div>
-<div id="legendrow129" class="legendrow"></div>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg134" height="75"></svg></div>
+<div id="legendrow134" class="legendrow"></div>
  
  
+
+
+
    
 
 <h5>VA Benefit Used for Education:</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg130" height="500"></svg></div>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg135" height="500"></svg></div>
     <br />
 
+
+
+    
+<h5>How important is the post-9/11 GI Bill for the following:</h5>
+ 
+  <span class="barlabel">Military recruitment</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg136" height="75"></svg></div>
+<div id="legendrow136" class="legendrow"></div>
+
+ 
+ <span class="barlabel">Military retention</span> 
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg137" height="75"></svg></div>
+<div id="legendrow137" class="legendrow"></div>
+
+ 
+  <span class="barlabel">Successful transition/reintegration of veterans into civilian life</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg138" height="75"></svg></div>
+<div id="legendrow138" class="legendrow"></div>
+
+
+ 
+
+ 
+ 
+   
+<div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg139" width="260" height="150"></svg>
+<div class="numerosA-words">took out private or federal loans for school</div>
+</div>
+ <br />
+
+
+  <div class="numeros-hero">
+</div>
+
+ 
+
+
+  
+<h5>How much debt have you accrued through student loans?</h5>
+
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg140" height="500"></svg></div>
+  
+ 
+  
+
+
+ <h5>Top 5 ways IAVA members believe that will best improve veteran education outcomes:</h5>
+  <span class="issuesBsm" style="height:7em; ">
+ 1. In-state tuition for out-of-state veterans at public colleges and universities
+<br />
+2. Veterans success centers at colleges and universities
+<br />
+3. Paid internships/fellowship programs
+<br />
+4. Job search preparation programs
+<br />
+5. VA work study program
+ </span>
+  
+
+
+
+
+
+  
+ 
  
   <br />
 
@@ -2262,31 +2225,6 @@ believe the American public supports veterans.</div>
 
 
 
-
-
-
- <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg131" width="260" height="150"></svg>
-<div class="numerosA-words">agree Cannabis should be legal for medicinal purposes.</div>
-</div>
-
-
-
-
-
- <div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg132" width="260" height="150"></svg>
-<div class="numerosB-words">agree Cannabis should be legal for recreational purposes.</div>
-</div>
-
-
-
- 
-  
-  
-  
-  
-  
   
   
   
@@ -2295,107 +2233,82 @@ believe the American public supports veterans.</div>
 <h5>Please indicate your level of agreement with the following statements:</h5>
 
  <span class="barlabel">Cannabis should be researched for medicinal uses</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg133" height="75"></svg></div>
-<div id="legendrow133" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg141" height="75"></svg></div>
+<div id="legendrow141" class="legendrow"></div>
+
+  
+  
+ <span class="barlabel">Cannabis should be legal for medicinal purposes</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg142" height="75"></svg></div>
+<div id="legendrow142" class="legendrow"></div>
+
+  
+  
+ <span class="barlabel">Cannabis should be researched for medicinal uses</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg143" height="75"></svg></div>
+<div id="legendrow143" class="legendrow"></div>
 
   
   
   
   
  <span class="barlabel">The VA should allow for research into cannabis as a treatment option</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg134" height="75"></svg></div>
-<div id="legendrow134" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg144" height="75"></svg></div>
+<div id="legendrow144" class="legendrow"></div>
 
   
   
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
-<h5>Have you ever used cannabis or other cannabinoid products for medicinal use?</h5>
- <span class="barlabel"></span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg135" height="75"></svg></div>
-<div id="legendrow135" class="legendrow"></div>
 
-<br />
-  <div class="numeros-hero">
+
+
+ <div class="numerosA">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg145" width="260" height="150"></svg>
+<div class="numerosA-words">of IAVA members have used cannabis or other cannabinoid products for recreational use.</div>
 </div>
 
 
 
 
+
+ <div class="numerosB">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg146" width="260" height="150"></svg>
+<div class="numerosB-words">of IAVA members have used cannabis or other cannabinoid products for medicinal use.</div>
+</div>
+
+
+
+ 
+  
 
 
 <h5>Would you be interested in using cannabis or cannabinoid products as a treatment option if it were available to you?</h5>
  <span class="barlabel"></span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg136" height="75"></svg></div>
-<div id="legendrow136" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg147" height="75"></svg></div>
+<div id="legendrow147" class="legendrow"></div>
 
+   
 
- <br />
-
-
-  <div class="numeros-hero">
-</div>
-
- 
- 
- <h5>Comfort Discussing Medical Cannabis with Doctors:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg137" height="500"></svg></div>
-<br />
- <br />
- <div class="numeros-hero">
-</div>
-
-
- 
- 
-<h5>Discussed Medical Cannabis with Doctor:</h5>
- <span class="barlabel"></span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg138" height="75"></svg></div>
-<div id="legendrow138" class="legendrow"></div>
-
-  
- 
-<br />
-
- 
- 
- 
- 
- 
-<div class="donut">
-<h5>Ever used cannabis recreationally?*</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg139" width="310" height="396"></svg>    
-</div>
-* Of those that have used cannabis medicinally
  <br />
 
 
 <div class="donut">
 <h5>Do you live in state where medical cannabis is legal?</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg140" width="310" height="396"></svg>    
+<svg xmlns="http://www.w3.org/2000/svg" id="svg148" width="310" height="396"></svg>    
 </div>
 
 
 
 <div class="donut">
 <h5>Do you live in a state where recreational cannabis is legal?</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg141" width="310" height="396"></svg>    
+<svg xmlns="http://www.w3.org/2000/svg" id="svg149" width="310" height="396"></svg>    
 </div>
 
 
+  
+  
 <br />
 
  
@@ -2433,7 +2346,7 @@ believe the American public supports veterans.</div>
  
 
 <h5>During the last 12 months, how often did you usually have any kind of drink containing alcohol?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg142" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg150" height="500"></svg></div>
  <br />
 
 
@@ -2443,21 +2356,20 @@ believe the American public supports veterans.</div>
 
 
  
-<h5>Typical Number of Drinks Consumed during One Day of Alcohol Consumption:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg143" height="500"></svg></div>
+<h5>During the last 12 months, how many alcoholic drinks did you have on a typical day when you drank alcohol?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg151" height="500"></svg></div>
+ <br />
+
+ 
+
+
+
+ 
+<h5>During the last 12 months, how often did you have 5 or more (males) or 4 or more (females) drinks containing any kind of alcohol within a two-hour period?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg152" height="500"></svg></div>
  <br />
 
 
-
-
- <div class="numerosA-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg144" width="260" height="150"></svg>
-</div>
-<div class="numerosA-words-h">reported alcohol use in line with binge drinking at least one day in the past month.</div>
-
- 
- 
- 
   
 
 
@@ -2470,8 +2382,8 @@ believe the American public supports veterans.</div>
  
 
 <h5>Have you ever used tobacco products?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg145" height="75"></svg></div>
-<div id="legendrow145" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg153" height="75"></svg></div>
+<div id="legendrow153" class="legendrow"></div>
 
   <br />
  
@@ -2480,19 +2392,12 @@ believe the American public supports veterans.</div>
 </div>
  
 
- <h5>What form of tobacco products have you used?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg146" height="500"></svg></div>
- <br />
-
-
-
-
 
 
 
 <h5>Do you currently use tobacco products?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg147" height="75"></svg></div>
-<div id="legendrow147" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg154" height="75"></svg></div>
+<div id="legendrow154" class="legendrow"></div>
 
   <br />
 
@@ -2502,9 +2407,20 @@ believe the American public supports veterans.</div>
 <div class="numeros-hero">
 </div>
  
+ <h5>What form of tobacco products have you used?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg155" height="500"></svg></div>
+ <br />
+ 
+ 
+<div class="numeros-hero">
+</div>
+ 
+
+
+
 
  <h5>How often do you use tobacco products?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg148" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg156" height="500"></svg></div>
  <br />
 
 
@@ -2555,55 +2471,62 @@ believe the American public supports veterans.</div>
    
 
 <div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg149" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg157" width="260" height="150"></svg>
 </div>
 <div class="numerosB-words-h">own personal firearms</div>
+  <br />
+ 
+ 
+<div class="numeros-hero">
+</div>
  
 
 
+
+
  <h5>Please select your primary method of storage for your firearm:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg150" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg158" height="500"></svg></div>
  <br />
 
 
 <h5>Please indicate your level of agreement with the following:</h5>
 
 <span class="barlabel">Establishment of community lockers as a means to safely store weapons outside of the home.</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg151" height="75"></svg></div>
-<div id="legendrow151" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg159" height="75"></svg></div>
+<div id="legendrow159" class="legendrow">
 </div>
 
 <span class="barlabel">Allowing concealed carry without a permit</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg152" height="75"></svg></div>
-<div id="legendrow152" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg160" height="75"></svg></div>
+<div id="legendrow160" class="legendrow">
 </div>
 
 <span class="barlabel">Banning assault-style firearms</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg153" height="75"></svg></div>
-<div id="legendrow153" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg161" height="75"></svg></div>
+<div id="legendrow161" class="legendrow">
 </div>
 
 <span class="barlabel">Banning high-capacity magazines</span>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg154" height="75"></svg></div>
-<div id="legendrow154" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg162" height="75"></svg></div>
+<div id="legendrow162" class="legendrow">
 </div>
 
 
 
 
 <span class="barlabel">Shortening waiting periods for buying firearms legally</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg155" height="75"></svg></div>
-<div id="legendrow155" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg163" height="75"></svg></div>
+<div id="legendrow163" class="legendrow">
 </div>
 
 <span class="barlabel">Distribution of trigger locks at medical centers, sporting good/gun stores and community centers.</span> 
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg156" height="75"></svg></div>
-<div id="legendrow156" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg164" height="75"></svg></div>
+<div id="legendrow164" class="legendrow">
 </div>
 
 <span class="barlabel">Universal background checks for individuals purchasing firearms</span>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg157" height="75"></svg></div>
-<div id="legendrow157" class="legendrow">
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg165" height="75"></svg></div>
+<div id="legendrow165" class="legendrow">
 </div>
 
 
@@ -2633,81 +2556,33 @@ believe the American public supports veterans.</div>
 
 
 
-<div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg158" width="260" height="150"></svg>
+<div class="numerosA-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg166" width="260" height="150"></svg>
 </div>
-<div class="numerosB-words-h">Believe that the military/veteran community are not getting the care they need for mental health injuries.</div>
+<div class="numerosA-words-h">have a service-connected mental health injury.</div>
    <br />
-
-
-
-
-
-
-
-
-
-
-
-
-
- <h5>Top 3 Reasons the military/veteran community not getting the mental health care they need</h5>
-
- <span class="issuesBsm" style="height:5em; ">
-1. Stigma of seeking help is too great
-<br />
- 2. Access to care but not quality care
- <br />
- 3. Access but not seeking care
-  <br />
  
-</span>
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
-<h5>Do you have a service-connected mental health injury?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg159" height="75"></svg></div>
-<div id="legendrow159" class="legendrow"></div>
-
-   
-  <br />
-
-   
-
- 
-<div class="numeros-hero">
-</div>
-
-
-  
-
-<h5>Are you seeking care for your service-connected mental health injury?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg160" height="75"></svg></div>
-<div id="legendrow160" class="legendrow"></div>
-
-  <br />
-
-   
-
  
 <div class="numeros-hero">
 </div>
  
+
+
+
+<div class="numerosB-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg167" width="260" height="150"></svg>
+</div>
+<div class="numerosB-words-h">are seeking care for their service-connected mental health injury.</div>
+  <br />
+ 
+ 
+<div class="numeros-hero">
+</div>
+ 
+
+
 <span class="barlabel">Where are you seeking care?</span> 
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg161" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg168" height="500"></svg></div>
  <br />
 
 
@@ -2716,14 +2591,56 @@ believe the American public supports veterans.</div>
 
 
 
+<h5>Has anyone close to you suggested you seek care for a mental health injury?</h5>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg169" height="75"></svg></div>
+<div id="legendrow169" class="legendrow"></div>
+
+   
+  <br />
+
+   
+
+ 
+<div class="numeros-hero">
+</div>
+
+ 
+<span class="barlabel">Have you sought help as a result of someone close to you suggesting you seek care for a mental health injury?</span> 
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg170" height="75"></svg></div>
+<div id="legendrow170" class="legendrow"></div>
 
 
 
 
- <h5>Top 3 Reasons for Not Seeking Care:</h5>
+
+
+
+ <h5>What are some of the reasons that you believe contribute to the military/veteran community not getting the mental healthcare they need?</h5>
 
  <span class="issuesBsm" style="height:6em; ">
-1. No mental health professional that understands my needs
+1. The stigma of seeking help is too great
+<br />
+ 2. They have access to care but not quality care
+ <br />
+ 3. They have access but are not seeking care
+ </span>
+  <br />
+ 
+
+ 
+ 
+ 
+ 
+  <br />
+
+
+ 
+
+
+ <h5>Top reasons why you are not seeking care for a mental health injury:</h5>
+
+ <span class="issuesBsm" style="height:6em; ">
+1. Have not found a mental health professional that understands my needs
 <br />
  2. Started treatment but decided to stop
  <br />
@@ -2739,30 +2656,6 @@ believe the American public supports veterans.</div>
  
  
  
- 
- 
- 
-   
-
-
-<h5>Has anyone close to you suggested you seek care for a mental health injury?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg162" height="75"></svg></div>
-<div id="legendrow162" class="legendrow"></div>
-
-   
-  <br />
-
-   
-
- 
-<div class="numeros-hero">
-</div>
-
- 
-<span class="barlabel">Have you sought help as a result of someone close to you suggesting you seek care for a mental health injury?</span> 
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg163" height="75"></svg></div>
-<div id="legendrow163" class="legendrow"></div>
-
   <br />
 
 
@@ -2774,7 +2667,7 @@ believe the American public supports veterans.</div>
   {
     section: "// General Health",
         icon: "",
-  header: "Over 50,000 service members have been wounded in action in Iraq and Afghanistan according to Department of Defense. However, many service members came home from war only to develop wounds of war after transitioning. Continuing issues such as chronic pain, hearing loss, and mental health injuries are of great concern for the post-9/11 generation. IAVA members know this well.",
+  header: "Over 52,000 servicemembers have been wounded in action in Iraq and Afghanistan according to the Department of Defense. Continuing issues such as shrapnel wounds, second and third degree burns, limb loss, musculoskeletal damage, traumatic brain injury and post traumatic stress are of great concern for the post-9/11 generation.",
     bkgImage: {
       small: "45124639934_d1070b0aef_z.jpg",
       medium: "45124639934_d1070b0aef_z.jpg",
@@ -2792,20 +2685,20 @@ believe the American public supports veterans.</div>
 
 <div class="donut">
 <h5>How would you rate your health before joining the military?</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg164" width="310" height="396"></svg>    
+<svg xmlns="http://www.w3.org/2000/svg" id="svg171" width="310" height="396"></svg>    
 </div>
 
 
 <div class="donut">
 <h5>How do you rate your current overall health?</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg165" width="310" height="396"></svg>    
+<svg xmlns="http://www.w3.org/2000/svg" id="svg172" width="310" height="396"></svg>    
 </div>
 
 
 
 <div class="donut">
 <h5>How important is maintaining your health to you?</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg166" width="310" height="396"></svg>    
+<svg xmlns="http://www.w3.org/2000/svg" id="svg173" width="310" height="396"></svg>    
 </div>
 
 
@@ -2816,25 +2709,23 @@ believe the American public supports veterans.</div>
 
  
 <div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg167" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg174" width="260" height="150"></svg>
 <div class="numerosA-words">have experienced a service-connected injury or illness.</div>
 </div>
    
+ <br />
+
+ 
+<div class="numeros-hero">
+</div>
 
  
   
 
-
-<div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg168" width="260" height="150"></svg>
-<div class="numerosB-words">suffer from chronic pain due to a service-connected injury.</div>
-  </div>
-
- 
  
 
- <h5>Service Related Injuries:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg169" height="500"></svg></div>
+ <h5>Did you sustain any of the following injuries or illnesses as a result of your service?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg175" height="500"></svg></div>
  <br />
 
 
@@ -2846,106 +2737,126 @@ believe the American public supports veterans.</div>
 
  
 
+<div class="numerosB">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg176" width="260" height="150"></svg>
+<div class="numerosB-words">suffer from chronic pain due to a service-connected injury.</div>
+  </div>
+
+ 
+
  
  
  <h5>How often do your service-connected injuries affect your daily life?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg170" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg177" height="500"></svg></div>
+ <br />
+
+
+  
+
+ <h5>Are you currently taking any of the following drugs for a service-related injury?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg178" height="500"></svg></div>
+ <br />
+
+
+
+<div class="numerosC-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg179" width="260" height="150"></svg>
+<div class="numerosC-words-h">are currently taking an opioid-based medication, a decrease from 28% in 2016.</div>
+  </div>
+
+
+
+
+
+ <h5>In the past, have you been prescribed any of the following drugs for a service-related injury?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg180" height="500"></svg></div>
+ <br />
+
+
+
+
+
+
+ <h5>Are you using or have you used any of the following supplemental/alternative therapies as part of your care regimen?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg181" height="500"></svg></div>
+ <br />
+ 
+ 
+ 
+<div class="numeros-hero">
+</div>
+ 
+
+<div class="numerosA-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg182" width="260" height="150"></svg>
+<div class="numerosA-words-h">of members are using one or more of these alternative therapies to treat an injury they received as a result of their service.</div>
+  </div>
+
+
+
+
+<div class="numerosB-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg183" width="260" height="150"></svg>
+<div class="numerosB-words-h">of members currently have someone assisting them with some aspect of their daily health needs.</div>
+  </div>
+ <br />
+ 
+ 
+ 
+<div class="numeros-hero">
+</div>
+ 
+ 
+
+
+
+<span class="barlabel">The caregivers are:</span> 
+
+ <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg184" height="500"></svg></div>
  <br />
 
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
-
-
-
-
-
-
-
-
-
- <h5>Have you been prescribed and are you taking any of the following drugs for a service-related injury?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg171" height="500"></svg></div>
- <br />
-
- <h5>Alternative Therapies Used in Care Regimen:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg172" height="500"></svg></div>
- <br />
- 
- 
-* i.e. dietary supplements, vitamins, probiotics
-
-<br />
-
-
-
-
-<h5>Do you use any of these alternative therapies to treat an injury you received as a result of your service?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg173" height="75"></svg></div>
+<h5>How many daily activities do you need assistance with?</h5>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg185" height="75"></svg></div>
 <div id="legendrow173" class="legendrow"></div>
 
  
 
 
 
-<h5>Do you currently have someone assisting you with some aspect of your daily health needs?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg174" height="75"></svg></div>
+<h5>On average, how many hours of sleep do you get per night?</h5>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg186" height="75"></svg></div>
 <div id="legendrow174" class="legendrow"></div>
 
-  <br />
-
-
-   
  
-<div class="numeros-hero">
-</div>
- 
-<span class="barlabel">Is that person:</span> 
 
- <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg175" height="500"></svg></div>
+
+ <h5>How often do you have trouble sleeping at night?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg187" height="500"></svg></div>
  <br />
+ 
 
+
+     
+
+<div class="numerosA-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg188" width="260" height="150"></svg>
+<div class="numerosA-words-h">have been diagnosed with a sleep condition.</div>
+  </div>
  
 
 
 
-
-<h5>How many daily activities do you need assistance with?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg176" height="75"></svg></div>
-<div id="legendrow176" class="legendrow"></div>
-
-
+ <h5>How many times a week do you exercise?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg189" height="500"></svg></div>
+ <br />
+ 
 
 
-
-
-<br />
+ 
 <br />
 
 
@@ -2972,29 +2883,57 @@ believe the American public supports veterans.</div>
     body:`
  
 
+ <h5>Did you experience challenges when transitioning out of the military?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg190" height="500"></svg></div>
 
-<h5>Did you experience challenges when transitioning out of the military?</h5>
+
+
+
+
+ <h5>Do you currently experience any challenges related to your military service?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg191" height="500"></svg></div>
+
+
+
+
+
+
+
+
+<h5>Please indicate your level of agreement or disagreement with the following statements:</h5>
  
-
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg177" height="75"></svg></div>
-<div id="legendrow177" class="legendrow"></div>
+<span class="barlabel">I had a successful transition into civilian life</span>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg192" height="75"></svg></div>
+<div id="legendrow192" class="legendrow"></div>
+ 
+<span class="barlabel">I was successful in overcoming the challenges I faced in my transition</span>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg193" height="75"></svg></div>
+<div id="legendrow193" class="legendrow"></div>
+ 
+<span class="barlabel">I feel like a valued member of my community</span>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg194" height="75"></svg></div>
+<div id="legendrow194" class="legendrow"></div>
+ 
+<span class="barlabel">I feel a sense of belonging in my community</span>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg195" height="75"></svg></div>
+<div id="legendrow195" class="legendrow"></div>
 
    
   <br />
 
  
- <h5>Top 5 Transition challenges</h5>
+ <h5>Top 5 biggest challenges IAVA members faced when transitioning out of the military:</h5>
 
  <span class="issuesBsm" style="height:8em; ">
-1. Difficulty navigating VA benefits
+1. Loss of identity/purpose
 <br />
- 2. Loss of identity/purpose
+ 2. Relating to non-veteran civilians/Reintegrating with community
  <br />
- 3. Health Concerns (Mental or Physical)
+ 3. Readjusting to social life
 <br />
- 4. Relating to non-veteran civilians/reintegrating with community
+ 4. Health Concerns (Mental or Physical)
  <br />
-5. Finding / keeping employment as a civilian
+5. Difficulty navigating VA benefits
 </span>
  
   
@@ -3009,22 +2948,22 @@ believe the American public supports veterans.</div>
   
 
 <h5>Were you prepared to manage your finances immediately after your transition out of the military?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg178" height="75"></svg></div>
-<div id="legendrow178" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg196" height="75"></svg></div>
+<div id="legendrow196" class="legendrow"></div>
 
    
  
 
 <h5>In a typical month is it difficult to cover your expenses and pay all your bills?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg179" height="75"></svg></div>
-<div id="legendrow179" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg197" height="75"></svg></div>
+<div id="legendrow197" class="legendrow"></div>
 
    
   <br />
 
   
 <div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg180" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg198" width="260" height="150"></svg>
 </div>
 <div class="numerosB-words-h">Believe they may have or did experience predatory loan practices, described as deceptive, unfair, or fraudulent practices.</div>
    <br />
@@ -3038,7 +2977,15 @@ believe the American public supports veterans.</div>
  
  
  <h5>Predatory Loan Type:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg181" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg199" height="500"></svg></div>
+ <br />
+
+
+
+   
+ 
+ <h5>Current Living Situation:</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg200" height="500"></svg></div>
  <br />
 
 
@@ -3052,21 +2999,43 @@ believe the American public supports veterans.</div>
   <br />
 
   
-<div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg182" width="260" height="150"></svg>
+<div class="numerosA-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg201" width="260" height="150"></svg>
 </div>
-<div class="numerosB-words-h">Did not have a permanent place to live when transitioned out of the military</div>
+<div class="numerosA-words-h">Did not have a permanent place to live when transitioned out of the military</div>
    <br />
  
  
 <div class="numeros-hero">
 </div>
 
+
+  <br />
+
+  
+<div class="numerosB-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg202" width="260" height="150"></svg>
+</div>
+<div class="numerosB-words-h">Report couchsurfing, or staying with family or friends temporarily, when they transitioned out of the military</div>
+   <br />
+ 
+ 
+<div class="numeros-hero">
+</div>
+
+
+  <br />
+
+
+
+
+
+
   
   
 <span class="barlabel">How long were you without a permanent place to live?</span>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg183" height="75"></svg></div>
-<div id="legendrow183" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg203" height="75"></svg></div>
+<div id="legendrow203" class="legendrow"></div>
 
    
   <br />
@@ -3080,32 +3049,11 @@ believe the American public supports veterans.</div>
 
   
   
-<span class="barlabel">Did you couchsurf, or stay with family or friends temporarily?</span>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg184" height="75"></svg></div>
-<div id="legendrow184" class="legendrow"></div>
-
-   
-  <br />
-  
-  
-  
-  
-  
- <h5>Current Living Situation:</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg185" height="500"></svg></div>
- <br />
-
+<span class="barlabel">Have you participated in or are you currently participating in the Transition Assistance Program (TAP)?</span>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg204" height="75"></svg></div>
+<div id="legendrow204" class="legendrow"></div>
 
   
-  
-  
-
-<h5>Have you participated in or are you currently participating in the Transition Assistance Program (TAP)?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg186" height="75"></svg></div>
-<div id="legendrow186" class="legendrow"></div>
-
-  
-   
   <br />
   
  
@@ -3115,57 +3063,21 @@ believe the American public supports veterans.</div>
   
 
 <h5>How would you rate your experience in the Transition Assistance Program?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg187" height="75"></svg></div>
-<div id="legendrow187" class="legendrow"></div>
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg205" height="75"></svg></div>
+<div id="legendrow205" class="legendrow"></div>
 
   
+ 
+
+
   <br />
   
-  
-  <h5>Active Duty/Guard/Reserve Transition Prep</h5>
 
 
-<span class="barlabel">When do you plan to transition out of the military?</span>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg188" height="75"></svg></div>
-<div id="legendrow188" class="legendrow"></div>
-
-    <br />
 
 
-<span class="barlabel">Have you planned for your transition out of the military?</span>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg189" height="75"></svg></div>
-<div id="legendrow189" class="legendrow"></div>
 
-    
- 
- 
-  <br />
 
- 
-  
-<span class="barlabel">Challenges expected to face as transition out of military:</span>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg190" height="500"></svg></div>
- <br />
-
- <br />
-
- 
-<span class="barlabel">How familiar are you with the public benefits available to you as you transition out of the military?</span>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg191" height="75"></svg></div>
-<div id="legendrow191" class="legendrow"></div>
-
-  <br />
-
-  
-
- 
- <h5>Were any of the following benefits influential to your decision to join the military?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg192" height="500"></svg></div>
- <br />
-
- 
- 
- 
  
 `
 
@@ -3175,158 +3087,199 @@ believe the American public supports veterans.</div>
   
 
 
- {
-    section: "// Issues from the Headlines",
-    icon: "",
-  header: "IAVA Members are always ready to sound off on the most important issues impacting not only the post-9/11 generation but also all Americans. From immigration to the NFL protests, to the Wars in Iraq and Afghanistan, IAVA Members are sounding off on the hottest topics of the day.",
+
+  {
+    section: "// Employment",
+        icon: "",
+  header: "Unemployment has been consistently declining, particularly for the post-9/11 generation. This year, we continue to see this trend among IAVA members with the lowest unemployment rate ever recorded. But job satisfaction, underemployment, veteran-friendly employment practices and other factors continue to impact the overall employment outlook for the post-9/11 generation.",
     bkgImage: {
-      small: "43264437510_43aa305b40_z.jpg",
-      medium: "43264437510_43aa305b40_z.jpg",
-      large: "43264437510_43aa305b40_z.jpg"
+      small: "45849260391_89d2af2072_z.jpg",
+      medium: "45849260391_89d2af2072_z.jpg",
+      large: "45849260391_89d2af2072_z.jpg"
     },
     body:`
-
-
-
  
- 
-<h5>Please indicate your level of agreement with the following statements:</h5>
- <div class="barlabel">Maintaining the Selective Service with the inclusion of women U.S. citizens turning 18 years old in the enrollment process.</div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg195" height="75"></svg></div>
-<div id="legendrow195" class="legendrow">
-</div>
-  <br />
-  
-  
- 
-  <div class="barlabel">Ending the Selective Service enrollment process (used in the event of a draft) for male U.S. citizens turning 18 years old.</div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg196" height="75"></svg></div>
-<div id="legendrow196" class="legendrow">
-</div>
-  <br />
+
+ <h5>What is your employment status?</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg206" height="500"></svg></div>
   
 
- <h5>Under current immigration law, non-citizens may be deported after committing a crime, regardless of veteran status or military service. What is your opinion of this policy?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg199" height="500"></svg></div>
- <br />   
+
+
+
+
+
 
 <div class="numerosB-h">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg197" width="260" height="150"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg207" width="260" height="150"></svg>
+<div class="numerosB-words-h">of IAVA members consider themselves currently underemployed, defined as not having enough paid work or not doing enough work that makes full use of your skills or abilities.</div>
 </div>
-<div class="numerosB-words-h">
-Agree with the U.S. Special Immigrant Visa Program for Afghan nationals.</div>
-
-     
-  
 
 
- <h5>Currently, military service can serve as a way to expedite the pathway to U.S. citizenship. What is your opinion of this policy?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg198" height="500"></svg></div>
- <br />
+ 
+ 
 
-
+ <h5>When looking for employment, what are you most concerned about?</h5>
+<span class="issuesBsm" style="height:4em; ">
+ 1. Salary/benefits package
   <br />
- 
- 
-<div class="numeros-hero">
-</div>
- 
+
+2. Work/life balance
 <br />
-
-  
-<div class="numerosB">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg200" width="260" height="150"></svg>
-<div class="numerosB-words">have been personally impacted by this immigration policy.</div>
-</div>
-
-
-
-<div class="numerosA">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg201" width="260" height="150"></svg>
-<div class="numerosA-words">know a post-9/11 veteran impacted by this policy.</div>
-</div>
+ 3. Job is meaningful
+ </span>
 
 
 
  
-<br />
+  <h5>Did you receive support/training for transitioning to the civilian workforce before leaving the military?</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg208" height="75"></svg></div>
+<div id="legendrow208" class="legendrow"></div>
 
-  
 
-  
- <h5>In all, do you think our engagement in Iraq was worth it, or not?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg193" height="500"></svg></div>
+
+<div class="numerosC-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg209" width="260" height="150"></svg>
+<div class="numerosC-words-h">Did not have a job secured before they left the military</div>
+</div>
+ 
+ 
  <br />
-
-
- <h5>In all, do you think our engagement in Afghanistan is worth it, or not?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg194" height="500"></svg></div>
- <br />
-
- 
- 
- 
-
-
-
-
-
- 
-
-<h5>Opinion on allowing openly transgender persons to participate in military service:</h5>
- <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg202" height="75"></svg></div>
-<div id="legendrow202" class="legendrow">
+ <div class="numeros-hero">
 </div>
-  <br />
-  
+ 
+
+
   
  
-<h5>Support for the repeal of the “Dont Ask, Dont Tell” (DADT):</h5>
-  <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg203" height="75"></svg></div>
-<div id="legendrow203" class="legendrow">
-</div>
-  <br />
+ 
+<h5>How long were you without a job after transitioning out of the military?</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg210" height="500"></svg></div>
+  
+ 
+ 
 
  
- <h5>Top 3 most important issues for post-9/11 veterans:</h5>
-  <span class="issuesBsm" style="height:4em; ">
-1. Mental health and suicide prevention
-  <br />
- 2. Employment and jobs
+  <h5>Are you personally satisfied with your current job?</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg211" height="500"></svg></div>
+
+ 
+ 
+ 
+
+
+ <h5>Top 3 Job Satisfaction Factors:</h5>
+
+ <span class="issuesBsm" style="height:7em; ">
+1. The environment and/or people
 <br />
- 3. VA reform
+2. Compensation
+<br />
+3. Job is mission driven/has an impact
+   </span>
+
+  
+ 
+   
+ 
+
+
+ <h5>Top 3 Reasons Unsatisfied with Job:</h5>
+
+ <span class="issuesBsm" style="height:8em; ">
+1. The environment and/or people
+  <br />
+2. Job does not best use my skills
+  <br />
+3. Compensation
+ 
+  <br />
+ 
+
+ 
+   
+
+
+
+ <h5>Top 3 Challenges faced in finding work:</h5>
+
+ <span class="issuesBsm" style="height:7em; ">
+
+1. Competing with candidates in the workforce longer
+
+ <br />
+ 
+2. Mental health injuries
+
+ <br />
+ 
+3. Explaining how military skills translate
+
   </span>
+   
+ 
+ 
+   
+ 
  
 
-  
-<h5>Earlier this year, President Trump requested a military parade from the Pentagon. Please rate your support for the President’s proposed military parade:</h5>
- <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg204" height="75"></svg></div>
-<div id="legendrow204" class="legendrow">
-</div>
+
+ <h5>Top 3 Reasons Not Looking for Work:</h5>
+
+ <span class="issuesBsm" style="height:4em; ">
+1. Mental health concerns/challenges
   <br />
-  
+2. Physical health concerns/challenges
+  <br />
+3. Concern about employer stereotypes
+   <br />
+  </span>
+
+ 
+
+ 
+ 
   
 
+<h5>Are you currently a business owner or do you have plans to start your own business/non-profit enterprise?</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg212" height="500"></svg></div>
   
- <h5>What is your opinion of the ongoing “NFL protests” where players kneel during the national anthem to protest social injustices?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg205" height="500"></svg></div>
- <br />
 
 
- <h5>How do you plan to respond to the various protests during professional sports games?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg206" height="500"></svg></div>
- <br />
+
+
+ 
+
+<h5>What challenges do you currently experience or anticipate for starting your business/non-profit?</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg213" height="500"></svg></div>
+  
+
+
+
+ 
+
+
+
+ 
+<br />
+<div class="numerosB-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg214" width="260" height="150"></svg>
+</div>
+<div class="numerosB-words-h">Are aware of VA/Department of Labor small business support programs.</div>
+  
+
+
 
 
 `
 
-  },
-  
-  
-  
+  }
+,
+
+
+
+
+
   
   
   
