@@ -228,13 +228,13 @@ Navy Veteran
  
  
  
+   
 <h5>Gender</h5>
- <div class="barlabel"></div><div style="display:inline-block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg0" height="75"></svg></div>
-<div id="legendrow0" class="legendrow">
-</div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg0" height="500"></svg></div>
+
   <br />
 
+  
  
    
 <h5>Race</h5>
@@ -401,17 +401,15 @@ Navy Veteran
  
   
 
+<h5>How important is it for you to interact regularly with other veterans and military service members?</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg16" height="500"></svg></div>
+ <br />
 
 
  
-<h5>How important is it for you to interact regularly with other veterans and military service members?</h5>
- <div class="barlabel"></div>
- <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg16" height="500"></svg></div>
-<div id="legendrow16" class="legendrow">
-</div>
-  <br />
   
-  
+
+ 
  
 
  
@@ -614,16 +612,38 @@ Navy Veteran
  
 
  <h5>What organizations do you volunteer with?</h5>
-  <span class="issuesBsm" style="height:6em; ">
- 1.  
+  <span class="issuesBsm" style="height:11em; ">
+ 
+
+
+1. Local Church 
 <br />
-2.  
+
+2. Veterans of Foreign Wars 
 <br />
-3.  
+
+3. Scouting Organization
 <br />
-4.  
+
+4. The Mission Continues
 <br />
-5.  
+
+5. American Red Cross 
+<br />
+
+6. Team Rubicon 
+<br />
+
+7. Disabled American Veterans 
+<br />
+
+8. VA Voluntary Service
+<br />
+
+9. Habitat for Humanity
+<br />
+
+10. Wounded Warrior Project
  </span>
   
  
@@ -1602,7 +1622,7 @@ Navy Veteran
   
  <h5>What do you currently use for healthcare coverage?</h5>
  
-  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg90" height="150"></svg></div>
+  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg90" height="500"></svg></div>
  
   
   
@@ -1610,7 +1630,7 @@ Navy Veteran
   
  <h5>Rate your overall experience with VA health care:</h5>
  
-  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg91" height="150"></svg></div>
+  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg91" height="500"></svg></div>
  
   
 

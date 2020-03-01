@@ -7466,7 +7466,7 @@ activateFunctions[27]=showTitle27;
 */
 //////
 
-for(var i=0;i<25+1;i++){updateFunctions[i]=function(){};}};
+for(var i=0;i<27+1;i++){updateFunctions[i]=function(){};}};
 
 
 
@@ -7497,7 +7497,11 @@ if(!trigger){
 ////////////////////
  /////////////////////////
 
-drawStackChart(data_gender);
+drawHBarChart(data_gender);
+
+
+
+
 ///////
 
 drawHBarChart(data_ethnicity);
@@ -7539,14 +7543,14 @@ drawStackChart(data_officer);
 
 
 /////// number of deployments
-drawHBarChart(data_l);
-
 drawHBarChart(data_m);
+
+drawHBarChart(data_n);
 
 //////////////
 /// toook out community 2020
 
-drawHBarChart(data_n);
+drawHBarChart(data_o);
 /*
 
 changeHBarChart(data_o,"svg14");
@@ -7950,8 +7954,10 @@ startnumerosB(numero_va_mission_familiar);
 
 
 
+//////startnumerosC(numero_va_rating);
+drawStackChart(data_va_rating);
 
-startnumerosC(numero_va_rating);
+
 
 
   drawHBarChart(data_va_decision);
@@ -8457,7 +8463,12 @@ iii=0;
 
 //////////////////
 //// moved
-drawStackChart(data_gender,"svg0");
+/////drawStackChart(data_gender,"svg0");
+
+changeHBarChart(data_gender,"svg0");
+
+
+
 ///////
 
 changeHBarChart(data_ethnicity,"svg1");
@@ -8476,6 +8487,11 @@ changeHBarChart(data_school,"svg6");
 
 changeHBarChart(data_income,"svg7");
 
+
+
+
+
+
 ////////////////// changePieChart(data_community,"svg2");
 ///////////////
 /// added in
@@ -8486,6 +8502,11 @@ changeHBarChart(data_income,"svg7");
 /////////////////////////drawStackChart(data_gender,"svg8");
 
 ////////changeStackChart(data_orientation,"svg8");
+
+
+
+
+var containerA=document.getElementById("container-1");containerA.setAttribute("style","visibility:hidden; ");
 
 
 
@@ -8512,14 +8533,14 @@ drawStackChart(data_officer,"svg9");
 
 
 /////// number of deployments
-changeHBarChart(data_l,"svg10");
+changeHBarChart(data_m,"svg10");
 
-changeHBarChart(data_m,"svg11");
+changeHBarChart(data_n,"svg11");
 
 //////////////
 /// toook out community 2020
 
-changeHBarChart(data_n,"svg12");
+changeHBarChart(data_o,"svg12");
 /*
 
 changeHBarChart(data_o,"svg14");
@@ -8549,11 +8570,6 @@ changeHBarChart(data_interact,"svg16");
 drawStackChart(data_reco_service,"svg17");
 
 
-
-
-
-
-var containerA=document.getElementById("container-1");containerA.setAttribute("style","visibility:hidden; ");
 
 
 }
@@ -9025,7 +9041,7 @@ function showTitle14(){
 iii=114;
 
 
-startnumerosC(numero_va_rating,"svg114");
+   drawStackChart(data_va_rating,"svg114");
 
 
   changeHBarChart(data_va_decision,"svg115");
@@ -9469,6 +9485,9 @@ startnumerosC(numero_data_job_secured,"svg209");
  
 
 function showTitle23(){
+
+/*
+
 if (mapdrawn=='') {  
 if(window.matchMedia("(max-width: 400px)").matches){var w=(window.innerWidth/1.3);
 
@@ -9504,11 +9523,13 @@ var dataValue=parseFloat(data[i].ValidPercent);for(var j=0;j<json.features.lengt
 
 var div=d3.select("body").append("div").attr("class","toolTip");
  mapdrawn = 1;
+
+
 } else {}
+
+*/
+
 }
-
-
-
 function showTitle24(){
 
 
@@ -9604,7 +9625,12 @@ iii=0;
 
 //////////////////
 //// moved
-drawStackChart(data_gender,"svg0");
+//////drawStackChart(data_gender,"svg0");
+
+changeHBarChart(data_gender,"svg0");
+
+
+
 ///////
 
 changeHBarChart(data_ethnicity,"svg1");
@@ -9622,6 +9648,13 @@ changeHBarChart(data_school,"svg6");
 
 
 changeHBarChart(data_income,"svg7");
+
+
+
+
+
+
+
 
 ////////////////// changePieChart(data_community,"svg2");
 ///////////////
@@ -9653,14 +9686,14 @@ drawStackChart(data_officer,"svg9");
 
 
 /////// number of deployments
-changeHBarChart(data_l,"svg10");
+changeHBarChart(data_m,"svg10");
 
-changeHBarChart(data_m,"svg11");
+changeHBarChart(data_n,"svg11");
 
 //////////////
 /// toook out community 2020
 
-changeHBarChart(data_n,"svg12");
+changeHBarChart(data_o,"svg12");
 /*
 
 changeHBarChart(data_o,"svg14");
@@ -9734,7 +9767,7 @@ startnumerosA(numeros_civic_volunteer_more,"svg25");
 /// changed 2020
 //////changeStackChart(data_reg,"svg28");
 
-changeStackChart(data_civic_issues,"svg26");
+changeHBarChart(data_civic_issues,"svg26");
 
  
 
@@ -10101,7 +10134,13 @@ startnumerosB(numero_va_mission_familiar,"svg105");
 iii=114;
 
 
-startnumerosC(numero_va_rating,"svg114");
+////startnumerosC(numero_va_rating,"svg114");
+
+
+
+   drawStackChart(data_va_rating,"svg114");
+
+
 
 
   changeHBarChart(data_va_decision,"svg115");
