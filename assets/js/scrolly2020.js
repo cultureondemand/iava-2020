@@ -7455,9 +7455,9 @@ activateFunctions[23]=showTitle23;
 
 activateFunctions[24]=showTitle24;
 
-//////activateFunctions[25]=showTitle25;
+ activateFunctions[25]=showTitle25;
 
-/////activateFunctions[26]=showTitle26;
+ activateFunctions[26]=showTitle26;
 
 /////
 /*
@@ -9063,7 +9063,7 @@ startnumerosC(numero_va_rating,"svg114");
   
 }
 
-function showTitle13(){
+function showTitle15(){
 /*
 
 
@@ -9118,7 +9118,7 @@ function showTitle13(){
 
 }
 
-function showTitle14(){
+function showTitle16(){
 
 
 /*
@@ -9162,7 +9162,7 @@ changePieChart(data_cannabis,"svg149");
 
 }
 
-function showTitle15(){
+function showTitle17(){
 
 
 
@@ -9207,7 +9207,7 @@ changeHBarChart(data_tobacco_often,"svg156");
 
 }
 
-function showTitle16(){
+function showTitle18(){
 /*
 
 */
@@ -9239,7 +9239,7 @@ startnumerosA(numero_guns,"svg157");
  
 }
 
-function showTitle17(){
+function showTitle19(){
 
 /*
 
@@ -9275,7 +9275,7 @@ startnumerosB(numero_mental_seek,"svg167");
   
 }
 
-function showTitle18(){
+function showTitle20(){
 
    
  iii=171;
@@ -9333,7 +9333,7 @@ changeHBarChart(data_health_exercise_often,"svg189");
    
 }
 
-function showTitle19(){
+function showTitle21(){
 
  
 
@@ -9393,7 +9393,7 @@ startnumerosB(numero_perm,"svg202");
 
 
 
-function showTitle20(){
+function showTitle22(){
 iii=206;
 
 /*
@@ -9468,7 +9468,7 @@ startnumerosC(numero_data_job_secured,"svg209");
 
  
 
-function showTitle21(){
+function showTitle23(){
 if (mapdrawn=='') {  
 if(window.matchMedia("(max-width: 400px)").matches){var w=(window.innerWidth/1.3);
 
@@ -9509,7 +9509,7 @@ var div=d3.select("body").append("div").attr("class","toolTip");
 
 
 
-function showTitle22(){
+function showTitle24(){
 
 
  mapdrawn = 1;
@@ -9520,11 +9520,11 @@ d3.select("body").selectAll("toolTip").remove();
 
 }
 
-function showTitle23(){
+function showTitle25(){
 
 }
 
-function showTitle24(){
+function showTitle26(){
 
 ///var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:none; ");
 
