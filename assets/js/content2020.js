@@ -5,11 +5,11 @@ var slideData = [
   {
     section: "// Who is IAVA?",
      icon: "",
-    header: "Iraq and Afghanistan Veterans of America (IAVA) is the premier veterans advocacy and support organization on the planet. Every day, we fight for veterans. Hard. We are the tip-of-the spear non-profit engine of impact that connects, unites and empowers over 400,000 veterans and allies nationwide. Founded by an Iraq veteran in 2004, IAVA is the non-partisan leader in advocacy, public awareness and 1-on-1 case-management support. We organize locally, and drive historic impacts nationally.",
+    header: "Iraq and Afghanistan Veterans of America (IAVA) is the premier veterans advocacy and support organization on the planet. Every day, we fight for veterans. Hard. We are the tip-of-the spear non-profit engine of impact that connects, unites and empowers hundreds of thousands of veterans and allies nationwide. Founded by an Iraq veteran in 2004, IAVA is the non-partisan leader in advocacy, public awareness and 1-on-1 care management and peer support. We organize locally, and drive historic impacts nationally.",
     bkgImage: {
-      small: "31920942738_3250682d40_z.jpg",
-      medium: "31920942738_3250682d40_z.jpg",
-      large: "31920942738_3250682d40_z.jpg"
+      small: "42562504881_e075c9a4b0_c.jpg",
+      medium: "42562504881_e075c9a4b0_c.jpg",
+      large: "42562504881_e075c9a4b0_c.jpg"
     },
     body: `
 
@@ -17,44 +17,51 @@ var slideData = [
 <div class="sectionlede">
 
 
-It was a historic year for IAVA’s post-9/11 generation of veterans in 2018. We led the national dialogue, united thousands nationwide on the ground and online, and unveiled our urgent Big 6 Advocacy Priorities. These 6 items are the areas that IAVA members declared as the most pressing issues for the newest generation of veterans. IAVA members of all backgrounds, nationwide, united and fought for change on Capitol Hill, in the media, and on the ground to address the biggest issues impacting our community of over three million men and women who have served since 9/11. 
-<br /><br />
 
-Last year also brought huge obstacles. Demand for veterans services continued to climb, suicide took countless lives and the Department of Veterans Affairs (VA) remained riddled with problems. The VA saw massive turbulence and a major leadership change as Secretary Shulkin was ousted and Secretary Wilkie was named, but only after Dr. Ronny Jackson withdrew under a swirl of controversy. And on Veterans Day 2018, news broke that thousands of veterans had received late or inaccurate GI Bill payments, throwing many in our community into financial hardship before the holidays. And a wild year ended with the widely-respected Secretary of Defense and retired Marine Corps General Mattis stepping down. 
-<br /><br />
 
-Coming off of all that, 2019 will be the most important year for veterans in modern times. As Washington continues to be marred by partisanship, gridlock and government shutdowns, our needs are often relegated and our brothers and sisters fighting overseas are often forgotten. But veterans stand ready to continue to serve -- and represent a source of hope and leadership for all Americans. Our voices have never been more vital.  
-<br /><br />
 
-IAVA’s annual member survey represents those voices. It is the richest, most comprehensive non-governmental survey of Iraq and Afghanistan combat veterans in America -- and one of the largest. We asked vets about suicide, employment, education, and VA reform -- and sought IAVA member opinions on hot topics like firearms, immigration, support for the wars in Iraq and Afghanistan, President Trump’s military parade proposal and the NFL protests. 
-<br /><br />
-
-Over the last few years, through this widely-cited survey, the collective voices of IAVA members have driven the national conversation for veterans and powered our current Big 6 Advocacy Priorities and broader Policy Agenda and victories including the 2016 Campaign to Defend the GI Bill, the 2014 Campaign to Combat Suicide, the 2013 Campaign to End the VA Backlog, the <em>Vow to Hire Heroes Act</em> and much more. 
-<br /><br />
-
-But post-9/11 veterans are not a monolith. Our community is diverse and ever-changing. However, there are key numbers and trends that can not be ignored. This survey is a continued call to action on veteran suicide -- with 59 percent reporting knowing a post-9/11 veteran who has died by suicide. Meanwhile, burn pit exposure continues to rise, with a stunning 82 percent reporting exposure. Over 80 percent support legalizing medical cannabis. And for the first time since we began polling, over half of IAVA members support legalizing recreational cannabis. 
-<br /><br />
-
-This survey also shows that post-9/11 vets are rising. Ninety-seven percent of IAVA members are registered to vote. And as Washington welcomes a new, bipartisan “Camouflage Wave” of veterans to Capitol Hill, 86 percent of IAVA members believe that having more veterans in Congress will have a positive impact on Washington’s ability to address national issues. 
-<br /><br />
-
-This survey is a major driver for all that IAVA does. And it should be a roadmap for all Americans -- from the Pentagon to Silicon Valley to the White House. 
-<br /><br />
-
-The post-9/11 generation of veterans has served for year after year. They have been there and done that. And they have plenty to say about their experiences and the state of our country that can help guide our nation forward to a brighter, stronger future. 
-<br /><br />
-
-We appreciate you taking the time to hear our voices and learn more. 
+I am so proud of what we have accomplished together this past year - my first as CEO - passing the Burn Pits Accountability Act, passing a law reversing DoD’s attempt to limit the transferability of the GI Bill benefit, and getting the Deborah Sampson Act through the House, among other great victories!  The far-reaching changes that will result from full passage of the Deborah Sampson Act are long-overdue. IAVA has fought hard for top-down culture change in the VA, but we need your help to get this and other pieces of important legislation across the finish line. 
 
 <br /><br />
 
+IAVA fought tirelessly for this generation of veterans over the last year, conducting over 300 Capitol Hill meetings, speaking directly with VA leadership, and executing robust media outreach to highlight the needs of post-9/11 veterans. It has been a humbling, eventful, educational year for me and I am excited about what is still to come. 2020 is an opportunity to build on the momentum of 2019.  
 
-Best,
+<br /><br />
+
+IAVA routinely hears from our members on the issues that matter most to them. They come to Storm the Hill and hold VetTogethers not only to share their experiences at war but also their experiences at home: difficulties using the GI Bill, navigating VA healthcare, or dealing with symptoms of toxic exposure. Yet, it is our annual Member Survey that best details the experiences of this generation of veterans. 
+
+<br /><br />
+
+This year’s survey data show a generation of veterans who are thriving. Seventy five percent have used their post-9/11 GI Bill or transferred their benefits to a dependent, an increase of 13 percent since 2014. Our members are volunteering in their communities at high rates and unemployment is holding steady at six percent, a historic low.
+
+<br /><br />
+
+But while post-9/11 veterans are succeeding in their education and careers, our survey reveals other troubling statistics. Many of our members are facing significant physical and mental health challenges. Forty four percent of our members report experiencing suicidal ideation since joining the military, up 13 percent since 2014. Additionally, 62 percent of our members personally know a veteran who has died by suicide, a shocking 22 percent increase since 2014. Meanwhile, a stunning 88 percent of our members report they are experiencing symptoms that are or might be related to burn pits or toxic exposure.
+
+<br /><br />
+
+Our nation needs to step up and support this generation of veterans. Most pressingly, we need to pass The Commander John Scott Hannon Veterans Mental Health Care Improvement Act. This legislation will establish innovative new suicide prevention initiatives, improve access to mental health care, and hold the VA accountable to meeting the needs of our veterans.
+
+<br /><br />
+
+Let's ensure veterans get the healthcare and resources they rightly deserve. This past year was incredible but there is still much to be accomplished. Let's get it done!
+
+
+
+<br /><br />
+
+ 
+
+
+Onward,
 <br />
 
-<h4>Paul Rieckhoff</h4>
-Founder and CEO
-<br />Iraq and Afghanistan Veterans of America
+<h4>Jeremy Butler</h4>
+Navy Veteran
+<br />CEO, Iraq and Afghanistan Veterans of America
+
+
+ 
 
 
  </div>
@@ -81,9 +88,9 @@ Founder and CEO
      icon: "",
     header: "This “Big 6” contains the challenges and opportunities that IAVA members care about most–and see as areas where we can uniquely make an impact. IAVA members are poised to educate the public, design solutions for positive impact, and lead the way to the future. ",
     bkgImage: {
-      small: "IMG_4811.JPG",
-      medium: "IMG_4811.JPG",
-      large: "IMG_4811.JPG"
+      small: "40326861583_a2a9011992_c.jpg",
+      medium: "40326861583_a2a9011992_c.jpg",
+      large: "40326861583_a2a9011992_c.jpg"
     },
     body: `
 
@@ -102,7 +109,13 @@ Founder and CEO
 </span>
 <br /> 
  <span class="issuesCsm">
-43% report suicidal ideation since joining the military, a 6% rise from 2017
+44% Report suicidal ideation since joining the military, a shocking 13% rise since 2014
+</span><br />
+<span class="issuesCsm">
+62% Personally know a veteran who died by suicide, a 22% rise since 2014
+</span><br />
+<span class="issuesCsm">
+61% of those who have contacted the Veteran Crisis Line (VCL) report having excellent or good experiences
 </span>
  <br />
 <br />
@@ -112,16 +125,26 @@ Founder and CEO
 </span>
 <br />
 <span class="issuesCsm">
-81% rate VA care as average or above average
+86% Rate VA care as average or above average, an increase of 5% from 2019
+</span><br />
+<span class="issuesCsm">
+41% Oppose the privatization of VA healthcare and 29% support
+</span><br />
+<span class="issuesCsm">
+16% Have used the Community Care Program
 </span>
 <br /><br />
 <br />
 <span class="txttxtA" style="color:#294636; font-family: 'stint_ultra_condensedregular', sans-serif; line-height:1em; ">
-3. Toxic Exposures, including Burn Pits 
+3. Burn Pits and Toxic Exposures 
 </span>
 <br />
   <span class="issuesCsm">
-82% report exposure to burn pits or toxic exposures
+86% Report exposure to burn pits or other toxins
+</span><br />
+88% Believe they may be or are already experiencing symptoms from burn pits or toxic exposure
+</span><br />
+53% of those who have been exposed are registered in the burn pit registry
 </span>
 <br /><br />
 <br />
@@ -130,25 +153,37 @@ Founder and CEO
 </span>
 <br />
  <span class="issuesCsm">
-78% agree that the post-9/11 GI Bill is important for recruitment
+75% Of IAVA members or their dependents have used or are currently using the post-9/11 GI Bill 
+</span><br />
+66% Of IAVA members or their dependents have graduated while in school on the GI Bill
+</span><br />
+87% Agree that the post-9/11 GI Bill is important for reintegration to civilian life
 </span>
 <br /><br />
 <br />
 <span class="txttxtA" style="color:#294636; font-family: 'stint_ultra_condensedregular', sans-serif; line-height:1em; ">
-5. Women Veterans 
+5. Utilization of Medical Cannabis 
 </span>
 <br />
  <span class="issuesCsm">
- 78% of IAVA members feel that it’s important IAVA focus on the issues impacting women veterans
+88% Support researching cannabis for medicinal purposes
+</span><br />
+81% Support the legalization of medical cannabis
+</span><br />
+22% Report using cannabis for medicinal use
  </span>
 <br /><br />
 <br />
 <span class="txttxtA" style="color:#294636; font-family: 'stint_ultra_condensedregular', sans-serif; line-height:1em; ">
-6. Utilization of Medical Cannabis
+6. Women Veterans
 </span>
 <br />
  <span class="issuesCsm">
-90% IAVA members support researching cannabis for medicinal purposes 
+83% Of IAVA members say that it is important that IAVA focus on the issues impacting women veterans
+</span><br />
+46% Believe that women's advancement in the military has been limited by past restrictions on women in combat
+</span><br />
+14% Of female IAVA members report feeling unsafe when seeking healthcare in VA facilities
 </span>
 
  
@@ -175,9 +210,9 @@ Founder and CEO
     section: "// Demographics",
     header: "",
     bkgImage: {
-      small: "IMG_4590.JPG",
-      medium: "IMG_4590.JPG",
-      large: "IMG_4590.JPG"
+      small: "49084835478_12607bf742_c.jpg",
+      medium: "49084835478_12607bf742_c.jpg",
+      large: "49084835478_12607bf742_c.jpg"
     },
     body: `
 
@@ -283,9 +318,9 @@ Founder and CEO
     section: "// Profile of an IAVA Member",
     header: "IAVA members served around the world, from Iraq and Afghanistan to Bahrain, Syria, Kuwait and other locations globally. They’ve deployed in every major combat operation since 9/11 and continue to serve at home, through community and veteran service organizations.",
     bkgImage: {
-      small: "IMG_4590.JPG",
-      medium: "IMG_4590.JPG",
-      large: "IMG_4590.JPG"
+      small: "49065817227_a8d2a3897b_c.jpg",
+      medium: "49065817227_a8d2a3897b_c.jpg",
+      large: "49065817227_a8d2a3897b_c.jpg"
     },
     body: `
 
@@ -438,9 +473,9 @@ Founder and CEO
    icon: "",
    header: "IAVA members are incredibly engaged in the policies and politics affecting the nation. From voting to speaking out on the issues that matter most, IAVA members are an important voice in American political life.",
     bkgImage: {
-      small: "45060583551_744b9828b7_z.jpg",
-      medium: "45060583551_744b9828b7_z.jpg",
-      large: "45060583551_744b9828b7_z.jpg"
+      small: "48782718756_991641089c_c.jpg",
+      medium: "48782718756_991641089c_c.jpg",
+      large: "48782718756_991641089c_c.jpg"
     },
     body: `
 
@@ -546,9 +581,9 @@ Founder and CEO
    icon: "",
    header: "Post-9/11 veterans have stood out in the veteran community for their desire to continue to serve and give back once they return home. Many IAVA members have discovered the psychological, emotional and social benefits from serving in their local communities. Of those who volunteer on a regular basis, 63 percent report feeling like a valued member of their community, compared to 47 percent of those who do not. Additionally, 58 percent of regular volunteers feel a sense of belonging to their community compared to 42 percent of those who do not.",
     bkgImage: {
-      small: "45060583551_744b9828b7_z.jpg",
-      medium: "45060583551_744b9828b7_z.jpg",
-      large: "45060583551_744b9828b7_z.jpg"
+      small: "34867056941_e225c46440_c.jpg",
+      medium: "34867056941_e225c46440_c.jpg",
+      large: "34867056941_e225c46440_c.jpg"
     },
     body: `
 
@@ -621,9 +656,9 @@ Founder and CEO
    icon: "",
     header: "IAVA Members are engaged with the news of the day and have varying degrees of trust and support for political figures.",
     bkgImage: {
-      small: "IMG_4240.JPG",
-      medium: "IMG_4240.JPG",
-      large: "IMG_4240.JPG"
+      small: "48782825147_a1940eb5b3_c.jpg",
+      medium: "48782825147_a1940eb5b3_c.jpg",
+      large: "48782825147_a1940eb5b3_c.jpg"
     },
     body: `
 
@@ -865,11 +900,11 @@ Founder and CEO
   {
     section: "// Suicide",
       icon: "",
-  header: "For nearly a decade, IAVA and the veteran community have called for immediate action by our nation’s leaders to appropriately respond to this crisis of 20 military and veterans dying every day from suicide. IAVA members are at the forefront of this crisis. Every year we see a rise in the percent of IAVA members who know a post-9/11 veteran that has died by suicide or attempted suicide. This year is no different. This is a time to redouble our efforts as a nation and answer the call to action. And IAVA will continue to maintain our leadership on that charge.",
+  header: "For over a decade, IAVA has been calling for immediate action to appropriately respond to increasing rates of veteran suicide. IAVA members are at the forefront of this crisis. Every year we see a rise in the percentage of IAVA members who report suicidal ideation or who know a post-9/11 veteran who died by suicide. Forty-four percent report suicidal ideation since joining the military, a shocking 13 percent rise since 2014. Sixty-two percent personally know a veteran who died by suicide, an increase of 22 percent since 2014. We must redouble our efforts as a nation and answer the call to action. IAVA will continue to maintain our leadership on that charge.",
     bkgImage: {
-      small: "IMG_4423.JPG",
-      medium: "IMG_4423.JPG",
-      large: "IMG_4423.JPG"
+      small: "48408208606_94a97a5e5f_c.jpg",
+      medium: "48408208606_94a97a5e5f_c.jpg",
+      large: "48408208606_94a97a5e5f_c.jpg"
     },
     body: `
 
@@ -997,11 +1032,11 @@ Founder and CEO
   {
     section: "// Burn Pits",
         icon: "",
-  header: "It’s known as the Agent Orange of the post-9/11 generation for a reason. Burn pits were a common way to get rid of waste at military sites in Iraq and Afghanistan, particularly between 2001 and 2010. There are other hazards beyond burn pits that occurred in Iraq and Afghanistan that may pose a danger for respiratory illnesses, including high levels of fine dust and exposure to other airborne hazards. Year after year, we have seen an upward trend in the number of members reporting symptoms associated with burn pit exposure.",
+  header: "Often referred to as the Agent Orange of the post-9/11 generation, burn pits were a common way to get rid of waste at military sites in Iraq and Afghanistan. There are other hazards beyond burn pits that occurred in Iraq and Afghanistan that may pose a danger for respiratory illnesses, including high levels of fine dust, burning vehicles and other airborne hazards. Year after year, we have seen an upward trend in the number of members reporting symptoms associated with toxic exposure.",
     bkgImage: {
-      small: "29935360088_98bb421d2d_z.jpg",
-      medium: "29935360088_98bb421d2d_z.jpg",
-      large: "29935360088_98bb421d2d_z.jpg"
+      small: "43805049281_77eba59105_c.jpg",
+      medium: "43805049281_77eba59105_c.jpg",
+      large: "43805049281_77eba59105_c.jpg"
     },
     body:`
 
@@ -1120,11 +1155,11 @@ Founder and CEO
   {
     section: "// Women Veterans",
         icon: "",
-  header: "In 2017, IAVA launched our groundbreaking campaign, #SheWhoBorneTheBattle, focused on recognizing the service of women veterans and closing gaps in care provided to them by the VA. We fought hard for top-down culture change in the VA for the more than 345,000 women who have fought in our current wars–and for all Americans. It’s a fight that still continues.",
+  header: "More and more IAVA members are saying that it is important that IAVA focus on the issues impacting women veterans. In 2017, IAVA launched our groundbreaking campaign, #SheWhoBorneTheBattle, focused on recognizing the service of women veterans and closing gaps in care provided to them by the VA. We fought hard for top-down culture change in the VA for all the women veterans who have served or will serve our country.",
     bkgImage: {
-      small: "31229662048_1342168246_z.jpg",
-      medium: "31229662048_1342168246_z.jpg",
-      large: "31229662048_1342168246_z.jpg"
+      small: "34336140240_f6af7f0119_c.jpg",
+      medium: "34336140240_f6af7f0119_c.jpg",
+      large: "34336140240_f6af7f0119_c.jpg"
     },
     body:`
 
@@ -1524,11 +1559,11 @@ Founder and CEO
   {
     section: "// Rating VA Health Care",
         icon: "",
-  header: "Problems have plagued VA for quite some time. While there has been much progress legislatively and administratively to ease access to care for veterans at VA, we often hear from IAVA members that their experiences are vastly different. Creating a standardized system of care across all VAs is the ultimate goal, and every year we hear IAVA members ask for VA reform as a top priority.",
+  header: "Problems have plagued VA for quite some time and every year we hear from IAVA members that they want less paperwork, less bureaucracy and easier access to care. However, VA healthcare has come a long way since the waitlist and overprescription scandals of 2014 and 2015. VA has been making progress and IAVA members report that their healthcare experiences are improving.",
     bkgImage: {
-      small: "45837697571_87501d882d_z.jpg",
-      medium: "45837697571_87501d882d_z.jpg",
-      large: "45837697571_87501d882d_z.jpg"
+      small: "45054505912_340a2f98a2_c.jpg",
+      medium: "45054505912_340a2f98a2_c.jpg",
+      large: "45054505912_340a2f98a2_c.jpg"
     },
     body:`
 
@@ -1784,9 +1819,9 @@ Founder and CEO
         icon: "",
   header: "The VA MISSION Act, passed into law in 2018, seeks to consolidate, reform, and streamline the many VA community care programs and strengthen healthcare options for veterans, while sunsetting the Choice program. For years, IAVA has advocated for the consolidation of VA’s community care programs. With that goal now achieved, monitoring and assisting with its implementation is paramount. There is a long road ahead of us; it will take the will of Congress, the Administration, and the American public to continue on this path towards a truly integrated network of VA health care.",
     bkgImage: {
-      small: "11.jpg",
-      medium: "11.jpg",
-      large: "11.jpg"
+      small: "46397453515_02f4d8b2e6_c.jpg",
+      medium: "46397453515_02f4d8b2e6_c.jpg",
+      large: "46397453515_02f4d8b2e6_c.jpg"
     },
     body:`
 
@@ -1904,9 +1939,9 @@ Founder and CEO
         icon: "",
   header: "While many think of health care when it comes to VA, many veterans and their families rely on VA for earned benefits such as pensions and disability compensation. The process to access these earned benefits can be daunting and leave many veterans waiting months or longer for a decision. While progress has been made to update the system, long wait times and a lagging technology system continue to plague veterans waiting on their earned benefits.",
     bkgImage: {
-      small: "11.jpg",
-      medium: "11.jpg",
-      large: "11.jpg"
+      small: "49084835478_12607bf742_c.jpg",
+      medium: "49084835478_12607bf742_c.jpg",
+      large: "49084835478_12607bf742_c.jpg"
     },
     body:`
 
@@ -2023,7 +2058,7 @@ Founder and CEO
   {
     section: "// GI Bill and Education",
         icon: "",
-  header: "One essential earned benefit is the GI Bill. The post-9/11 GI Bill was a landmark victory in 2008. Since then, almost 2 million veterans and their dependents have used the GI Bill to go to school. While constantly under attack to strip this essential benefit, the Post-9/11 GI Bill sets up the next generation of veterans and their families for success and continues to be a powerful recruitment and retention tool.",
+  header: "IAVA was integral to the landmark passage of the Post-9/11 GI Bill in 2008.  Since then, IAVA has fought for improvements to the GI Bill, recently advocating for the passage of the Harry W. Colmery Veterans Educational Assistance Act of 2017, or more commonly known as the “Forever GI Bill.” Additionally, IAVA successfully advocated for a provision in the 2020 NDAA that would repeal the controversial limit on servicemembers with more than 16 years of service from transferring their post-9/11 GI Bill benefits to their dependents. IAVA knows how essential the GI Bill is to this generation of veterans and their families for success and reintegration into civilian life.",
     bkgImage: {
       small: "45566834194_8f9ccce68c_z.jpg",
       medium: "45566834194_8f9ccce68c_z.jpg",
@@ -2213,11 +2248,11 @@ Founder and CEO
  {
     section: "// Cannabis",
           icon: "",
-  header: "Veterans consistently and passionately have communicated that cannabis offers effective help in tackling some of the most pressing injuries they face when returning from war. Our nation is rapidly moving toward legalizing cannabis, and 33 states now permit medical cannabis. Across party lines, medical cannabis is largely unopposed. Yet our national policies are outdated, research is lacking, and stigma persists.",
+  header: "Veterans consistently and passionately have communicated that cannabis offers effective help in tackling some of the most pressing injuries they face when returning from war. Our national laws are rapidly changing and 33 states now permit medical cannabis. Across party lines, medicinal cannabis is largely unopposed. Yet our national policies are outdated, research is lacking, and stigma persists.",
     bkgImage: {
-      small: "IMG_4240.JPG",
-      medium: "IMG_4240.JPG",
-      large: "IMG_4240.JPG"
+      small: "47250846982_4ffe839fdf_c.jpg",
+      medium: "47250846982_4ffe839fdf_c.jpg",
+      large: "47250846982_4ffe839fdf_c.jpg"
     },
     body:`
 
@@ -2331,9 +2366,9 @@ Founder and CEO
 ,
 
   {
-    section: "// Tobacco and Alcohol",
+    section: "// Alcohol and Tobacco Use",
         icon: "",
-  header: "While substance use on its own is not alone harmful in the case of legal substances, substance abuse and long-term daily use can have a myriad of harmful health effects from physical to mental health impacts.",
+  header: "Substance abuse and long-term daily use can have a myriad of harmful health effects from physical to mental health impacts, such as cardiovascular and respiratory diseases and cancer. IAVA applauds DoD and VA in their efforts to reduce alcohol and tobacco consumption by military personnel and veterans.",
     bkgImage: {
       small: "IMG_4733.JPG",
       medium: "IMG_4733.JPG",
@@ -2456,13 +2491,13 @@ Founder and CEO
 
 
   {
-    section: "// Firearm Ownership",
+    section: "// Gun Ownership and Storage",
     icon: "",
-  header: "It’s a powerful and often politicized topic in today’s environment, but firearm ownership and storage is a particularly important topic in the veteran community. Veterans are more likely than their civilian counterparts to own and know how to use a firearm for various reasons. And sadly, about 70 percent of veterans that die by suicide use a firearm as the method. Firearm safety and storage is a continuing topic of conversation in the veteran community, and IAVA members are an important part of that conversation.",
+  header: "It is a powerful and often politicized topic in today’s environment, but firearm ownership and storage is a particularly important topic in the veteran community. IAVA members overwhelmingly support universal background checks but do not support banning assault style weapons or high capacity magazines. Firearm safety and storage is a continuing topic of conversation in the veteran community, particularly how access to lethal means is related to suicide.",
     bkgImage: {
-      small: "IMG_4733.JPG",
-      medium: "IMG_4733.JPG",
-      large: "IMG_4733.JPG"
+      small: "47260311062_c67a00d441_c.jpg",
+      medium: "47260311062_c67a00d441_c.jpg",
+      large: "47260311062_c67a00d441_c.jpg"
     },
     body:`
 
@@ -2548,9 +2583,9 @@ Founder and CEO
         icon: "",
   header: "Mental health injuries impact the post-9/11 generation at an alarming rate. Among IAVA members, mental health injuries like PTSD, anxiety and depression are higher than even VA reported numbers for the post-9/11 generation. Ensuring access to effective treatment options for mental health injuries is paramount to the long term health of post-9/11 veterans.",
     bkgImage: {
-      small: "30898203187_565a82cc5a_z.jpg",
-      medium: "30898203187_565a82cc5a_z.jpg",
-      large: "30898203187_565a82cc5a_z.jpg"
+      small: "43262137580_10f4e0e602_c.jpg",
+      medium: "43262137580_10f4e0e602_c.jpg",
+      large: "43262137580_10f4e0e602_c.jpg"
     },
     body:`
 
@@ -2669,9 +2704,9 @@ Founder and CEO
         icon: "",
   header: "Over 52,000 servicemembers have been wounded in action in Iraq and Afghanistan according to the Department of Defense. Continuing issues such as shrapnel wounds, second and third degree burns, limb loss, musculoskeletal damage, traumatic brain injury and post traumatic stress are of great concern for the post-9/11 generation.",
     bkgImage: {
-      small: "45124639934_d1070b0aef_z.jpg",
-      medium: "45124639934_d1070b0aef_z.jpg",
-      large: "45124639934_d1070b0aef_z.jpg"
+      small: "49065817227_a8d2a3897b_c.jpg",
+      medium: "49065817227_a8d2a3897b_c.jpg",
+      large: "49065817227_a8d2a3897b_c.jpg"
     },
     body:`
 
@@ -2876,9 +2911,9 @@ Founder and CEO
      icon: "",
    header: "The transition from military to civilian life is often a challenging time for IAVA members. We know a successful transition experience can set up many for a life of continued success. However, a difficult transition experience can have the opposite effect.",
     bkgImage: {
-      small: "44207865365_6a5230f8fa_z.jpg",
-      medium: "44207865365_6a5230f8fa_z.jpg",
-      large: "44207865365_6a5230f8fa_z.jpg"
+      small: "8284790717_1fc6c6bdb0_c.jpg",
+      medium: "8284790717_1fc6c6bdb0_c.jpg",
+      large: "8284790717_1fc6c6bdb0_c.jpg"
     },
     body:`
  
@@ -3091,11 +3126,11 @@ Founder and CEO
   {
     section: "// Employment",
         icon: "",
-  header: "Unemployment has been consistently declining, particularly for the post-9/11 generation. This year, we continue to see this trend among IAVA members with the lowest unemployment rate ever recorded. But job satisfaction, underemployment, veteran-friendly employment practices and other factors continue to impact the overall employment outlook for the post-9/11 generation.",
+  header: "Unemployment rates among IAVA members have been consistently declining, since being 10% in 2014. In 2020, the unemployment rate is holding steady at 6%. We continue to see this trend among IAVA members with the lowest unemployment rate ever recorded. But job satisfaction, underemployment, veteran-friendly employment practices and other factors continue to impact the overall employment outlook for the post-9/11 generation.",
     bkgImage: {
-      small: "45849260391_89d2af2072_z.jpg",
-      medium: "45849260391_89d2af2072_z.jpg",
-      large: "45849260391_89d2af2072_z.jpg"
+      small: "18460494312_a7de57f9e4_e.jpg",
+      medium: "18460494312_a7de57f9e4_e.jpg",
+      large: "18460494312_a7de57f9e4_e.jpg"
     },
     body:`
  
@@ -3305,8 +3340,12 @@ Founder and CEO
 <h5>Distribution of Respondents</h5>
 
 
-4,600 IAVA Members took and completed this year’s survey. That is a record number. With a 1% margin of error at the 95% confidence interval, we can be confident that the numbers and views reflected in this survey accurately and precisely reflect that of IAVA’s veteran and military population nationwide. The survey was distributed among IAVA’s veteran and military members over a month long period from October 19th through November 19th. Almost three-fourths of those that started the survey completed it, a testament to the interest and willingness of our members to share their thoughts, opinions, and experiences. An incentive to complete the survey was provided, Southwest flight vouchers, a common practice in survey design. For more on our methodology, see below.*
- 
+The survey alpha test was distributed among IAVA staff members from October 21-25, 2019 and later beta tested among a dozen IAVA leaders and staff members from November 18-29. The final survey was fielded among all IAVA veteran members via email from December 6, 2019 and January 13, 2020. The opportunity to enter a drawing for five Southwest Airlines vouchers to fly anywhere the airline flies domestically in 2020 was provided as an incentive to complete the survey. Social media was utilized to encourage post-9/11 veterans to join IAVA and take the survey. New members were also provided a link in the welcome email received during this time frame.
+<br />
+<br />
+2,254 members began the survey and 1,705 IAVA members completed it, resulting in a 76% completion rate. 
+
+<!--  
 <div id="mapcontain"></div>
 <div id="legendcontain"></div>
 <div id="keycontain">
@@ -3325,7 +3364,7 @@ The margin of error for this survey is +/- 1 percentage points at the 95% confid
  <br /><br />
  *The survey alpha test was distributed among IAVA staff members from July 30 - August 1st and later beta tested among a dozen IAVA leaders and staff members from August 2nd - 6th and October 9th - 15th. The final survey was fielded among all IAVA veteran members from October 19th through November 19th. Emails were sent to IAVA military and veteran members on October 19, 24, November 14, and 16. The opportunity to enter a drawing for five Southwest (SW) Airlines vouchers to fly anywhere SW flies in 2018 was provided as incentive to complete the survey. Social media was utilized to encourage post-9/11 veterans to join IAVA and take the survey. New members were also provided a link in the welcome email received during this time frame. A total of 4,600 participants completed the survey, a record number; 1,586 started the survey but did not complete it, which made for a 74% completion rate. The margin of error for this survey is +/- 1% at the 95% confidence interval. 
 <span> 
-
+-->
      `
   } 
 
@@ -3340,11 +3379,11 @@ The margin of error for this survey is +/- 1 percentage points at the 95% confid
   {
     section: "// AUTHOR ",
      icon: "",
-    header: "Stephanie Mullen is the Research Director for Iraq and Afghanistan Veterans of America.",
+    header: "Ryan Britch serves as Associate of Government Affairs for Iraq and Afghanistan Veterans of America.",
     bkgImage: {
-      small: "40930932920_9a1cd53ecb_z.jpg",
-      medium: "40930932920_9a1cd53ecb_z.jpg",
-      large: "40930932920_9a1cd53ecb_z.jpg"
+      small: "author.png",
+      medium: "author.png",
+      large: "author.png"
     },
     body: `
 
@@ -3354,14 +3393,21 @@ The margin of error for this survey is +/- 1 percentage points at the 95% confid
 
 
 
+Ryan Britch serves as IAVA’s Associate of Government Affairs and specializes on veterans’ housing and health policy issues. Ryan’s efforts in translating IAVA members’ experiences and views based on the annual survey advises the work of the Policy Department on legislative and policy matters.
+ <br /><br />
+
+Ryan spent 8 years as an Infantryman in the Vermont Army National Guard and deployed to Paktia, Afghanistan from 2009-2010. After leaving the military, he joined the Peace Corps and spent over 2 years in The Kingdom of Swaziland working on agricultural, youth, and HIV-AIDS prevention programs. 
+ <br /><br />
+
+In 2017, Ryan had the privilege of presenting his research on using traditional techniques to influence positive masculinity and sexual reproductive health at the International Aids Society Conference in Paris, France. Ryan has contributed to the Military Times and authored a white paper evaluating trends in the rates of veteran suicide and it’s potential causes. 
+ <br /><br />
+
+Ryan is a graduate of the University of Vermont with a B.A in Sociology and is currently a Master of Public Administration candidate at American University.
 
 
-Stephanie Mullen serves as the Research Director for IAVA, leading the annual member survey and additional research projects. As part of the Policy Department, Steph translates IAVA members’ experiences and views based on surveys and polling to advise the Policy Department on legislative and policy positions.
-<br /><br />
-  <img src="assets/images/IMG_2990.jpg" border="0" alt="Jaqueline Maffucci, Ph.D." align="right" style="height:340px;margin:12px; ">  
 
-Most recently, Steph has represented IAVA for a panel discussion on PTSD following a screening of the film, Leave No Trace. Steph is a recurring guest on Connecting Vets where she has discussed topics such as suicide prevention and mental health, burn pits, and Department of Veterans Affairs reforms. Before joining the IAVA team, Stephanie served as National Programs Manager for American Veterans, where she kept AMVETS’ national programs running on time and on budget. Stephanie is a graduate of Duquesne University in Pittsburgh, PA with a BA in International Relations and a MA in Public Policy and currently part of the 2018 Center for Strategic and International Studies Accelerator Series for rising leaders.
 
+ 
 
  
 
@@ -3391,13 +3437,11 @@ Most recently, Steph has represented IAVA for a panel discussion on PTSD followi
     body: `
 <div class="sectionledeB">
 
- Thank you to all of our IAVA Members who participated in this survey. Thank you to Qualtrics for providing the platform to IAVA for survey fielding. 
-<br /><br />
-A special thank you to George Washington Masters in Public Policy program for their counsel on questions and language. Especially Shelley, Amanda, Sara, Max, and Matthew's work as part of their Capstone Project. 
-<br /><br />
-This project would not have been possible without the creative vision and talent of Eric Schoenborn. Thank you for all your work and sharing your talent to make this project a success.
-<br /><br />
-And thank you to the contributors below, without whom this work would not be possible:
+Thank you to all of our IAVA Members who participated in this survey. Thank you to Qualtrics for providing the platform to IAVA for survey fielding. 
+ <br /><br />
+
+This project would not have been possible without the creative vision and talent of Eric Cade Schoenborn. Thank you for all your work and sharing your talent to make this project a success. 
+
 
  <br /><br />
  
@@ -3536,12 +3580,12 @@ Anonymous
     body: `
  
 <div class="sectionledeB">
-
+<!-- 
  <h5>
 Check out the results of our <a href="https://iava.org/2017survey" target="_blank">last Member Survey here</a> and <a href="https://iava.org/research-reports/" target="_blank">all our survey results and polls here</a>.
 </h5>
-
-IAVA relies on the generosity of our corporate and foundation partnerships and the support of individual contributors to amass the resources necessary to fulfill our mission.  This Member Survey is the most comprehensive non governmental survey of post-9/11 veterans and is an important snapshots of the veteran community that no other organization has the ability to replicate.  IAVA is the leading voice advocating on behalf of post-9/11 veterans because our community takes the time to share their point of view and they trust IAVA to execute on their behalf.   Help us continue this vital work, by donating to support IAVA’s mission today!
+ -->
+IAVA relies on the generosity of our corporate and foundation partnerships and the support of individual contributors to amass the resources necessary to fulfill our mission. This Member Survey is the most comprehensive non governmental survey of post-9/11 veterans and is an important snapshot of the veteran community that no other organization has the ability to replicate. IAVA is the leading voice advocating on behalf of post-9/11 veterans because our community takes the time to share their point of view and they trust IAVA to execute on their behalf. Help us continue this vital work, by donating to support IAVA’s mission today! 
 <br /><br />
 
  <button class="mdc-button mdc-button--raised" data-demo-no-js="" style="min-width: 236px;width:30%;font-size:135%;font-weight:800;margin-bottom:6px; padding:6px; " onclick="window.open('https://iava.org/#join?tfa_SourceTag=2018%20Non-Member%20Survey')">
@@ -3563,8 +3607,9 @@ Join IAVA
 <br />Fax 212-982-8645
 <br /><br />
 <h5>WASHINGTON, D.C. OFFICE</h5>
- 777 6th St. NW
-<br />11th Floor 
+ 660 North Capitol St. NW 
+
+<br />7th Floor 
 <br />Washington, D.C. 20001 
 <br />Phone 202-544-7692
 <br />Fax 202-544-7694
