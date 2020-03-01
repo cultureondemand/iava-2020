@@ -142,8 +142,10 @@ Navy Veteran
   <span class="issuesCsm">
 86% Report exposure to burn pits or other toxins
 </span><br />
+<span class="issuesCsm">
 88% Believe they may be or are already experiencing symptoms from burn pits or toxic exposure
 </span><br />
+<span class="issuesCsm">
 53% of those who have been exposed are registered in the burn pit registry
 </span>
 <br /><br />
@@ -155,8 +157,10 @@ Navy Veteran
  <span class="issuesCsm">
 75% Of IAVA members or their dependents have used or are currently using the post-9/11 GI Bill 
 </span><br />
+<span class="issuesCsm">
 66% Of IAVA members or their dependents have graduated while in school on the GI Bill
 </span><br />
+<span class="issuesCsm">
 87% Agree that the post-9/11 GI Bill is important for reintegration to civilian life
 </span>
 <br /><br />
@@ -168,8 +172,10 @@ Navy Veteran
  <span class="issuesCsm">
 88% Support researching cannabis for medicinal purposes
 </span><br />
+<span class="issuesCsm">
 81% Support the legalization of medical cannabis
 </span><br />
+<span class="issuesCsm">
 22% Report using cannabis for medicinal use
  </span>
 <br /><br />
@@ -181,8 +187,10 @@ Navy Veteran
  <span class="issuesCsm">
 83% Of IAVA members say that it is important that IAVA focus on the issues impacting women veterans
 </span><br />
+<span class="issuesCsm">
 46% Believe that women's advancement in the military has been limited by past restrictions on women in combat
 </span><br />
+<span class="issuesCsm">
 14% Of female IAVA members report feeling unsafe when seeking healthcare in VA facilities
 </span>
 
@@ -217,12 +225,6 @@ Navy Veteran
     body: `
 
  
- 
-
- 
-  
-   
-
  
  
  
