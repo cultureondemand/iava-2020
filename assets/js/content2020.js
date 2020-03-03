@@ -3458,6 +3458,7 @@ The survey alpha test was distributed among IAVA staff members from October 21-2
 <div class="sectionlede">
 
 
+<img src="assets/images/bkg/author.png" border="0" alt="Ryan Britch" align="right" style="height:340px;margin:12px; ">
 
 
 Ryan Britch serves as IAVA’s Associate of Government Affairs and specializes on veterans’ housing and health policy issues. Ryan’s efforts in translating IAVA members’ experiences and views based on the annual survey advises the work of the Policy Department on legislative and policy matters.
