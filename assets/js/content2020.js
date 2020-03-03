@@ -2739,9 +2739,9 @@ Navy Veteran
         icon: "",
   header: "Over 52,000 servicemembers have been wounded in action in Iraq and Afghanistan according to the Department of Defense. Continuing issues such as shrapnel wounds, second and third degree burns, limb loss, musculoskeletal damage, traumatic brain injury and post traumatic stress are of great concern for the post-9/11 generation.",
     bkgImage: {
-      small: "49065817227_a8d2a3897b_c.jpg",
-      medium: "49065817227_a8d2a3897b_c.jpg",
-      large: "49065817227_a8d2a3897b_c.jpg"
+      small: "16377817607_44112eff83_c.jpg",
+      medium: "16377817607_44112eff83_c.jpg",
+      large: "16377817607_44112eff83_c.jpg"
     },
     body:`
 
