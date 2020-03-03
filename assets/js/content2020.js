@@ -1979,13 +1979,14 @@ Navy Veteran
   
   
   
+
+<div class="numerosB-h">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg111" width="260" height="150"></svg>
+</div>
+<div class="numerosB-words-h">report having a service-connected disability rating from VA.</div>
   
-
-<h5>Do you have a service-connected disability rating from VA?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg111" height="75"></svg></div>
-<div id="legendrow111" class="legendrow"></div>
-
- 
+  
+  
   
 <h5>How long did it take for the VA to notify you of a decision on your claim?</h5>
 <div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg112" height="500"></svg></div>
@@ -2035,7 +2036,6 @@ Navy Veteran
  <span class="barlabel">GI Bill/Education Benefits*</span> 
  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg118" height="75"></svg></div>
 <div id="legendrow118" class="legendrow"></div>
-* Responses collected over time frame of VA GI Bill payment scandal around Veterans Day 2018.
  <br />
  
  
@@ -2455,16 +2455,10 @@ Navy Veteran
 
 
  <h5>Do you currently use tobacco products?</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg151" height="500"></svg></div>
- <br />
 
 
-
-
-
- <br />
-
-
+ <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg151" height="75"></svg></div>
+<div id="legendrow152" class="legendrow"></div>
  
 
 
@@ -2481,8 +2475,9 @@ Navy Veteran
 
 
 <h5>What form of tobacco products have you used?</h5>
- <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg152" height="75"></svg></div>
-<div id="legendrow152" class="legendrow"></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg152" height="500"></svg></div>
+ <br />
+
 
 
 
@@ -3669,15 +3664,20 @@ Join IAVA
 
  
 
+  
+
+
 
  
 <h5>NATIONAL HEADQUARTERS</h5>
  85 Broad St. 
-<br />16th Floor 
+<br />18th Floor 
 <br />New York, NY 10004 
 <br />Phone 212-982-9699
 <br />Fax 212-982-8645
 <br /><br />
+
+
 <h5>WASHINGTON, D.C. OFFICE</h5>
  660 North Capitol St. NW 
 

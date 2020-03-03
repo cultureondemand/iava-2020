@@ -2050,10 +2050,10 @@ var dummydata_challenges = [
 //// experience any challenges related to your military service
 
 var data_challenges_current = [
-{a:"Many",b:40},
-{a:"Some",b:39},
-{a:"Few",b:15},
-{a:"None",b:5}
+{a:"Many",b:22},
+{a:"Some",b:41},
+{a:"Few",b:23},
+{a:"None",b:15}
 ];
 
 var dummydata_challenges_current = [
@@ -3328,33 +3328,33 @@ var numero_health_taking = [6];
 
 var data_health_therapies = [
 {a:"Natural products*",b:56}, 
-{a:"Meditation",b:37},
 {a:"Chiropractic Care",b:39},
-{a:"Yoga",b:25},
+{a:"Meditation",b:37},
 {a:"Nature/outdoor adventure therapies",b:27},
+{a:"Yoga",b:25},
 {a:"Acupuncture",b:23},
 {a:"Cannabis",b:21}, 
 {a:"Special diets",b:20}, 
 {a:"Music or Art Therapy",b:18},
+{a:"Other",b:15},
 {a:"Animal-assisted therapy",b:9},
-{a:"Service animal",b:9}, 
-{a:"Other",b:15}
+{a:"Service animal",b:9}
 ];
 
 
 var dummydata_health_therapies = [
 {a:"Natural products*",b:37}, 
-{a:"Meditation",b:26},
 {a:"Chiropractic Care",b:25},
-{a:"Yoga",b:18},
+{a:"Meditation",b:26},
 {a:"Nature/outdoor adventure therapies",b:18},
+{a:"Yoga",b:18},
 {a:"Acupuncture",b:15},
 {a:"Cannabis",b:14}, 
 {a:"Special diets",b:13}, 
 {a:"Music or Art Therapy",b:13},
+{a:"Other",b:9},
 {a:"Animal-assisted therapy",b:6},
-{a:"Service animal",b:6}, 
-{a:"Other",b:9}
+{a:"Service animal",b:6}
 ];
 ////
 //
@@ -5784,11 +5784,11 @@ var dummydata_va_rating = [
  
 
 var data_va_claim_long = [
-{a:"125 days or less",b:25},
-{a:"126-180 days",b:22},
-{a:"181-365 days",b:23},
-{a:"Over 365 days",b:27},
-{a:"My claim is still pending",b:3} 
+{a:"125 days or less",b:14},
+{a:"126-180 days",b:20},
+{a:"181-365 days",b:16},
+{a:"Over 365 days",b:28},
+{a:"My claim is still pending",b:21} 
 ];
 
 
@@ -5872,11 +5872,11 @@ var dummydata_va_appeal = [
  
 
 var data_va_decision = [
-{a:"125 days or less",b:14},
-{a:"126-180 days",b:20},
-{a:"181-365 days",b:16},
-{a:"Over 365 days",b:28},
-{a:"My claim is still pending",b:21} 
+{a:"125 days or less",b:25},
+{a:"126-180 days",b:22},
+{a:"181-365 days",b:23},
+{a:"Over 365 days",b:27},
+{a:"My claim is still pending",b:3} 
 ];
 
 
@@ -6203,9 +6203,9 @@ var dummydata_gi_exp = [
   
 
 var data_gi_imp_recruit = [
-{a:"Extremely important",b:46},
+{a:"Extremely important",b:47},
 {a:"Very important",b:32},
-{a:"Moderately important",b:16},
+{a:"Moderately important",b:14},
 {a:"Slightly important",b:3},
 {a:"Not at all important",b:3}
 ];
@@ -6222,11 +6222,11 @@ var dummydata_gi_imp_recruit = [
 
 
 var data_gi_imp_retent = [
-{a:"Extremely important",b:35},
-{a:"Very important",b:27},
-{a:"Moderately important",b:24},
-{a:"Slightly important",b:7},
-{a:"Not at all important",b:7}
+{a:"Extremely important",b:39},
+{a:"Very important",b:28},
+{a:"Moderately important",b:21},
+{a:"Slightly important",b:5},
+{a:"Not at all important",b:6}
 ];
  
 var dummydata_gi_imp_retent = [
@@ -6240,11 +6240,11 @@ var dummydata_gi_imp_retent = [
 
 
 var data_gi_imp_trans = [
-{a:"Extremely important",b:62},
-{a:"Very important",b:25},
+{a:"Extremely important",b:60},
+{a:"Very important",b:27},
 {a:"Moderately important",b:9},
 {a:"Slightly important",b:2},
-{a:"Not at all important",b:2}
+{a:"Not at all important",b:1}
 ];
  
 var dummydata_gi_imp_trans = [
@@ -7951,8 +7951,8 @@ startnumerosB(numero_va_mission_familiar);
 
 
 
-//////startnumerosC(numero_va_rating);
-drawStackChart(data_va_rating);
+startnumerosB(numero_va_rating);
+//////drawStackChart(data_va_rating);
 
 
 
@@ -8122,9 +8122,9 @@ drawHBarChart(data_alcohol_twohour);
 
 
 drawStackChart(data_tobacco);
+drawStackChart(data_tobacco_use);
 drawHBarChart(data_tobacco_type);
  
-drawStackChart(data_tobacco_use);
 drawHBarChart(data_tobacco_often);
 
    
@@ -9034,7 +9034,15 @@ function showTitle14(){
 iii=111;
 
 
-   drawStackChart(data_va_rating,"svg111");
+  //// drawStackChart(data_va_rating,"svg111");
+
+
+
+
+startnumerosB(numero_va_rating,"svg111");
+//////drawStackChart(data_va_rating);
+
+
 
 
   changeHBarChart(data_va_decision,"svg112");
@@ -9199,9 +9207,9 @@ changeHBarChart(data_alcohol_twohour,"svg149");
 
 
 drawStackChart(data_tobacco,"svg150");
-changeHBarChart(data_tobacco_type,"svg151");
  
-drawStackChart(data_tobacco_use,"svg152");
+drawStackChart(data_tobacco_use,"svg151");
+changeHBarChart(data_tobacco_type,"svg152");
 changeHBarChart(data_tobacco_often,"svg153");
 
 
@@ -10099,15 +10107,15 @@ startnumerosB(numero_va_mission_familiar,"svg102");
 
   changeHBarChart(data_va_choice_exp,"svg104");
 
-  drawStackChart(dummydata_va_non_understand,"svg105");
+  drawStackChart(data_va_non_understand,"svg105");
 
-  drawStackChart(dummydata_va_non_quality,"svg106");
+  drawStackChart(data_va_non_quality,"svg106");
 
-  drawStackChart(dummydata_va_scheduling_non_mental,"svg107");
+  drawStackChart(data_va_scheduling_non_mental,"svg107");
 
-  drawStackChart(dummydata_va_scheduling_non_prim,"svg108");
+  drawStackChart(data_va_scheduling_non_prim,"svg108");
 
-  drawStackChart(dummydata_va_scheduling_non_spec,"svg109");
+  drawStackChart(data_va_scheduling_non_spec,"svg109");
 
    changeHBarChart(data_va_non_confident,"svg110");
 
@@ -10121,7 +10129,9 @@ startnumerosB(numero_va_mission_familiar,"svg102");
 iii=111;
 
 
-   drawStackChart(data_va_rating,"svg111");
+startnumerosB(numero_va_rating,"svg111");
+//////drawStackChart(data_va_rating);
+
 
 
   changeHBarChart(data_va_decision,"svg112");
@@ -10273,9 +10283,9 @@ changeHBarChart(data_alcohol_twohour,"svg149");
 
 
 drawStackChart(data_tobacco,"svg150");
-changeHBarChart(data_tobacco_type,"svg151");
  
-drawStackChart(data_tobacco_use,"svg152");
+drawStackChart(data_tobacco_use,"svg151");
+changeHBarChart(data_tobacco_type,"svg152");
 changeHBarChart(data_tobacco_often,"svg153");
 
 
