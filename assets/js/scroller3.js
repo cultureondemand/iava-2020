@@ -59,6 +59,7 @@ function scroller() {
       position();
    ///  timer.stop();
        return true;
+        console.log(pos);
 
     });
   }
@@ -70,6 +71,9 @@ function scroller() {
    *
    */
   function resize() {
+
+            console.log("I've been resized");
+
     // sectionPositions will be each sections
     // starting position relative to the top
     // of the first section.
@@ -109,8 +113,9 @@ function scroller() {
   
  
 
-    var pos = window.pageYOffset - 66 - containerEnd;
+    var pos = window.pageYOffset - 96 - containerEnd;
 
+        console.log(pos);
 
 
     var sectionIndex = d3.bisect(sectionPositions, pos);
