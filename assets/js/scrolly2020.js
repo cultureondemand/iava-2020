@@ -250,10 +250,9 @@ var dummydata_religion = [
 
 var data_gender = [
 {a:"Male",b:86},
-{a:"Female",b:11},
-{a:"Gender Variant/Nonconforming/Transgender",b:1},
-{a:"Other",b:1},
-{a:"Prefer Not To Answer",b:1}
+{a:"Female",b:13},
+{a:"Non-Binary",b:.5},
+{a:"Prefer Not To Answer",b:.5}
 ];
 
 
@@ -261,8 +260,7 @@ var data_gender = [
 var dummydata_gender = [
 {a:"Male",b:1},
 {a:"Female",b:1},
-{a:"Gender Variant/Nonconforming/Transgender",b:1},
-{a:"Other",b:1},
+{a:"Non-Binary",b:1},
 {a:"Prefer Not To Answer",b:95}
 ];
 
@@ -568,9 +566,9 @@ var dummydata_interact = [
 
  
 var data_interact = [
-{a:"Very important",b:52},
-{a:"Moderately important",b:26},
-{a:"Not important",b:4}
+{a:"Very important",b:45},
+{a:"Moderately important",b:45},
+{a:"Not important",b:10}
 ];
 
 
@@ -967,11 +965,11 @@ var dummydata_civic_border = [
 
 
 var data_civic_wall = [
-{a:"Strongly agree",b:31},
-{a:"Somewhat agree",b:19},
-{a:"Neutral",b:9},
-{a:"Somewhat disagree",b:10},
-{a:"Strongly disagree",b:31}
+{a:"Strongly agree",b:25},
+{a:"Somewhat agree",b:15},
+{a:"Neutral",b:7},
+{a:"Somewhat disagree",b:8},
+{a:"Strongly disagree",b:45}
 ];
 
 
@@ -3543,14 +3541,16 @@ var dummydata_burn_symptoms = [
 //// burn pits documented
 
 var data_burn_discuss = [
-{a:"Yes",b:49},
-{a:"No",b:51}
+{a:"Yes",b:29},
+{a:"No",b:59},
+{a:"Unsure",b:12}
 ];
 
 
 var dummydata_burn_discuss = [
 {a:"Yes",b:51},
-{a:"No",b:21}
+{a:"No",b:21},
+{a:"Unsure",b:12}
 ];
    
    
@@ -4460,8 +4460,8 @@ var data_wom_suicidal = [
 
 
 var dummydata_wom_suicidal = [
-{a:"Males",b:40},
-{a:"Females",b:31}
+{a:"Males",b:43},
+{a:"Females",b:48}
 ];
 
  
@@ -4477,8 +4477,8 @@ var data_wom_injury = [
 
 
 var dummydata_wom_injury = [
-{a:"Males",b:40},
-{a:"Females",b:31}
+{a:"Males",b:59},
+{a:"Females",b:68}
 ];
 
  
@@ -4550,9 +4550,9 @@ var dummydata_wom_respected = [
 ////////////////////
 
 var data_wom_combat = [
-{a:"Yes",b:40},
-{a:"Maybe",b:31}, 
-{a:"No",b:29}
+{a:"Yes",b:46},
+{a:"Maybe",b:24}, 
+{a:"No",b:30}
 ];
 
 
@@ -4567,9 +4567,9 @@ var dummydata_wom_combat = [
  //// 
 
 var data_wom_combat_m = [
-{a:"Yes",b:37},
-{a:"Maybe",b:33}, 
-{a:"No",b:30}
+{a:"Yes",b:41},
+{a:"Maybe",b:26}, 
+{a:"No",b:33}
 ];
 
 
@@ -4586,9 +4586,9 @@ var dummydata_wom_combat_m = [
 
 
 var data_wom_combat_f = [
-{a:"Yes",b:64},
-{a:"Maybe",b:23}, 
-{a:"No",b:13}
+{a:"Yes",b:75},
+{a:"Maybe",b:13}, 
+{a:"No",b:12}
 ];
 
 
@@ -4771,9 +4771,9 @@ var data_wom_impact = [
 ];
 
 var dummydata_wom_impact = [
-{a:"I would have been more likely to report",b:51},
-{a:"It would not have made a difference in my decision",b:46}, 
-{a:"I would have been less likely to report",b:3} 
+{a:"I would have been more likely to report",b:44},
+{a:"It would not have made a difference in my decision",b:49}, 
+{a:"I would have been less likely to report",b:7} 
 ];
 
 

@@ -896,19 +896,7 @@ Navy Veteran
 </div>
   
  
-  <h5>Top 5 mediums IAVA members get their news through:</h5>
-  <span class="issuesBsm" style="height:6em; ">
-1. Websites/Apps
-  <br />
- 2. Online Newspapers
-<br />
- 3. Cable Television
-<br />
- 4. Social media
-<br />
- 5. Radio
-  </span>
-  <br />
+  
   <br />
 
  
