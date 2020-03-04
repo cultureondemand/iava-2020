@@ -353,7 +353,7 @@ Navy Veteran
 
 
 
- <h5>Number of Deployments</h5>
+ <h5>Number of Deployments:</h5>
 
 
 
@@ -2575,7 +2575,7 @@ Navy Veteran
 <div class="numerosB-h">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg154" width="260" height="150"></svg>
 </div>
-<div class="numerosB-words-h">own personal firearms</div>
+<div class="numerosA-words-h">own personal firearms</div>
   <br />
  
  
@@ -2661,7 +2661,7 @@ Navy Veteran
 <div class="numerosA-h">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg163" width="260" height="150"></svg>
 </div>
-<div class="numerosB-words-h">have a service-connected mental health injury.</div>
+<div class="numerosA-words-h">have a service-connected mental health injury.</div>
   
  
 <div class="numeros-hero">
@@ -2673,7 +2673,7 @@ Navy Veteran
 <div class="numerosB-h">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg164" width="260" height="150"></svg>
 </div>
-<div class="numerosB-words-h">are seeking care for their service-connected mental health injury.</div>
+<div class="numerosA-words-h">are seeking care for their service-connected mental health injury.</div>
   
  
 <div class="numeros-hero">
@@ -2814,7 +2814,7 @@ Navy Veteran
 <div class="numerosB-h">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg171" width="260" height="150"></svg>
 </div>
-<div class="numerosB-words-h">have experienced a service-connected injury or illness.</div>
+<div class="numerosA-words-h">have experienced a service-connected injury or illness.</div>
    
 
 
