@@ -355,15 +355,45 @@ Navy Veteran
 
  <h5>Number of Deployments</h5>
 
-<div class="barlabel">Afghanistan</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg10" height="500"></svg></div>
- </div>
 
-<div class="barlabel">Iraq</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg11" height="500"></svg></div>
- </div>
 
-<div class="barlabel">Other Combat Areas</div><div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg12" height="500"></svg></div>
- </div>
+
+
+<div class="donut">
+<h5>Afghanistan</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg10" width="310" height="396">
  
+</svg>
+
+
+
+</div>
+
+ 
+
+
+<div class="donut">
+<h5>Iraq</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg11" width="310" height="396"></svg>    
+</div>
+
+
+<div class="donut">
+<h5>Other Combat Areas</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg12" width="310" height="396"></svg>    
+</div>
+
+<br />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -705,7 +735,7 @@ Navy Veteran
 
 
 
-<span class="barlabel">Do you support or oppose the impeachment of President Trump?</span> 
+<h5>Do you support or oppose the impeachment of President Trump?</h5> 
 <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg25" height="75"></svg></div>
 
 <div id="legendrow25" class="legendrow">
@@ -719,8 +749,8 @@ Navy Veteran
 
 
 
-<span class="barlabel">As of July 2019, there were over 6,000 military personnel deployed to the Mexican border. What is your opinion on the deployment of U.S. servicemembers to the border?
-</span> 
+<h5>As of July 2019, there were over 6,000 military personnel deployed to the Mexican border. What is your opinion on the deployment of U.S. servicemembers to the border?
+</h5> 
 <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg26" height="75"></svg></div>
 
 <div id="legendrow26" class="legendrow">
@@ -732,8 +762,8 @@ Navy Veteran
 
 
 
-<span class="barlabel">Earlier this year, $3.6 billion in military construction funds were diverted to pay for the U.S./Mexico border wall. What is your opinion of the use of military funds for this purpose?
-</span> 
+<h5>Earlier this year, $3.6 billion in military construction funds were diverted to pay for the U.S./Mexico border wall. What is your opinion of the use of military funds for this purpose?
+</h5> 
 <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg27" height="75"></svg></div>
 
 <div id="legendrow27" class="legendrow">
@@ -743,8 +773,8 @@ Navy Veteran
 
 
 
-<span class="barlabel">There is currently a discretionary program (Parole in Place) that temporarily protects non-citizen immediate family members of active-duty troops from being deported in one-year increments. What is your opinion of this policy?
-</span> 
+<h5>There is currently a discretionary program (Parole in Place) that temporarily protects non-citizen immediate family members of active-duty troops from being deported in one-year increments. What is your opinion of this policy?
+</h5> 
 <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg28" height="75"></svg></div>
 
 <div id="legendrow28" class="legendrow">
@@ -754,8 +784,8 @@ Navy Veteran
 
 
 
-<span class="barlabel">A new immigration policy withholds automatic citizenship for children born overseas to non-citizen U.S. servicemembers. What is your opinion of this policy?
-</span> 
+<h5>A new immigration policy withholds automatic citizenship for children born overseas to non-citizen U.S. servicemembers. What is your opinion of this policy?
+</h5> 
 <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg29" height="75"></svg></div>
 
 <div id="legendrow29" class="legendrow">
@@ -2682,6 +2712,9 @@ Navy Veteran
 
 
 
+  <br />
+
+   
 
 
 

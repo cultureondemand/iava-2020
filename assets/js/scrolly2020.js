@@ -7533,6 +7533,9 @@ drawHBarChart(data_income);
 
 
 
+
+
+
 drawStackChart(data_branch);
 /////changePieChart(data_branch,"svg1");
 
@@ -7542,14 +7545,14 @@ drawStackChart(data_officer);
 
 
 /////// number of deployments
-drawHBarChart(data_m);
+drawPieChart(data_m);
 
-drawHBarChart(data_n);
+drawPieChart(data_n);
 
 //////////////
 /// toook out community 2020
 
-drawHBarChart(data_o);
+drawPieChart(data_o);
 /*
 
 changeHBarChart(data_o,"svg14");
@@ -8530,14 +8533,14 @@ drawStackChart(data_officer,"svg9");
 
 
 /////// number of deployments
-changeHBarChart(data_m,"svg10");
+changePieChart(data_m,"svg10");
 
-changeHBarChart(data_n,"svg11");
+changePieChart(data_n,"svg11");
 
 //////////////
 /// toook out community 2020
 
-changeHBarChart(data_o,"svg12");
+changePieChart(data_o,"svg12");
 /*
 
 changeHBarChart(data_o,"svg14");
@@ -9665,6 +9668,7 @@ var containerA=document.getElementById("container-1");containerA.setAttribute("s
  
 
 
+
 iii=8;
 
 
@@ -9681,14 +9685,14 @@ drawStackChart(data_officer,"svg9");
 
 
 /////// number of deployments
-changeHBarChart(data_m,"svg10");
+changePieChart(data_m,"svg10");
 
-changeHBarChart(data_n,"svg11");
+changePieChart(data_n,"svg11");
 
 //////////////
 /// toook out community 2020
 
-changeHBarChart(data_o,"svg12");
+changePieChart(data_o,"svg12");
 /*
 
 changeHBarChart(data_o,"svg14");
