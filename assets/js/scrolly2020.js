@@ -1572,11 +1572,11 @@ var dummydata_deport_know = [
 /////
 
 var data_iraq_worth = [
-{a:"Not worth it",b:27},
-{a:"Somewhat not worth it",b:11},
+{a:"Not worth it",b:21},
+{a:"Somewhat not worth it",b:28},
 {a:"Neither worth it nor not worth it",b:13},
-{a:"Somewhat worth it",b:28},
-{a:"Worth it",b:21}
+{a:"Somewhat worth it",b:11},
+{a:"Worth it",b:27}
 ];
 
 
@@ -1594,11 +1594,11 @@ var dummydata_iraq_worth = [
 ////////
 
 var data_afghan_worth = [
-{a:"Worth it",b:30},
-{a:"Somewhat worth it",b:32},
-{a:"Neither worth it nor not worth it",b:10},
-{a:"Somewhat not worth it",b:11},
-{a:"Not worth it",b:17}
+{a:"Worth it",b:28},
+{a:"Somewhat worth it",b:34},
+{a:"Neither worth it nor not worth it",b:12},
+{a:"Somewhat not worth it",b:10},
+{a:"Not worth it",b:16}
 ];
 
 
@@ -4531,8 +4531,8 @@ var data_wom_respected = [
 
 
 var dummydata_wom_respected = [
-{a:"Males",b:40},
-{a:"Females",b:31}
+{a:"Males",b:15},
+{a:"Females",b:11}
 ];
 
  
@@ -7881,7 +7881,7 @@ drawStackChart(data_va_experience);
 
  startnumerosC(numero_2019_care_good);
 
- startnumerosB(numero_2019_care_good);
+ startnumerosB(numero_2017_care_good);
 
 
 ////////
@@ -8306,7 +8306,7 @@ startnumerosA(numero_lending);
 startnumerosB(numero_perm);
 
 /// couchsurfing
-startnumerosB(numero_perm);
+startnumerosB(numero_tran_temp);
 
 ////// 
 /// drawStackChart(data_tran_temp,"svg203");
@@ -8619,7 +8619,7 @@ startnumerosA(numeros_civic_vol_more,"svg23");
 /// changed 2020
 //////drawStackChart(data_reg,"svg28");
 
-drawHBarChart(data_civic_issues,"svg24");
+changeHBarChart(data_civic_issues,"svg24");
 
  
 
@@ -8682,7 +8682,7 @@ drawStackChart(data_selective_end,"svg30");
 
 
  
-drawHBarChart(data_deport,"svg32");
+changeHBarChart(data_deport,"svg32");
 
 
 
@@ -8957,7 +8957,7 @@ drawStackChart(data_va_experience,"svg88");
 
  startnumerosC(numero_2019_care_good,"svg89");
 
- startnumerosB(numero_2019_care_good,"svg90");
+ startnumerosB(numero_2017_care_good,"svg90");
 
 
 ////////
@@ -9382,7 +9382,7 @@ startnumerosA(numero_lending,"svg195");
 startnumerosB(numero_perm,"svg198");
 
 /// couchsurfing
-startnumerosB(numero_perm,"svg199");
+startnumerosB(numero_tran_temp,"svg199");
 
 ////// 
 /// drawStackChart(data_tran_temp,"svg203");
@@ -9758,7 +9758,7 @@ startnumerosA(numeros_civic_vol_more,"svg23");
 /// changed 2020
 //////drawStackChart(data_reg,"svg28");
 
-drawHBarChart(data_civic_issues,"svg24");
+changeHBarChart(data_civic_issues,"svg24");
 
  
 
@@ -10059,7 +10059,7 @@ drawStackChart(data_va_experience,"svg88");
 
  startnumerosC(numero_2019_care_good,"svg89");
 
- startnumerosB(numero_2019_care_good,"svg90");
+ startnumerosB(numero_2017_care_good,"svg90");
 
 
 ////////
@@ -10445,7 +10445,7 @@ startnumerosA(numero_lending,"svg195");
 startnumerosB(numero_perm,"svg198");
 
 /// couchsurfing
-startnumerosB(numero_perm,"svg199");
+startnumerosB(numero_tran_temp,"svg199");
 
 ////// 
 /// drawStackChart(data_tran_temp,"svg203");

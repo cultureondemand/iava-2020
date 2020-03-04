@@ -2033,7 +2033,7 @@ Navy Veteran
 <div id="legendrow117" class="legendrow"></div>
 
  
- <span class="barlabel">GI Bill/Education Benefits*</span> 
+ <span class="barlabel">GI Bill/Education Benefits</span> 
  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg118" height="75"></svg></div>
 <div id="legendrow118" class="legendrow"></div>
  <br />
