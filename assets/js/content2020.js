@@ -3137,7 +3137,7 @@ Navy Veteran
 <div class="numerosB-h">
 <svg xmlns="http://www.w3.org/2000/svg" id="svg198" width="260" height="150"></svg>
 </div>
-<div class="numerosB-words-h">Believe they may have or did experience predatory loan practices, described as deceptive, unfair, or fraudulent practices.</div>
+<div class="numerosB-words-h">report not having a permanent place to live when they transitioned out of the military.</div>
   
 
 
@@ -3170,7 +3170,7 @@ Navy Veteran
   
 <span class="barlabel">How long were you without a permanent place to live?</span>
  <div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg200" height="75"></svg></div>
-<div id="legendrow203" class="legendrow"></div>
+<div id="legendrow200" class="legendrow"></div>
 
    
   <br />
